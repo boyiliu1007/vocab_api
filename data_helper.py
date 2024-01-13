@@ -1,4 +1,13 @@
 import pandas as pd
+import os
+from dotenv import load_dotenv
+import requests
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the API key using the variable name defined in .env
+api_key = os.getenv("Dictionary_API_key")
 
 WORD_FILE = './data/word.json'
 
@@ -37,3 +46,21 @@ def get_random_words():
     except Exception as e:
         print(f'Error: {e}')
         return None
+    
+def get_example(word):
+    try:
+        API_URL = f'https://www.dictionaryapi.com/api/v3/references/collegiate/json/{word}?key={api_key}'
+        response = requests.get(API_URL)
+
+        if response.status_code == 200:
+            # Parse the response content (assuming it's JSON in this example)
+            data = response.json()
+            return data
+        else:
+            print(f"Error: {response.status_code}")
+            print(response.text)  # Print the error message or response content
+
+    except Exception as e:
+        print(f'Error: {e}')
+        return None
+        
