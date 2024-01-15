@@ -8,9 +8,9 @@ def get_random_words_route():
     word_list = get_random_words()
     return jsonify(word_list)
 
-@app.route("/api/get-example/<word>", methods=["GET"])
-def get_example_route(word):
-    example = get_example(word)
+@app.route("/api/get-example/<word>/<ptos>", methods=["GET"])
+def get_example_route(word, ptos):
+    example = get_example(word, ptos)
     return jsonify(example)
 
 if __name__ == "__main__":

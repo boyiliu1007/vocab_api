@@ -1,0 +1,1232 @@
+[
+    {
+        "date": "before 12th century{ds||2|b|}",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a speech sound or series of speech sounds that symbolizes and communicates a meaning usually without being divisible into smaller units capable of independent use"
+                                            ]
+                                        ],
+                                        "sn": "1 a (1)"
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the entire set of linguistic forms produced by combining a single base with various inflectional elements without change in the part of speech elements"
+                                            ]
+                                        ],
+                                        "sn": "(2)"
+                                    }
+                                ]
+                            ]
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a written or printed character or combination of characters representing a spoken word "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "the number of {wi}words{/wi} to a line"
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "sometimes used with the first letter of a real or pretended taboo word prefixed as an often humorous euphemism "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "aq": {
+                                                                        "source": "{it}Time{/it}"
+                                                                    },
+                                                                    "t": "the first man to utter the f {wi}word{/wi} on British TV"
+                                                                },
+                                                                {
+                                                                    "aq": {
+                                                                        "auth": "Erma Bombeck"
+                                                                    },
+                                                                    "t": "we were not afraid to use the d {wi}word{/wi} and talk about death"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "b (1)"
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}any segment of written or printed discourse ordinarily appearing between spaces or between a space and a punctuation mark"
+                                            ]
+                                        ],
+                                        "sn": "(2)"
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a brief remark or conversation "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "would like to have a {wi}word{/wi} with you"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sn": "2 a"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}something that is said"
+                                    ]
+                                ],
+                                "sn": "b"
+                            }
+                        ],
+                        [
+                            "sen",
+                            {
+                                "ins": [
+                                    {
+                                        "if": "words",
+                                        "spl": "plural"
+                                    }
+                                ],
+                                "sn": "c"
+                            }
+                        ],
+                        [
+                            "pseq",
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}{sx|talk||}, {sx|discourse||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "putting one's feelings into {wi}words{/wi}"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "(1)"
+                                    }
+                                ],
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}the text of a vocal musical composition"
+                                            ]
+                                        ],
+                                        "sn": "(2)"
+                                    }
+                                ]
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|order||}, {sx|command||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "don't move till I give the {wi}word{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sn": "3"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|news||}, {sx|information||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "sent {wi}word{/wi} that he would be late"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sn": "4 a"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|rumor||}"
+                                    ]
+                                ],
+                                "sn": "b"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|promise||}, {sx|declaration||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "kept her {wi}word{/wi}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "sn": "5"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a quarrelsome utterance or conversation "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "usually used in plural "
+                                                ],
+                                                [
+                                                    "vis",
+                                                    [
+                                                        {
+                                                            "t": "they had {wi}words{/wi} and parted"
+                                                        }
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                "sn": "6"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sen",
+                            {
+                                "lbs": [
+                                    "often capitalized"
+                                ],
+                                "sn": "7"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the expressed or manifested mind and will of God"
+                                    ]
+                                ],
+                                "sn": "a"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|gospel||1a}"
+                                    ]
+                                ],
+                                "sn": "b"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|logos||}"
+                                    ]
+                                ],
+                                "sn": "c"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the act of speaking or of making verbal communication"
+                                    ]
+                                ],
+                                "sn": "8"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|saying|saying|}, {sx|proverb||}"
+                                    ]
+                                ],
+                                "sn": "9"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a number of bytes processed as a unit and conveying a quantum of information in communication and computer work"
+                                    ]
+                                ],
+                                "sn": "10"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a verbal signal {bc}{sx|password||}"
+                                    ]
+                                ],
+                                "sn": "11"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used interjectionally to express agreement"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                "sls": [
+                                    "slang"
+                                ],
+                                "sn": "12"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "dros": [
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}a favorable statement "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "put in a {it}good word{/it} for me"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "1"
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}good news "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "what's the {it}good word{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "2"
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "good word"
+            },
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in short"
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "in a word"
+            },
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in exactly those terms "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "implied that such actions were criminal but did not say so {it}in so many words{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "1"
+                                    }
+                                ]
+                            ],
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}in plain forthright language "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "aq": {
+                                                            "auth": "Jean Stafford"
+                                                        },
+                                                        "t": "{it}in so many words{/it}, she wasn't fit to be seen"
+                                                    }
+                                                ]
+                                            ]
+                                        ],
+                                        "sn": "2"
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "in so many words"
+            },
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}not inclined to say more than is necessary {bc}{sx|laconic||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "a man {it}of few words{/it}"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "of few words"
+            },
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}that can be relied on to keep a promise "
+                                            ],
+                                            [
+                                                "uns",
+                                                [
+                                                    [
+                                                        [
+                                                            "text",
+                                                            "used only after {it}man{/it} or {it}woman{/it} "
+                                                        ],
+                                                        [
+                                                            "vis",
+                                                            [
+                                                                {
+                                                                    "t": "a man {it}of his word{/it}"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "of one's word"
+            },
+            {
+                "def": [
+                    {
+                        "sseq": [
+                            [
+                                [
+                                    "sense",
+                                    {
+                                        "dt": [
+                                            [
+                                                "text",
+                                                "{bc}with my assurance {bc}{sx|indeed||}, {sx|assuredly||} "
+                                            ],
+                                            [
+                                                "vis",
+                                                [
+                                                    {
+                                                        "t": "{it}upon my word{/it}, I've never heard of such a thing"
+                                                    }
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "drp": "upon my word"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English; akin to Old High German {it}wort{/it} word, Latin {it}verbum{/it}, Greek {it}eirein{/it} to say, speak, Hittite {it}weriya-{/it} to call, name"
+            ]
+        ],
+        "fl": "noun",
+        "hom": 1,
+        "hwi": {
+            "hw": "word",
+            "prs": [
+                {
+                    "mw": "ˈwərd",
+                    "sound": {
+                        "audio": "word0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "id": "word:1",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230218600",
+            "src": "collegiate",
+            "stems": [
+                "a good word",
+                "good word",
+                "in a word",
+                "in so many words",
+                "of few words",
+                "of her word",
+                "of his word",
+                "of its words",
+                "of my word",
+                "of one's word",
+                "of our word",
+                "of their word",
+                "of your word",
+                "the good word",
+                "upon my word",
+                "word",
+                "words"
+            ],
+            "uuid": "5797b71b-4c8a-4d3d-8232-30986bc15da9"
+        },
+        "shortdef": [
+            "a speech sound or series of speech sounds that symbolizes and communicates a meaning usually without being divisible into smaller units capable of independent use",
+            "the entire set of linguistic forms produced by combining a single base with various inflectional elements without change in the part of speech elements",
+            "a written or printed character or combination of characters representing a spoken word —sometimes used with the first letter of a real or pretended taboo word prefixed as an often humorous euphemism"
+        ]
+    },
+    {
+        "date": "13th century{ds|i|||}",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to express in {a_link|words} {bc}{sx|phrase||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a carefully {wi}worded{/wi} reply"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ],
+                "vd": "transitive verb"
+            },
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|speak||}"
+                                    ]
+                                ],
+                                "sls": [
+                                    "archaic"
+                                ]
+                            }
+                        ]
+                    ]
+                ],
+                "vd": "intransitive verb"
+            }
+        ],
+        "fl": "verb",
+        "hom": 2,
+        "hwi": {
+            "hw": "word"
+        },
+        "ins": [
+            {
+                "if": "word*ed"
+            },
+            {
+                "if": "word*ing"
+            },
+            {
+                "if": "words"
+            }
+        ],
+        "meta": {
+            "id": "word:2",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230218700",
+            "src": "collegiate",
+            "stems": [
+                "word",
+                "worded",
+                "wording",
+                "words"
+            ],
+            "uuid": "f9399ba2-4fb4-4f05-851f-64ef0f346533"
+        },
+        "shortdef": [
+            "to express in words : phrase",
+            "speak"
+        ]
+    },
+    {
+        "date": "1946",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a test of personality and mental function in which the subject is required to respond to each of a series of words with the first word that comes to mind or with a word of a specified class of words (such as antonyms)"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun",
+        "hwi": {
+            "hw": "word-as*so*ci*a*tion test",
+            "prs": [
+                {
+                    "mw": "ˈwərd-ə-ˌsō-sē-ˈā-shən-",
+                    "sound": {
+                        "audio": "worda01m",
+                        "ref": "m",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-shē-"
+                }
+            ]
+        },
+        "meta": {
+            "id": "word-association test",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230218900",
+            "src": "collegiate",
+            "stems": [
+                "word-association test"
+            ],
+            "uuid": "e574e547-09f0-4710-97a0-780c56906126"
+        },
+        "shortdef": [
+            "a test of personality and mental function in which the subject is required to respond to each of a series of words with the first word that comes to mind or with a word of a specified class of words (such as antonyms)"
+        ]
+    },
+    {
+        "date": "1882",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a linguistic form class whose members are words"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}{sx|part of speech||}"
+                                        ]
+                                    ],
+                                    "sd": "especially"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun",
+        "hwi": {
+            "hw": "word class"
+        },
+        "meta": {
+            "id": "word class",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219100",
+            "src": "collegiate",
+            "stems": [
+                "word class",
+                "word classes"
+            ],
+            "uuid": "42b06b64-c307-4d56-a824-86d204844248"
+        },
+        "shortdef": [
+            "a linguistic form class whose members are words; especially : part of speech"
+        ]
+    },
+    {
+        "date": "circa 1611",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}being in or following the exact words {bc}{sx|verbatim||} "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "a {wi}word-for-word{/wi} translation"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "adjective",
+        "hwi": {
+            "hw": "word-for-word",
+            "prs": [
+                {
+                    "mw": "ˈwərd-fər-ˈwərd",
+                    "sound": {
+                        "audio": "word-for-word",
+                        "ref": "owl",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "id": "word-for-word",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219200",
+            "src": "collegiate",
+            "stems": [
+                "word-for-word"
+            ],
+            "uuid": "70f26750-a227-47b6-9ff6-5797d477f786"
+        },
+        "shortdef": [
+            "being in or following the exact words : verbatim"
+        ]
+    },
+    {
+        "date": "15th century",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}in the exact words {bc}{sx|verbatim||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "adverb",
+        "hwi": {
+            "hw": "word for word"
+        },
+        "meta": {
+            "id": "word for word",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219300",
+            "src": "collegiate",
+            "stems": [
+                "word for word"
+            ],
+            "uuid": "6106310e-5f3a-4c3e-8549-30e2f1237776"
+        },
+        "shortdef": [
+            "in the exact words : verbatim"
+        ]
+    },
+    {
+        "date": "before 12th century",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a supply of words {bc}{sx|vocabulary||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "translation of Old English {it}wordhord{/it}"
+            ]
+        ],
+        "fl": "noun",
+        "hwi": {
+            "hw": "word-hoard",
+            "prs": [
+                {
+                    "mw": "ˈwərd-ˌhȯrd",
+                    "sound": {
+                        "audio": "wordh01w",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "id": "word-hoard",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219400",
+            "src": "collegiate",
+            "stems": [
+                "word-hoard",
+                "word-hoards"
+            ],
+            "uuid": "7b208e7f-c79d-4049-9380-3210b64281a8"
+        },
+        "shortdef": [
+            "a supply of words : vocabulary"
+        ]
+    },
+    {
+        "date": "1839",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}the use of empty or bombastic words"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun",
+        "hwi": {
+            "hw": "word-mon*ger*ing",
+            "prs": [
+                {
+                    "mw": "ˈwərd-ˌməŋ-g(ə-)riŋ",
+                    "sound": {
+                        "audio": "wordm01w",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                },
+                {
+                    "mw": "-ˌmäŋ-"
+                }
+            ]
+        },
+        "meta": {
+            "id": "word-mongering",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219800",
+            "src": "collegiate",
+            "stems": [
+                "word-mongering",
+                "word-mongerings"
+            ],
+            "uuid": "ff9a0b1e-0e27-46ee-98d6-d53ec4d99972"
+        },
+        "shortdef": [
+            "the use of empty or bombastic words"
+        ]
+    },
+    {
+        "date": "1817",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}orally communicated"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}generated from or reliant on oral publicity "
+                                        ],
+                                        [
+                                            "vis",
+                                            [
+                                                {
+                                                    "t": "{wi}word-of-mouth{/wi} customers"
+                                                },
+                                                {
+                                                    "t": "a {wi}word-of-mouth{/wi} business"
+                                                }
+                                            ]
+                                        ]
+                                    ],
+                                    "sd": "also"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "adjective",
+        "hwi": {
+            "hw": "word-of-mouth",
+            "prs": [
+                {
+                    "mw": "ˌwərd-ə(v)-ˈmau̇th",
+                    "sound": {
+                        "audio": "wordo01w",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "id": "word-of-mouth",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230219900",
+            "src": "collegiate",
+            "stems": [
+                "word-of-mouth"
+            ],
+            "uuid": "73f0c775-c736-44d6-ac75-44f8d79648c3"
+        },
+        "shortdef": [
+            "orally communicated; also : generated from or reliant on oral publicity"
+        ]
+    },
+    {
+        "date": "15th century",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}oral communication"
+                                    ]
+                                ],
+                                "sdsense": {
+                                    "dt": [
+                                        [
+                                            "text",
+                                            "{bc}oral often inadvertent publicity"
+                                        ]
+                                    ],
+                                    "sd": "especially"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun phrase",
+        "hwi": {
+            "hw": "word of mouth"
+        },
+        "meta": {
+            "id": "word of mouth",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "230220000",
+            "src": "collegiate",
+            "stems": [
+                "word of mouth"
+            ],
+            "uuid": "0e8fddd1-6067-4d66-827e-0f1b7319f464"
+        },
+        "shortdef": [
+            "oral communication; especially : oral often inadvertent publicity"
+        ]
+    }
+]
