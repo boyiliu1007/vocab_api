@@ -1,0 +1,29 @@
+{
+    "answer": 0,
+    "wordlist": [
+        {
+            "word": "car",
+            "part_of_speech": "n.",
+            "question": "Is there a _____ in the parking space?",
+            "def": "...(我懶得瞎掰了)"
+        },
+        {
+            "word": "doctor",
+            "part_of_speech": "n.",
+            "question": "we need a _____ in the emergency room.",
+            "def": "...(我懶得瞎掰了)"
+        },
+        {
+            "word": "teacher",
+            "part_of_speech": "n.",
+            "question": "the _____ in the classroom speaking to the students?",
+            "def": "...(我懶得瞎掰了)"
+        },
+        {
+            "word": "bee",
+            "part_of_speech": "n.",
+            "question": "_____ is an important animal to agriculture",
+            "def": "...(我懶得瞎掰了)"
+        }
+    ]
+}

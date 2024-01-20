@@ -2,7 +2,7 @@ import re
 
 translation_of_ptos = {"n.": "noun", "adj.": "adjective", "adv.": "adverb", "v.": "verb"}
 
-def get_one_example(data, ptos):
+def get_one_example(word, data, ptos):
     example = ""
 
     for part in data:
@@ -12,19 +12,28 @@ def get_one_example(data, ptos):
             dfs_search(part, "t", tmp)
 
             if tmp:
-                # Delete strings that without a {/wi} in it 
-                filtered_list = list(filter(lambda x: re.search(r'{/wi}', x), tmp))
-                if filtered_list:
-                    sentence = max(filtered_list, key=len)
+                tmp = [s for s in tmp if len(s) <= 200]
+                sentence = max(tmp, key=len)
 
-                    # Define a regular expression pattern that replace 
-                    # d ... {/wi} or f ... {/wi} or {wi} ... {/wi} with ___
-                    pattern = re.compile(r'(\s[df]\s|{wi})(.*?){/wi}')
-                    _string = pattern.sub(' ______', sentence)
+                patterns_to_remove = ['{wi}', '{/wi}', '{qword}', '{/qword}', '{it}', '{/it}']
 
-                    # Find out the longest one
-                    if len(_string) > len(example):
-                        example = _string
+                # Create a regular expression pattern by joining the patterns with the '|' (OR) operator
+                pattern = '|'.join(re.escape(p) for p in patterns_to_remove)
+
+                # Use re.sub() to replace matched patterns with an empty string
+                result_string = re.sub(pattern, '', sentence)
+
+                escaped_word = re.escape(word)
+
+                # Create a regular expression pattern to match the word
+                pattern = r'\b' + escaped_word + r'\b'
+
+                # Use re.sub() to replace the matched word with underscores
+                result = re.sub(pattern, '_____', result_string)
+
+                # Find out the longest one
+                if len(result) > len(example):
+                    example = result
 
     return example
 
@@ -47,7 +56,8 @@ def dfs_search(json_data, target, searchlist):
     # If it is a dictionary
     elif isinstance(json_data, dict):
         for key, value in json_data.items():
-            
+            if key == "syns":
+                continue
             if key == target:
                 searchlist.append(value)
             else:

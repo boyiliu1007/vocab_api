@@ -56,8 +56,9 @@ def get_example(word, ptos):
         if response.status_code == 200:
             # Parse the response content (assuming it's JSON in this example)
             res = response.json()
-            data = get_one_example(res, ptos)
-            return data
+            print(res, word)
+            data = get_one_example(word, res, ptos)
+            return data, res
         else:
             print(f"Error: {response.status_code}")
             print(response.text)  # Print the error message or response content
