@@ -84,65 +84,88 @@ def escapeWord(sentence, wordList):
 
     return result_string
 
+#===================================================================================
+
+def is_var_int_format(variable, input_string):
+    # Define a regular expression pattern for the desired format
+    pattern = rf'^{re.escape(variable)}:\d+$'
+
+    # Use re.match to check if the input string matches the pattern
+    match = re.match(pattern, input_string)
+
+    # If there is a match, return True; otherwise, return False
+    return bool(match)
+
+#===================================================================================
 
 def get_one_example(word, data, ptos):
     example = ""
 
     for part in data:
         # If part['fl'] equals the desired part of speech
-        if part['fl'] == translation_of_ptos[ptos]:
-            stemList = []
-            dfs_search(part, "stems", stemList)
-            escapeWordList = stemList[0]
-            escapeWordList.append(word)
+        if 'fl' in part:
+            if part['fl'] == translation_of_ptos[ptos] or translation_of_ptos[ptos] in part['fl']:
+                if part['meta']['id'] == word or is_var_int_format(word, part['meta']['id']):
+                    stemList = []
+                    dfs_search(part, "stems", stemList)
+                    escapeWordList = stemList[0]
+                    escapeWordList.append(word)
 
-            tmp = []
-            dfs_search(part, "t", tmp)
+                    tmp = []
+                    dfs_search(part, "t", tmp)
 
-            if tmp:
-                tmp = [s for s in tmp if len(s) <= 200]
-                if tmp:
-                    sentence = max(tmp, key=len)
-                else:
-                    return example
+                    if tmp:
+                        tmp = [s for s in tmp if len(s) <= 200]
+                        if tmp:
+                            sentence = max(tmp, key=len)
+                        else:
+                            return example
 
-                result = escapeWord(sentence, escapeWordList)
-                
-                # Find out the longest one
-                if len(result) > len(example):
-                    example = result
+                        result = escapeWord(sentence, escapeWordList)
+                        
+                        # Find out the longest one
+                        if len(result) > len(example):
+                            example = result
 
     return example
 #===================================================================================
 
-def get_def(data, pos):
+def get_def(word, data, pos):
     definition = []
     for part in data:
-        if part['fl'] == translation_of_ptos[pos]:
-            tmp = []
-            dfs_search(part, "shortdef", tmp)
-            definition.extend(tmp)
+        if 'fl' in part:
+            if part['fl'] == translation_of_ptos[pos] or translation_of_ptos[pos] in part['fl']:
+                if part['meta']['id'] == word or is_var_int_format(word, part['meta']['id']):
+                    tmp = []
+                    dfs_search(part, "shortdef", tmp)
+                    definition.extend(tmp)
+        else:
+            print(word, "no fl label!")
 
     return definition
 
 try:
-    target = "abate"
+    target = "adamant"
+    endCount = 50
     startFlag = False
     target_index = 0
     with open(WORD_FILE, 'r', encoding="utf-8") as json_file:
         data = json.load(json_file)
         count = 0
         for item in data:
+            word = item["word"]
+            pos = item["pos"]
             if item["word"] == target and startFlag == False:
                 startFlag = True
-            if count == 100:
+            if count == endCount:
                 break
             if startFlag:
-                res = get_res(item["word"], item["pos"])
-                example = get_one_example(item["word"], res, item["pos"])
-                definition = get_def(res, item["pos"])
-                item["example"] = example
-                item["definition"] = definition
+                if pos in translation_of_ptos:
+                    res = get_res(item["word"], item["pos"])
+                    example = get_one_example(item["word"], res, item["pos"])
+                    definition = get_def(item["word"], res, item["pos"])
+                    item["example"] = example
+                    item["definition"] = definition
                 count += 1
             if not startFlag:
                 target_index += 1
@@ -172,7 +195,7 @@ try:
 except FileNotFoundError:
     print(f'File not found: {WORD_FILE}')
 except KeyError:
-    print('Invalid part of speech: {pos}')
+    print(f'Invalid part of speech! word: {word} pos: {pos}')
 except Exception as e:
     print(f'Error in main: {e}')
 

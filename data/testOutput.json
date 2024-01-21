@@ -85,12 +85,6 @@
         "the fact or an instance of deviating or being aberrant especially from a moral standard or normal state",
         "something or someone regarded as atypical and therefore able to be ignored or discounted",
         "failure of a mirror, refracting surface, or lens to produce exact point-to-point correspondence between an object and its image"
-      ],
-      [
-        "aberration caused by the differences in refraction of the colored rays of the spectrum"
-      ],
-      [
-        "aberration that is caused by the spherical form of a lens or mirror and that gives different foci for central and marginal rays"
       ]
     ]
   },
@@ -285,8 +279,13 @@
   {
     "word": "abreast",
     "pos": "adv.",
-    "example": "",
-    "definition": []
+    "example": "tries to {phrase}_____{/phrase} {gloss}=to stay informed about{/gloss} the news",
+    "definition": [
+      [
+        "beside one another in line",
+        "up to a particular standard or level especially of knowledge of recent developments"
+      ]
+    ]
   },
   {
     "word": "abridge",
@@ -421,18 +420,12 @@
   {
     "word": "abstract",
     "pos": "n.",
-    "example": "Abstract algebra courses introduce students to advanced mathematical concepts such as group theory and lattices.",
+    "example": "",
     "definition": [
       [
         "a summary of points (as of a writing) usually presented in skeletal form; also : something that summarizes or concentrates the essentials of a larger thing or several things",
         "an abstract thing or state",
         "abstraction"
-      ],
-      [
-        "a branch of mathematics in which algebraic concepts are generalized by using symbols to represent basic arithmetical operations"
-      ],
-      [
-        "an artistic movement of the mid-20th century comprising diverse styles and techniques and emphasizing especially an artist's liberty to convey attitudes and emotions through nontraditional and usually nonrepresentational means"
       ]
     ]
   },
@@ -515,14 +508,6 @@
         "a corrupt practice or custom",
         "improper or excessive use or treatment : misuse",
         "language that condemns or vilifies usually unjustly, intemperately, and angrily"
-      ],
-      [
-        "reproach of oneself",
-        "masturbation",
-        "abuse of one's body or health"
-      ],
-      [
-        "harsh and insulting language directed at a person"
       ]
     ]
   },
@@ -571,9 +556,6 @@
         "of, relating to, or associated with an academy or school especially of higher learning",
         "of or relating to performance in courses of study",
         "very learned but inexperienced in practical matters"
-      ],
-      [
-        "opposed to or hostile toward academic principles or practices"
       ]
     ]
   },
@@ -626,24 +608,12 @@
   {
     "word": "access",
     "pos": "n.",
-    "example": "Although other types of nonvolatile memory are increasingly available … such storage options typically cost more per bit and hold less data than disks do or have slow _____.",
+    "example": "If it had been in Tito's nature to feel an _____ of rage, he would have felt it against this bull-faced accomplice.",
     "definition": [
       [
         "permission, liberty, or ability to enter, approach, or pass to and from a place or to approach or communicate with a person or thing",
         "freedom or ability to obtain or make use of something",
         "a way or means of entering or approaching"
-      ],
-      [
-        "internet service provider"
-      ],
-      [
-        "the lag between the time stored information is requested (as from a computer) and the time it is delivered"
-      ],
-      [
-        "ram"
-      ],
-      [
-        "access to a computer or a computer system from another location by means of a network connection"
       ]
     ]
   },
@@ -832,15 +802,12 @@
   {
     "word": "accretion",
     "pos": "n.",
-    "example": "Most other moons are either captured planetesimals, or they formed along with the planet in a common _____.",
+    "example": "_____ of grime",
     "definition": [
       [
         "the process of growth or enlargement by a gradual buildup: such as",
         "increase by external addition or accumulation (as by adhesion of external parts or particles)",
         "the increase of land by the action of natural forces"
-      ],
-      [
-        "a disk of usually gaseous matter surrounding a massive celestial object (such as a black hole) in which the matter gradually spirals in toward and accretes onto the object as a result of gravitational attraction"
       ]
     ]
   },
@@ -953,15 +920,6 @@
     "definition": [
       [
         "the nut of the oak usually seated in or surrounded by a hard woody cupule of indurated bracts"
-      ],
-      [
-        "an acorn-shaped dark green winter squash (Cucurbita pepo) with a ridged surface and mildly sweet yellow to orange flesh"
-      ],
-      [
-        "a woodpecker (Melanerpes formicivorus) found from the U.S. Pacific coast south to Colombia that stores acorns in small holes which it digs especially in the bark of trees"
-      ],
-      [
-        "any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates"
       ]
     ]
   },
@@ -997,12 +955,6 @@
         "the state of being acquainted",
         "personal knowledge : familiarity",
         "the persons with whom one is acquainted"
-      ],
-      [
-        "rape committed by someone known to the victim"
-      ],
-      [
-        "a small amount of knowledge about someone or something"
       ]
     ]
   },
@@ -1036,9 +988,6 @@
         "gained by or as a result of effort or experience",
         "attained as a new or added characteristic, trait, or ability : such as",
         "being or relating to a physical or behavioral characteristic or trait arising in response to the action of the environment on an organism"
-      ],
-      [
-        "acquired or arising in the general population : not acquired or arising in a hospital"
       ]
     ]
   },
@@ -1130,16 +1079,10 @@
   {
     "word": "acuity",
     "pos": "n.",
-    "example": "Her anarchy is perfectly balanced with her _____ about tone and timbre and atmosphere and drift.",
+    "example": "hearing _____",
     "definition": [
       [
         "keenness of perception"
-      ],
-      [
-        "the relative ability of the visual organ to resolve detail that is usually expressed as the reciprocal of the minimum angular separation in minutes of two lines just resolvable as separate and that forms in the average human eye an angle of one minute"
-      ],
-      [
-        "greater than normal acuteness of a sense; especially : visual acuity that is better than twenty-twenty"
       ]
     ]
   },
@@ -1156,15 +1099,12 @@
   {
     "word": "acute",
     "pos": "adj.",
-    "example": "… the problem of _____ rejection—a violent immune response that can destroy a transplanted organ in minutes …",
+    "example": "an _____ emergency",
     "definition": [
       [
         "characterized by sharpness or severity of sudden onset",
         "of rapid onset and relatively short duration",
         "being, providing, or requiring short-term medical care (as for acute disease or traumatic injury)"
-      ],
-      [
-        "extremely or excessively acute"
       ]
     ]
   },
@@ -1206,6 +1146,529 @@
     "definition": [
       [
         "capable of being or becoming adapted"
+      ]
+    ]
+  },
+  {
+    "word": "addendum",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a thing added : addition",
+        "a supplement to a book —often used in plural but singular in construction"
+      ]
+    ]
+  },
+  {
+    "word": "addict",
+    "pos": "v.",
+    "example": "Hard-core fitness freaks are _____ themselves to all manner of hybrid mind/body activities …",
+    "definition": [
+      [
+        "to cause addiction in (someone)"
+      ]
+    ]
+  },
+  {
+    "word": "addict",
+    "pos": "n.",
+    "example": "a television _____",
+    "definition": [
+      [
+        "one exhibiting a compulsive, chronic, physiological or psychological need for a habit-forming substance, behavior, or activity",
+        "one strongly inclined to do, use, or indulge in something repeatedly"
+      ]
+    ]
+  },
+  {
+    "word": "addition",
+    "pos": "n.",
+    "example": "The job requires a college degree and, _____, at least two years of experience.",
+    "definition": [
+      [
+        "a part added (as to a building or residential section)",
+        "anything or anyone added : increase",
+        "the act or process of adding; especially : the operation of combining numbers so as to obtain an equivalent simple quantity"
+      ]
+    ]
+  },
+  {
+    "word": "additive",
+    "pos": "n.",
+    "example": "food _____",
+    "definition": [
+      [
+        "a substance added to another in relatively small amounts to effect a desired change in properties"
+      ]
+    ]
+  },
+  {
+    "word": "address",
+    "pos": "v.",
+    "example": "… intrigued by the chance to _____ important issues …",
+    "definition": [
+      [
+        "to mark directions for delivery on",
+        "to consign to the care of another (such as an agent or factor)",
+        "to direct the efforts or attention of (oneself)"
+      ]
+    ]
+  },
+  {
+    "word": "adept",
+    "pos": "adj.",
+    "example": "He's _____ at fixing computers.",
+    "definition": [
+      [
+        "thoroughly proficient : expert"
+      ]
+    ]
+  },
+  {
+    "word": "adequate",
+    "pos": "adj.",
+    "example": "Then, during the spring and summer, allow _____ recovery by taking one or two days off the bike each week and scaling back the intensity of your rides one week out of every month.",
+    "definition": [
+      [
+        "sufficient for a specific need or requirement; also : good enough : of a quality that is good or acceptable : of a quality that is acceptable but not better than acceptable",
+        "lawfully and reasonably sufficient"
+      ]
+    ]
+  },
+  {
+    "word": "adhere",
+    "pos": "v.",
+    "example": "The stamp failed to _____ to the envelope.",
+    "definition": [
+      [
+        "to hold fast or stick by or as if by gluing, suction, grasping, or fusing",
+        "to give support or maintain loyalty",
+        "to bind oneself to observance"
+      ]
+    ]
+  },
+  {
+    "word": "adherent",
+    "pos": "n.",
+    "example": "_____ of Christianity",
+    "definition": [
+      [
+        "one who adheres to something: such as",
+        "a follower of a leader, party, or profession",
+        "a believer in or advocate especially of a particular idea or church"
+      ]
+    ]
+  },
+  {
+    "word": "adhesive",
+    "pos": "adj.",
+    "example": "_____ inflammations",
+    "definition": [
+      [
+        "tending to remain in association or memory",
+        "tending to adhere or cause adherence",
+        "prepared for adhering"
+      ]
+    ]
+  },
+  {
+    "word": "adhesive",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an adhesive substance (such as glue or cement)",
+        "a postage stamp with a gummed back"
+      ]
+    ]
+  },
+  {
+    "word": "adjacent",
+    "pos": "adj.",
+    "example": "Digging further in that spot and five _____ areas, they retrieved 19 skulls, five eggs, over 150 jaws and hundreds of teeth, limbs and bone bits.",
+    "definition": [
+      [
+        "not distant : nearby",
+        "having a common endpoint or border",
+        "immediately preceding or following"
+      ]
+    ]
+  },
+  {
+    "word": "adjourn",
+    "pos": "v.",
+    "example": "Congress will not _____ until the budget has been completed.",
+    "definition": [
+      [
+        "to suspend indefinitely or until a later stated time",
+        "to suspend a session indefinitely or to another time or place",
+        "to move to another place"
+      ]
+    ]
+  },
+  {
+    "word": "adjunct",
+    "pos": "n.",
+    "example": "The website is designed as an _____ to the book.",
+    "definition": [
+      [
+        "something joined or added to another thing but not essentially a part of it",
+        "a word or word group that qualifies or completes the meaning of another word or other words and is not itself a main structural element in its sentence",
+        "an adverb or adverbial phrase (such as heartily in \"They ate heartily\" or at noon in \"We left at noon\") attached to the verb of a clause especially to express a relation of time, place, frequency, degree, or manner"
+      ]
+    ]
+  },
+  {
+    "word": "adjust",
+    "pos": "v.",
+    "example": "Our eyes gradually _____ to the darkness.",
+    "definition": [
+      [
+        "to bring to a more satisfactory state:",
+        "settle, resolve",
+        "rectify"
+      ]
+    ]
+  },
+  {
+    "word": "admire",
+    "pos": "v.",
+    "example": "Regarding etymology of Latin mīrus see note at {et_link|smile:1|smile:1}.",
+    "definition": [
+      [
+        "to feel respect and approval for (someone or something) : to regard with admiration",
+        "to marvel at",
+        "to like very much"
+      ]
+    ]
+  },
+  {
+    "word": "admission",
+    "pos": "n.",
+    "example": "Competition for _____ to these pre-K schools is so extreme that private counselors are frequently retained … to guide the parents through the application process.",
+    "definition": [
+      [
+        "an act of admitting : the fact or state of being admitted: such as",
+        "the act of allowing something for consideration before a court",
+        "the right or permission to join or enter a place, a group, etc."
+      ]
+    ]
+  },
+  {
+    "word": "admonish",
+    "pos": "v.",
+    "example": "\"You landed in back of him,\" said Paul, my guide and friend. As he _____ me, the fish turned obligingly, opened its mouth, wide and white, and engulfed my fly.",
+    "definition": [
+      [
+        "to indicate duties or obligations to",
+        "to express warning or disapproval to especially in a gentle, earnest, or solicitous manner",
+        "to give friendly earnest advice or encouragement to"
+      ]
+    ]
+  },
+  {
+    "word": "adobe",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a brick or building material of sun-dried earth and straw",
+        "a structure made of adobe bricks",
+        "a heavy clay used in making adobe bricks; broadly : alluvial or playa clay in desert or arid regions"
+      ]
+    ]
+  },
+  {
+    "word": "adolescent",
+    "pos": "adj.",
+    "example": "did not appreciate her husband's _____ high jinks",
+    "definition": [
+      [
+        "of, relating to, or being in adolescence",
+        "emotionally or intellectually immature"
+      ]
+    ]
+  },
+  {
+    "word": "adolescent",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a young person who is developing into an adult : one who is in the state of adolescence"
+      ]
+    ]
+  },
+  {
+    "word": "adopt",
+    "pos": "v.",
+    "example": "The board is responsible for setting curriculum standards and _____ textbooks and other instructional materials for public schools.",
+    "definition": [
+      [
+        "to take (someone or something) by choice into a relationship : such as",
+        "to take (a child born to other parents) voluntarily as one's own child especially in compliance with formal legal procedures",
+        "to acquire (an animal) as a pet especially from an animal shelter"
+      ]
+    ]
+  },
+  {
+    "word": "adore",
+    "pos": "v.",
+    "example": "He _____ his wife.",
+    "definition": [
+      [
+        "to worship or honor as a deity or as divine",
+        "to regard with loving admiration and devotion",
+        "to be very fond of"
+      ]
+    ]
+  },
+  {
+    "word": "adorn",
+    "pos": "v.",
+    "example": "people of fashion who _____ the Court",
+    "definition": [
+      [
+        "to enhance the appearance of especially with beautiful objects",
+        "to enliven or decorate as if with ornaments"
+      ]
+    ]
+  },
+  {
+    "word": "adroit",
+    "pos": "adj.",
+    "example": "Rumor has always played a role in politics, but rarely have the backstage operatives been so _____, and so cynical, in their use of vitriol.",
+    "definition": [
+      [
+        "having or showing skill, cleverness, or resourcefulness in handling situations"
+      ]
+    ]
+  },
+  {
+    "word": "adulate",
+    "pos": "v.",
+    "example": "",
+    "definition": []
+  },
+  {
+    "word": "adulterate",
+    "pos": "v.",
+    "example": "He was in the same plight as the manufacturer who has to _____ and misrepresent his product. If he does not, some one else will.",
+    "definition": [
+      [
+        "to corrupt, debase, or make impure by the addition of a foreign or inferior substance or element; especially : to prepare for sale by replacing more valuable with less valuable or inert ingredients"
+      ]
+    ]
+  },
+  {
+    "word": "adumbrate",
+    "pos": "v.",
+    "example": "bubbling optimism, not at all _____ by difficulties",
+    "definition": [
+      [
+        "to foreshadow vaguely : intimate",
+        "to suggest, disclose, or outline partially",
+        "overshadow, obscure"
+      ]
+    ]
+  },
+  {
+    "word": "advent",
+    "pos": "n.",
+    "example": "",
+    "definition": []
+  },
+  {
+    "word": "adventitious",
+    "pos": "adj.",
+    "example": "a Federal house without _____ later additions",
+    "definition": [
+      [
+        "coming from another source and not inherent or innate",
+        "arising or occurring sporadically or in other than the usual location"
+      ]
+    ]
+  },
+  {
+    "word": "adverse",
+    "pos": "adj.",
+    "example": "On more than one occasion his decrees provoked riots, and there were those who voiced _____ opinions on the Duke in public.",
+    "definition": [
+      [
+        "acting against or in a contrary direction : hostile",
+        "opposed to one's interests; especially : unfavorable",
+        "causing harm : harmful"
+      ]
+    ]
+  },
+  {
+    "word": "advertise",
+    "pos": "v.",
+    "example": "Construction on these houses is under way and some are already being _____ for sale.",
+    "definition": [
+      [
+        "to make the public aware of (something or someone) especially by means of a published or broadcast notice : such as",
+        "to present (something or oneself) to the public in a way that is intended to attract customers : promote",
+        "to announce (something wanted or offered) publicly"
+      ]
+    ]
+  },
+  {
+    "word": "advisable",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "fit to be advised or done : prudent"
+      ]
+    ]
+  },
+  {
+    "word": "advocacy",
+    "pos": "n.",
+    "example": "known for his _____ of gay rights",
+    "definition": [
+      [
+        "the act or process of supporting a cause or proposal : the act or process of advocating something"
+      ]
+    ]
+  },
+  {
+    "word": "advocate",
+    "pos": "v.",
+    "example": "… it makes sense to commence with … a good medium-weight Chardonnay for the wine aficionados. I _____ one with a little oak and lots of fruit …",
+    "definition": [
+      [
+        "to support or argue for (a cause, policy, etc.) : to plead in favor of",
+        "to act as advocate for someone or something"
+      ]
+    ]
+  },
+  {
+    "word": "advocate",
+    "pos": "n.",
+    "example": "… two of nanotechnology's biggest _____ square off on a fundamental question that will dramatically affect the future development of this field.",
+    "definition": [
+      [
+        "one who defends or maintains a cause or proposal",
+        "one who supports or promotes the interests of a cause or group",
+        "one who pleads the cause of another; specifically : one who pleads the cause of another before a tribunal or judicial court"
+      ]
+    ]
+  },
+  {
+    "word": "aegis",
+    "pos": "n.",
+    "example": "passed new laws under the _____ of national security",
+    "definition": [
+      [
+        "a shield or breastplate emblematic of majesty that was associated with Zeus and Athena",
+        "protection",
+        "controlling or conditioning influence"
+      ]
+    ]
+  },
+  {
+    "word": "aerate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to supply or impregnate (something, such as the soil or a liquid) with air",
+        "to supply (the blood) with oxygen by respiration",
+        "carbonate"
+      ]
+    ]
+  },
+  {
+    "word": "aerial",
+    "pos": "adj.",
+    "example": "The hydraulic _____ platform can accommodate up to five firefighters and even a wheelchair.",
+    "definition": [
+      [
+        "of, relating to, or occurring in the air or atmosphere",
+        "existing or growing in the air rather than in the ground or in water",
+        "high in the air"
+      ]
+    ]
+  },
+  {
+    "word": "aesthete",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one having or affecting sensitivity to the beautiful especially in art"
+      ]
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adj.",
+    "example": "My generation has an annoying penchant for treating luxuries as necessities and turning guilty pleasures into _____ and even moral touchstones.",
+    "definition": [
+      [
+        "of, relating to, or dealing with aesthetics or the beautiful",
+        "artistic",
+        "pleasing in appearance : attractive"
+      ]
+    ]
+  },
+  {
+    "word": "affable",
+    "pos": "adj.",
+    "example": "Bertie's a bright, _____ fellow, but every little success he has feels cheapened in comparison with his dad's overpowering accomplishments.",
+    "definition": [
+      [
+        "being pleasant and at ease in talking to others",
+        "characterized by ease and friendliness"
+      ]
+    ]
+  },
+  {
+    "word": "affectation",
+    "pos": "n.",
+    "example": "His French accent is just an _____.",
+    "definition": [
+      [
+        "speech or conduct not natural to oneself : an unnatural form of behavior meant especially to impress others",
+        "the act of taking on or displaying an attitude or mode of behavior not natural to oneself or not genuinely felt",
+        "a striving after"
+      ]
+    ]
+  },
+  {
+    "word": "affected",
+    "pos": "adj.",
+    "example": "Without this fraught boundary between old money and new, between inherited and _____ tastes, some of our greatest writers would have had to find something else to write about.",
+    "definition": [
+      [
+        "having or showing an attitude or mode of behavior that is not natural or genuinely felt : given to or marked by affectation",
+        "assumed artificially or falsely : pretended",
+        "inclined, disposed"
+      ]
+    ]
+  },
+  {
+    "word": "affection",
+    "pos": "n.",
+    "example": "She had a deep _____ for her parents.",
+    "definition": [
+      [
+        "a feeling of liking and caring for someone or something : tender attachment : fondness",
+        "a moderate feeling or emotion",
+        "a bodily condition"
+      ]
+    ]
+  },
+  {
+    "word": "affidavit",
+    "pos": "n.",
+    "example": "The witness's _____ was presented to the court as evidence.",
+    "definition": [
+      [
+        "a sworn statement in writing made especially under oath or on affirmation before an authorized magistrate or officer"
       ]
     ]
   }
