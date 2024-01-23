@@ -145,8 +145,8 @@ def get_def(word, data, pos):
     return definition
 
 try:
-    target = "adamant"
-    endCount = 50
+    target = "catholic"
+    endCount = 200
     startFlag = False
     target_index = 0
     with open(WORD_FILE, 'r', encoding="utf-8") as json_file:
@@ -155,6 +155,7 @@ try:
         for item in data:
             word = item["word"]
             pos = item["pos"]
+            defNoneFlag = False
             if item["word"] == target and startFlag == False:
                 startFlag = True
             if count == endCount:
@@ -164,9 +165,15 @@ try:
                     res = get_res(item["word"], item["pos"])
                     example = get_one_example(item["word"], res, item["pos"])
                     definition = get_def(item["word"], res, item["pos"])
-                    item["example"] = example
-                    item["definition"] = definition
+                    if definition != [[]] and definition != []:
+                        item["example"] = example
+                        item["definition"] = definition
+                    else:
+                        defNoneFlag = True
                 count += 1
+            if defNoneFlag:
+                print(f'delete {item["word"]}')
+                data.remove(item)
             if not startFlag:
                 target_index += 1
 
