@@ -145,7 +145,7 @@ def get_def(word, data, pos):
     return definition
 
 try:
-    target = "catholic"
+    target = "dominate"
     endCount = 200
     startFlag = False
     target_index = 0
