@@ -2043,11 +2043,13 @@
   },
   {
     "word": "alacrity",
-    "pos": "n."
-  },
-  {
-    "word": "albeit",
-    "pos": "conj."
+    "pos": "n.",
+    "example": "Surely one of the most striking features of human dynamics is the _____ with which those who have been oppressed will oppress whomever they can once the opportunity presents itself.",
+    "definition": [
+      [
+        "promptness in response : cheerful readiness"
+      ]
+    ]
   },
   {
     "word": "alchemy",
@@ -2326,7 +2328,15 @@
   },
   {
     "word": "alter",
-    "pos": "v."
+    "pos": "v.",
+    "example": "an event that _____ the course of history",
+    "definition": [
+      [
+        "to make different without changing into something else",
+        "castrate, spay",
+        "to become different"
+      ]
+    ]
   },
   {
     "word": "alternate",
@@ -2443,7 +2453,15 @@
   },
   {
     "word": "ambidextrous",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "When Zinger played the Ghosts in the regular season, he kicked with his right foot. This time, the _____ soccer player went with his left.",
+    "definition": [
+      [
+        "using both hands with equal ease or dexterity",
+        "using both feet with equal ease : two-footed",
+        "designed or suitable for use by the left or right hand"
+      ]
+    ]
   },
   {
     "word": "ambiguous",
@@ -2720,7 +2738,15 @@
   },
   {
     "word": "anaerobic",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "_____ respiration",
+    "definition": [
+      [
+        "living, active, occurring, or existing in the absence of free oxygen",
+        "of, relating to, or being activity in which the body incurs an oxygen debt",
+        "relating to or induced by anaerobes"
+      ]
+    ]
   },
   {
     "word": "anagram",
@@ -2902,7 +2928,13 @@
   },
   {
     "word": "anecdote",
-    "pos": "n."
+    "pos": "n.",
+    "example": "Like many Jesuits who then ate most of their meals in refectories, McKenzie was a master raconteur with endless _____, stories, and one-liners.",
+    "definition": [
+      [
+        "a usually short narrative of an interesting, amusing, or biographical incident"
+      ]
+    ]
   },
   {
     "word": "anemia",
@@ -3205,7 +3237,13 @@
   },
   {
     "word": "antecedence",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "priority, precedence"
+      ]
+    ]
   },
   {
     "word": "antecedent",
@@ -3290,7 +3328,13 @@
   },
   {
     "word": "antibiotic",
-    "pos": "n."
+    "pos": "n.",
+    "example": "Another way to produce new variants of established _____ is to use genetic engineering to alter the biochemical pathways of the microbes that produce them.",
+    "definition": [
+      [
+        "a substance able to inhibit or kill microorganisms; specifically : an antibacterial substance (such as penicillin, cephalosporin, and ciprofloxacin) that is used to treat or prevent infections by killing or inhibiting the growth of bacteria in or on the body, that is administered orally, topically, or by injection, and that is isolated from cultures of certain microorganisms (such as fungi) or is of semi-synthetic or synthetic origin"
+      ]
+    ]
   },
   {
     "word": "antibody",
@@ -4550,7 +4594,15 @@
   },
   {
     "word": "artifice",
-    "pos": "n."
+    "pos": "n.",
+    "example": "… revising the state's constitution through a series of legal stratagems and _____ …",
+    "definition": [
+      [
+        "clever or artful skill : ingenuity",
+        "an ingenious device or expedient",
+        "an artful stratagem : trick"
+      ]
+    ]
   },
   {
     "word": "artificial",
@@ -4610,7 +4662,13 @@
   },
   {
     "word": "ascribe",
-    "pos": "v."
+    "pos": "v.",
+    "example": "They _____ most of their success to good timing and good luck.",
+    "definition": [
+      [
+        "to refer to a supposed cause, source, or author : to say or think that (something) is caused by, comes from, or is associated with a particular person or thing"
+      ]
+    ]
   },
   {
     "word": "aseptic",
@@ -4809,7 +4867,15 @@
   },
   {
     "word": "assess",
-    "pos": "v."
+    "pos": "v.",
+    "example": "Briefly, the way it works is this. Every time a hog is sold, the seller is _____ 40 cents per $100 of sale value to promote the consumption of pork.",
+    "definition": [
+      [
+        "to determine the rate or amount of (something, such as a tax, charge, or fine)",
+        "to impose (something, such as a tax) according to an established rate",
+        "to subject to a tax, charge, or levy"
+      ]
+    ]
   },
   {
     "word": "assessment",
@@ -5118,7 +5184,14 @@
   },
   {
     "word": "athletics",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "exercises, sports, or games engaged in by athletes",
+        "the practice or principles of athletic activities"
+      ]
+    ]
   },
   {
     "word": "atonal",
@@ -5405,7 +5478,14 @@
   },
   {
     "word": "auspicious",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "… a festival that takes place during the hottest months of spring, just before the monsoon rains, and that is considered an _____ time for weddings.",
+    "definition": [
+      [
+        "showing or suggesting that future success is likely : propitious",
+        "attended by good auspices : fortunate, prosperous"
+      ]
+    ]
   },
   {
     "word": "austere",
@@ -5442,10 +5522,6 @@
         "made or done the same way as an original"
       ]
     ]
-  },
-  {
-    "word": "authoritarian",
-    "pos": "n."
   },
   {
     "word": "authorization",
@@ -5705,7 +5781,15 @@
   },
   {
     "word": "awkward",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "On the ground, vultures are hunched and _____ bundles of feathers, but in the air, where I watch them during much of the day, they are magnificent graceful soarers.",
+    "definition": [
+      [
+        "lacking dexterity or skill (as in the use of hands)",
+        "showing the result of a lack of expertness",
+        "lacking ease or grace (as of movement or expression)"
+      ]
+    ]
   },
   {
     "word": "awl",
@@ -6713,11 +6797,25 @@
   },
   {
     "word": "begrudge",
-    "pos": "v."
+    "pos": "v.",
+    "example": "_____ the weeks spent away from home",
+    "definition": [
+      [
+        "to give or concede reluctantly or with displeasure",
+        "to look upon with disapproval or envy"
+      ]
+    ]
   },
   {
     "word": "behoove",
-    "pos": "v."
+    "pos": "v.",
+    "example": "it _____ us to go",
+    "definition": [
+      [
+        "to be necessary, proper, or advantageous for",
+        "to be necessary, fit, or proper"
+      ]
+    ]
   },
   {
     "word": "belabor",
@@ -7165,7 +7263,14 @@
   },
   {
     "word": "bin",
-    "pos": "n."
+    "pos": "n.",
+    "example": "The woman retreated to a desk, dropping the leaflets in the _____ as though she couldn't bear to hold them anymore.",
+    "definition": [
+      [
+        "a box, frame, crib, or enclosed place used for storage",
+        "a can for trash or garbage : dustbin"
+      ]
+    ]
   },
   {
     "word": "biosphere",
@@ -10469,7 +10574,13 @@
   },
   {
     "word": "centurion",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an officer commanding a Roman century"
+      ]
+    ]
   },
   {
     "word": "ceramic",
@@ -10494,7 +10605,14 @@
   },
   {
     "word": "cereal",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a plant (such as a grass) yielding starchy grain suitable for food; also : its grain",
+        "a prepared foodstuff of grain (such as oatmeal or cornflakes)"
+      ]
+    ]
   },
   {
     "word": "cerebral",
@@ -10980,7 +11098,15 @@
   },
   {
     "word": "check",
-    "pos": "v."
+    "pos": "v.",
+    "example": "\"Sir, I don't know why but there must be a foot or two of water coming down Claiborne. No, _____ that—three feet.\"",
+    "definition": [
+      [
+        "to inspect, examine, or look at appraisingly or appreciatively —usually used with out or over",
+        "to compare with a source, original, or authority : verify",
+        "to look at (something) to obtain information"
+      ]
+    ]
   },
   {
     "word": "chef",
@@ -10995,7 +11121,14 @@
   },
   {
     "word": "chicanery",
-    "pos": "n."
+    "pos": "n.",
+    "example": "He wasn't above using _____ to win votes.",
+    "definition": [
+      [
+        "deception by artful subterfuge or sophistry : trickery",
+        "a piece of sharp practice (as at law) : trick"
+      ]
+    ]
   },
   {
     "word": "chide",
@@ -12906,6 +13039,18 @@
     ]
   },
   {
+    "word": "commonwealth",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a nation, state, or other political unit: such as",
+        "one founded on law and united by compact or tacit agreement of the people for the common good",
+        "one in which supreme authority is vested in the people"
+      ]
+    ]
+  },
+  {
     "word": "commotion",
     "pos": "n.",
     "example": "The _____ was finally brought to an end and peace was restored.",
@@ -13144,6 +13289,16 @@
         "to be equivalent to : counterbalance",
         "to make an appropriate and usually counterbalancing payment to",
         "to provide with means of counteracting variation"
+      ]
+    ]
+  },
+  {
+    "word": "compete",
+    "pos": "v.",
+    "example": "companies _____ for customers",
+    "definition": [
+      [
+        "to strive consciously or unconsciously for an objective (such as position, profit, or a prize) : be in a state of rivalry"
       ]
     ]
   },
@@ -14629,7 +14784,15 @@
   },
   {
     "word": "constraint",
-    "pos": "n."
+    "pos": "n.",
+    "example": "Budget _____ have forced me to revise my travel plans.",
+    "definition": [
+      [
+        "the act of constraining",
+        "the state of being checked, restricted, or compelled to avoid or perform some action",
+        "a constraining condition, agency, or force : check"
+      ]
+    ]
   },
   {
     "word": "constrict",
@@ -15169,10 +15332,6 @@
     ]
   },
   {
-    "word": "convalescent",
-    "pos": "n."
-  },
-  {
     "word": "convenience",
     "pos": "n.",
     "example": "The forms can be filled out online for your _____.",
@@ -15396,7 +15555,13 @@
   },
   {
     "word": "convoke",
-    "pos": "v."
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to call together to a meeting"
+      ]
+    ]
   },
   {
     "word": "convoluted",
@@ -15735,7 +15900,15 @@
   },
   {
     "word": "cosmos",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "universe",
+        "an orderly harmonious systematic universe",
+        "order, harmony"
+      ]
+    ]
   },
   {
     "word": "cosset",
@@ -16362,12 +16535,15 @@
     ]
   },
   {
-    "word": "cringing",
-    "pos": "adj."
-  },
-  {
     "word": "criterion",
-    "pos": "n."
+    "pos": "n.",
+    "example": "There is really only one _____ for a grab bag of culinary facts and anecdotes like this: It has to make you look up occasionally and remark, \"Hey! I never knew that.\"",
+    "definition": [
+      [
+        "a standard on which a judgment or decision may be based",
+        "a characterizing mark or trait"
+      ]
+    ]
   },
   {
     "word": "critic",
@@ -17042,6 +17218,18 @@
     ]
   },
   {
+    "word": "cyclone",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a storm or system of winds that rotates about a center of low atmospheric pressure, advances at a speed of 20 to 30 miles (about 30 to 50 kilometers) an hour, and often brings heavy rain",
+        "tornado",
+        "low"
+      ]
+    ]
+  },
+  {
     "word": "cylinder",
     "pos": "n.",
     "example": "the economy is running _____",
@@ -17199,7 +17387,15 @@
   },
   {
     "word": "dampen",
-    "pos": "v."
+    "pos": "v.",
+    "example": "the shower barely _____ the ground",
+    "definition": [
+      [
+        "to check or diminish the activity or vigor of : deaden",
+        "to make damp",
+        "damp"
+      ]
+    ]
   },
   {
     "word": "dandy",
@@ -17673,7 +17869,15 @@
   },
   {
     "word": "decorate",
-    "pos": "v."
+    "pos": "v.",
+    "example": "_____ commerce with the splendid virtues of honor and loyalty",
+    "definition": [
+      [
+        "to add honor to",
+        "to furnish with something ornamental",
+        "to award a mark of honor to"
+      ]
+    ]
   },
   {
     "word": "decorum",
@@ -17805,7 +18009,14 @@
   },
   {
     "word": "defect",
-    "pos": "n."
+    "pos": "n.",
+    "example": "carefully inspect a tire for _____",
+    "definition": [
+      [
+        "an imperfection or abnormality that impairs quality, function, or utility : shortcoming, flaw",
+        "an imperfection (such as a vacancy or an unlike atom) in a crystal lattice"
+      ]
+    ]
   },
   {
     "word": "defect",
@@ -17937,7 +18148,15 @@
   },
   {
     "word": "definite",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "… the side striking the new coin is flattened and less _____.",
+    "definition": [
+      [
+        "free of all ambiguity, uncertainty, or obscurity",
+        "unquestionable, decided",
+        "typically designating an identified or immediately identifiable person or thing"
+      ]
+    ]
   },
   {
     "word": "definition",
@@ -17965,11 +18184,24 @@
   },
   {
     "word": "deflect",
-    "pos": "v."
+    "pos": "v.",
+    "example": "the shot _____ off the goalie's shoulder pad",
+    "definition": [
+      [
+        "to turn (something) aside especially from a straight course or fixed direction",
+        "to turn aside : deviate"
+      ]
+    ]
   },
   {
     "word": "deforestation",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the action or process of clearing of forests; also : the state of having been cleared of forests"
+      ]
+    ]
   },
   {
     "word": "defraud",
@@ -18886,7 +19118,15 @@
   },
   {
     "word": "derogate",
-    "pos": "v."
+    "pos": "v.",
+    "example": "… a few instances of inaccuracy or mediocrity can never _____ from the superlative merit of Homer and Vergil …",
+    "definition": [
+      [
+        "to cause to seem inferior : disparage",
+        "to take away a part so as to impair : detract",
+        "to act beneath one's position or character"
+      ]
+    ]
   },
   {
     "word": "derogatory",
@@ -18971,7 +19211,13 @@
   },
   {
     "word": "deserter",
-    "pos": "n."
+    "pos": "n.",
+    "example": "But now that Anderson has been AWOL for more than 30 days, he is known in the U.S. military as a _____, facing the possibility of years in jail.",
+    "definition": [
+      [
+        "a person who deserts; especially : a member of a military force who abandons service without leave"
+      ]
+    ]
   },
   {
     "word": "desertion",
@@ -19244,7 +19490,15 @@
   },
   {
     "word": "determination",
-    "pos": "n."
+    "pos": "n.",
+    "example": "documents that will be used for the _____ of ownership",
+    "definition": [
+      [
+        "a judicial decision settling and ending a controversy",
+        "the resolving of a question by argument or reasoning",
+        "termination"
+      ]
+    ]
   },
   {
     "word": "detest",
@@ -19620,7 +19874,15 @@
   },
   {
     "word": "differentiate",
-    "pos": "v."
+    "pos": "v.",
+    "example": "how we _____ ourselves from our competitors",
+    "definition": [
+      [
+        "to obtain the mathematical derivative of",
+        "to mark or show a difference in : constitute a contrasting element that distinguishes",
+        "to develop differential or distinguishing characteristics in"
+      ]
+    ]
   },
   {
     "word": "diffident",
@@ -20161,7 +20423,13 @@
   },
   {
     "word": "discomfiture",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the act of discomfiting : the state of being discomfited"
+      ]
+    ]
   },
   {
     "word": "discompose",
@@ -20361,7 +20629,13 @@
   },
   {
     "word": "disenchant",
-    "pos": "v."
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to free from illusion"
+      ]
+    ]
   },
   {
     "word": "disengage",
@@ -20748,7 +21022,15 @@
   },
   {
     "word": "disposition",
-    "pos": "n."
+    "pos": "n.",
+    "example": "His father, Increase [Mather], with all his faults—his sour, depressive _____, his open preference for England—is much more attractive.",
+    "definition": [
+      [
+        "prevailing tendency, mood, or inclination",
+        "temperamental makeup",
+        "the tendency of something to act in a certain manner under given circumstances"
+      ]
+    ]
   },
   {
     "word": "disproof",
@@ -20893,7 +21175,14 @@
   },
   {
     "word": "dissimulate",
-    "pos": "v."
+    "pos": "v.",
+    "example": "a politician's ability to _____",
+    "definition": [
+      [
+        "to hide under a false appearance",
+        "dissemble"
+      ]
+    ]
   },
   {
     "word": "dissipate",
@@ -21655,7 +21944,15 @@
   },
   {
     "word": "dour",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "an insistent hunger for learning and a _____ … determination to achieve it",
+    "definition": [
+      [
+        "stern, harsh",
+        "obstinate, unyielding",
+        "gloomy, sullen"
+      ]
+    ]
   },
   {
     "word": "douse",
@@ -21716,7 +22013,15 @@
   },
   {
     "word": "doyen",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the senior member of a body or group",
+        "a person considered to be knowledgeable or uniquely skilled as a result of long experience in some field of endeavor",
+        "the oldest example of a category"
+      ]
+    ]
   },
   {
     "word": "drab",
@@ -21755,7 +22060,15 @@
   },
   {
     "word": "drain",
-    "pos": "v."
+    "pos": "v.",
+    "example": "his nervousness _____ away, as it always did",
+    "definition": [
+      [
+        "to draw off (liquid) gradually or completely",
+        "to cause the gradual disappearance of",
+        "to exhaust physically or emotionally"
+      ]
+    ]
   },
   {
     "word": "drainage",
@@ -21819,6 +22132,41 @@
       [
         "feeling, displaying, or reflecting listlessness or discouragement",
         "having nothing likely to provide cheer, comfort, or interest : gloomy, dismal"
+      ]
+    ]
+  },
+  {
+    "word": "drench",
+    "pos": "v.",
+    "example": "was _____ in furs and diamonds",
+    "definition": [
+      [
+        "to wet thoroughly (as by soaking or immersing in liquid)",
+        "to soak or cover thoroughly with liquid that falls or is precipitated",
+        "to fill or cover completely as if by soaking or precipitation"
+      ]
+    ]
+  },
+  {
+    "word": "drill",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an instrument with an edged or pointed end for making holes in hard substances by revolving or by a succession of blows; also : a machine for operating such an instrument",
+        "the act or exercise of training soldiers in marching and in executing prescribed movements with a weapon",
+        "a physical or mental exercise aimed at perfecting facility and skill especially by regular practice"
+      ],
+      [
+        "a western African baboon (Mandrillus leucophaeus synonym Papio leucophaeus) having a black face and brown coat and closely related to the mandrill"
+      ],
+      [
+        "a shallow furrow or trench into which seed is sown",
+        "a row of seed sown in such a furrow",
+        "a planting implement that makes holes or furrows, drops in the seed and sometimes fertilizer, and covers them with earth"
+      ],
+      [
+        "a durable cotton twilled fabric"
       ]
     ]
   },
@@ -22254,7 +22602,14 @@
   },
   {
     "word": "earnest",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "Barnum's antics provoked tongue-in-cheek reporting and nods and winks in the newspapers, but no _____ cries of humbug. The artful deceiver turned fraud into family fun.",
+    "definition": [
+      [
+        "characterized by or proceeding from an intense and serious state of mind",
+        "grave, important"
+      ]
+    ]
   },
   {
     "word": "earplug",
@@ -22408,7 +22763,15 @@
   },
   {
     "word": "economical",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "an _____ shopper",
+    "definition": [
+      [
+        "marked by careful, efficient, and prudent use of resources : thrifty",
+        "operating with little waste or at a saving",
+        "economic"
+      ]
+    ]
   },
   {
     "word": "ecstasy",
@@ -22523,11 +22886,23 @@
   },
   {
     "word": "effrontery",
-    "pos": "n."
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "shameless boldness : insolence"
+      ]
+    ]
   },
   {
     "word": "egalitarian",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "asserting, promoting, or marked by egalitarianism"
+      ]
+    ]
   },
   {
     "word": "egocentric",
@@ -22543,7 +22918,14 @@
   },
   {
     "word": "egregious",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "History cannot be rewritten, but some of its more _____ errors can be corrected—at least in part, at least symbolically.  … Or so assume a growing number of human-rights advocates.",
+    "definition": [
+      [
+        "conspicuous; especially : conspicuously bad : flagrant",
+        "distinguished"
+      ]
+    ]
   },
   {
     "word": "egress",
@@ -22581,7 +22963,13 @@
   },
   {
     "word": "elated",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "But I was _____ when my song was banned. I mean, nothing could have complimented me more than to hear they just banned it at such-and-such a station …",
+    "definition": [
+      [
+        "marked by high spirits : exultant"
+      ]
+    ]
   },
   {
     "word": "elbow",
@@ -22806,6 +23194,17 @@
     ]
   },
   {
+    "word": "emanate",
+    "pos": "v.",
+    "example": "a sweet scent _____ from the blossoms",
+    "definition": [
+      [
+        "to come out from a source",
+        "emit"
+      ]
+    ]
+  },
+  {
     "word": "emancipate",
     "pos": "v.",
     "example": "",
@@ -22866,7 +23265,13 @@
   },
   {
     "word": "emblematic",
-    "pos": "adj."
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "of, relating to, or constituting an emblem : symbolic, representative"
+      ]
+    ]
   },
   {
     "word": "embody",
@@ -23543,7 +23948,15 @@
   },
   {
     "word": "enormity",
-    "pos": "n."
+    "pos": "n.",
+    "example": "they awakened; they sat up; and then the _____ of their situation burst upon them. \"How did the fire start?\"",
+    "definition": [
+      [
+        "an outrageous, improper, vicious, or immoral act",
+        "the quality or state of being immoderate, monstrous, or outrageous; especially : great wickedness",
+        "the quality or state of being huge : immensity"
+      ]
+    ]
   },
   {
     "word": "enormous",
@@ -23671,6 +24084,5981 @@
   },
   {
     "word": "entice",
-    "pos": "v."
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to attract artfully or adroitly or by arousing hope or desire : tempt"
+      ]
+    ]
+  },
+  {
+    "word": "entirety",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the state of being entire or complete",
+        "sum total, whole"
+      ]
+    ]
+  },
+  {
+    "word": "entitle",
+    "pos": "v.",
+    "example": "this ticket _____ the bearer to free admission",
+    "definition": [
+      [
+        "to give a title to : designate",
+        "to furnish with proper grounds for seeking or claiming something"
+      ]
+    ]
+  },
+  {
+    "word": "entity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "being, existence; especially : independent, separate, or self-contained existence",
+        "the existence of a thing as contrasted with its attributes",
+        "something that has separate and distinct existence and objective or conceptual reality"
+      ]
+    ]
+  },
+  {
+    "word": "entrance",
+    "pos": "v.",
+    "example": "we were _____ by the view",
+    "definition": [
+      [
+        "to put into a trance",
+        "to carry away with delight, wonder, or rapture"
+      ]
+    ]
+  },
+  {
+    "word": "entreat",
+    "pos": "v.",
+    "example": "_____ his boss for another chance",
+    "definition": [
+      [
+        "to plead with especially in order to persuade : ask urgently",
+        "to deal with : treat",
+        "to make an earnest request : plead"
+      ]
+    ]
+  },
+  {
+    "word": "entreaty",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an act of entreating : plea"
+      ]
+    ]
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one who organizes, manages, and assumes the risks of a business or enterprise"
+      ]
+    ]
+  },
+  {
+    "word": "entrust",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to confer a trust on; especially : to deliver something in trust to",
+        "to commit to another with confidence"
+      ]
+    ]
+  },
+  {
+    "word": "entry",
+    "pos": "n.",
+    "example": "the latest _____ in the computer market",
+    "definition": [
+      [
+        "the right or privilege of entering : entrée",
+        "the act of entering : entrance",
+        "a place of entrance: such as"
+      ]
+    ]
+  },
+  {
+    "word": "enumerate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to ascertain the number of : count",
+        "to specify one after another : list"
+      ]
+    ]
+  },
+  {
+    "word": "enunciate",
+    "pos": "v.",
+    "example": "_____ all the syllables",
+    "definition": [
+      [
+        "to make a definite or systematic statement of",
+        "announce, proclaim",
+        "articulate, pronounce"
+      ]
+    ]
+  },
+  {
+    "word": "environ",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "encircle, surround"
+      ]
+    ]
+  },
+  {
+    "word": "envision",
+    "pos": "v.",
+    "example": "_____ a career dedicated to promoting peace",
+    "definition": [
+      [
+        "to picture to oneself"
+      ]
+    ]
+  },
+  {
+    "word": "enzyme",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of numerous complex proteins that are produced by living cells and catalyze specific biochemical reactions at body temperatures"
+      ]
+    ]
+  },
+  {
+    "word": "epaulet",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "something that ornaments or protects the shoulder: such as",
+        "an ornamental fringed shoulder pad formerly worn as part of a military uniform",
+        "an ornamental strip or loop sewn across the shoulder of a dress or coat"
+      ]
+    ]
+  },
+  {
+    "word": "ephemeral",
+    "pos": "adj.",
+    "example": "As a consequence North Africa was easily reconquered by the Byzantine emperor in the 530s, and the Vandals' influence on North African development was _____ and negligible.",
+    "definition": [
+      [
+        "lasting a very short time",
+        "lasting one day only"
+      ]
+    ]
+  },
+  {
+    "word": "epic",
+    "pos": "n.",
+    "example": "the Iliad and the Odyssey are _____",
+    "definition": [
+      [
+        "a long narrative poem in elevated style recounting the deeds of a legendary or historical hero",
+        "a work of art (such as a novel or drama) that resembles or suggests an epic",
+        "a series of events or body of legend or tradition thought to form the proper subject of an epic"
+      ]
+    ]
+  },
+  {
+    "word": "epic",
+    "pos": "adj.",
+    "example": "his genius was _____",
+    "definition": [
+      [
+        "of, relating to, or having the characteristics of an epic",
+        "extending beyond the usual or ordinary especially in size or scope",
+        "heroic"
+      ]
+    ]
+  },
+  {
+    "word": "epicure",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one with sensitive and discriminating tastes especially in food or wine",
+        "one devoted to sensual pleasure : sybarite"
+      ]
+    ]
+  },
+  {
+    "word": "epidemic",
+    "pos": "adj.",
+    "example": "The dream of running off to live the good life in a postcard perfect town in the mountains or by the sea often reaches _____ proportions near the end of summer.",
+    "definition": [
+      [
+        "affecting or tending to affect a disproportionately large number of individuals within a population, community, or region at the same time",
+        "excessively prevalent",
+        "contagious"
+      ]
+    ]
+  },
+  {
+    "word": "epidermis",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the outer epithelial layer of the external integument of the animal body that is derived from the embryonic epiblast; specifically : the outer nonsensitive and nonvascular layer of the skin of a vertebrate that overlies the dermis",
+        "any of various animal integuments",
+        "a thin surface layer of tissue in higher plants formed by growth of a primary meristem"
+      ]
+    ]
+  },
+  {
+    "word": "epigram",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a concise poem dealing pointedly and often satirically with a single thought or event and often ending with an ingenious turn of thought",
+        "a terse, sage, or witty and often paradoxical saying",
+        "epigrammatic expression"
+      ]
+    ]
+  },
+  {
+    "word": "epilogue",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a concluding section that rounds out the design of a literary work",
+        "a speech often in verse addressed to the audience by an actor at the end of a play; also : the actor speaking such an epilogue",
+        "the final scene of a play that comments on or summarizes the main action"
+      ]
+    ]
+  },
+  {
+    "word": "episodic",
+    "pos": "adj.",
+    "example": "may be able to establish whether the sea-floor spreading is continuous or _____",
+    "definition": [
+      [
+        "made up of separate especially loosely connected episodes",
+        "having the form of an episode",
+        "of or limited in duration or significance to a particular episode : temporary"
+      ]
+    ]
+  },
+  {
+    "word": "epitaph",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an inscription on or at a tomb or a grave in memory of the one buried there",
+        "a brief statement commemorating or epitomizing a deceased person or something past"
+      ]
+    ]
+  },
+  {
+    "word": "epithet",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a characterizing word or phrase accompanying or occurring in place of the name of a person or thing",
+        "a disparaging or abusive word or phrase",
+        "the part of a taxonomic name identifying a subordinate unit within a genus"
+      ]
+    ]
+  },
+  {
+    "word": "epitome",
+    "pos": "n.",
+    "example": "Manchester, then known as 'Cottonopolis' and perceived throughout the world as the _____ of the whirling fierceness of the industrial revolution.  …",
+    "definition": [
+      [
+        "a typical or ideal example : embodiment",
+        "a summary of a written work",
+        "a brief presentation or statement of something"
+      ]
+    ]
+  },
+  {
+    "word": "epitomize",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to serve as the typical or ideal example of",
+        "to make or give an epitome of"
+      ]
+    ]
+  },
+  {
+    "word": "epoch",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an event or a time marked by an event that begins a new period or development",
+        "a memorable event or date",
+        "an extended period of time usually characterized by a distinctive development or by a memorable series of events"
+      ]
+    ]
+  },
+  {
+    "word": "equable",
+    "pos": "adj.",
+    "example": "an _____ distance apart",
+    "definition": [
+      [
+        "marked by lack of variation or change : uniform",
+        "marked by lack of noticeable, unpleasant, or extreme variation or inequality"
+      ]
+    ]
+  },
+  {
+    "word": "equanimity",
+    "pos": "n.",
+    "example": "nothing could disturb his _____",
+    "definition": [
+      [
+        "evenness of mind especially under stress",
+        "right disposition : balance"
+      ]
+    ]
+  },
+  {
+    "word": "equate",
+    "pos": "v.",
+    "example": "_____ disagreement with disloyalty",
+    "definition": [
+      [
+        "to make equal : equalize",
+        "to make such an allowance or correction in as will reduce to a common standard or obtain a correct result",
+        "to treat, represent, or regard as equal, equivalent, or comparable"
+      ]
+    ]
+  },
+  {
+    "word": "equation",
+    "pos": "n.",
+    "example": "bring governmental enterprises and payment for them into immediate _____",
+    "definition": [
+      [
+        "the act or process of equating",
+        "an element affecting a process : factor",
+        "a complex of variable factors"
+      ]
+    ]
+  },
+  {
+    "word": "equator",
+    "pos": "n.",
+    "example": "the _____ of a dividing cell",
+    "definition": [
+      [
+        "the great circle of the celestial sphere whose plane is perpendicular to the axis of the earth",
+        "a great circle of the earth or a celestial body that is everywhere equally distant from the two poles and divides the surface into the northern and southern hemispheres",
+        "a circle or circular band dividing the surface of a body into two usually equal and symmetrical parts"
+      ]
+    ]
+  },
+  {
+    "word": "equilibrium",
+    "pos": "n.",
+    "example": "trying to recover his _____",
+    "definition": [
+      [
+        "a state of intellectual or emotional balance : poise",
+        "a state of adjustment between opposing or divergent influences or elements",
+        "a state of balance between opposing forces or actions that is either static (as in a body acted on by forces whose resultant is zero) or dynamic (as in a reversible chemical reaction when the rates of reaction in both directions are equal)"
+      ]
+    ]
+  },
+  {
+    "word": "equine",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "of, relating to, or resembling a horse or the horse family"
+      ]
+    ]
+  },
+  {
+    "word": "equity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "justice according to natural law or right; specifically : freedom from bias or favoritism",
+        "something that is equitable",
+        "the money value of a property or of an interest in a property in excess of claims or liens against it"
+      ]
+    ]
+  },
+  {
+    "word": "equivalent",
+    "pos": "adj.",
+    "example": "_____ quantities of two elements",
+    "definition": [
+      [
+        "equal in force, amount, or value; also : equal in area or volume but not superposable",
+        "like in signification or import",
+        "having logical equivalence"
+      ]
+    ]
+  },
+  {
+    "word": "equivocate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to use equivocal language especially with intent to deceive",
+        "to avoid committing oneself in what one says"
+      ]
+    ]
+  },
+  {
+    "word": "equivocation",
+    "pos": "n.",
+    "example": "Increasingly, the inaccuracies, the elisions, and the _____ were viewed as deliberate acts of subversion, efforts to assert some control over the past instead of simply recording it.",
+    "definition": [
+      [
+        "deliberate evasiveness in wording : the use of ambiguous or equivocal language : an ambiguous or deliberately evasive statement"
+      ]
+    ]
+  },
+  {
+    "word": "eradicate",
+    "pos": "v.",
+    "example": "programs to _____ illiteracy",
+    "definition": [
+      [
+        "to do away with as completely as if by pulling up by the roots",
+        "to pull up by the roots"
+      ]
+    ]
+  },
+  {
+    "word": "erase",
+    "pos": "v.",
+    "example": "_____ a blackboard",
+    "definition": [
+      [
+        "to rub or scrape out (something, such as written, painted, or engraved letters)",
+        "to remove written or drawn marks from",
+        "to remove (recorded matter) from a magnetic medium (such as magnetic tape); also : to remove recorded matter from"
+      ]
+    ]
+  },
+  {
+    "word": "erasure",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an act or instance of erasing"
+      ]
+    ]
+  },
+  {
+    "word": "erect",
+    "pos": "adj.",
+    "example": "columns still _____ in the ruins",
+    "definition": [
+      [
+        "vertical in position; also : not spread out or decumbent",
+        "standing up or out from the body",
+        "characterized by firm or rigid straightness in bodily posture"
+      ]
+    ]
+  },
+  {
+    "word": "err",
+    "pos": "v.",
+    "example": "_____ on the side of caution",
+    "definition": [
+      [
+        "to make a mistake",
+        "to violate an accepted standard of conduct",
+        "stray"
+      ]
+    ]
+  },
+  {
+    "word": "errand",
+    "pos": "n.",
+    "example": "was on an _____ for his mother",
+    "definition": [
+      [
+        "a short trip taken to attend to some business often for another",
+        "the object or purpose of such a trip",
+        "an oral message entrusted to a person"
+      ]
+    ]
+  },
+  {
+    "word": "erratic",
+    "pos": "adj.",
+    "example": "My sinker has been my most _____ pitch. And when your foundation pitch is lacking, you have to go to other pitches. My sinker has been in and out, but mostly out.",
+    "definition": [
+      [
+        "having no fixed course : wandering",
+        "characterized by lack of consistency, regularity, or uniformity",
+        "deviating from what is ordinary or standard : eccentric"
+      ]
+    ]
+  },
+  {
+    "word": "ersatz",
+    "pos": "adj.",
+    "example": "_____ intellectuals",
+    "definition": [
+      [
+        "being a usually artificial and inferior substitute or imitation"
+      ]
+    ]
+  },
+  {
+    "word": "erstwhile",
+    "pos": "adj.",
+    "example": "_____ enemies",
+    "definition": [
+      [
+        "former, previous"
+      ]
+    ]
+  },
+  {
+    "word": "erudite",
+    "pos": "adj.",
+    "example": "He was well read, especially in the works of Kipling, a field in which Violet could give him a game, and from time to time they would exchange _____ letters about Kipling characters.",
+    "definition": [
+      [
+        "having or showing knowledge that is gained by studying : possessing or displaying erudition"
+      ]
+    ]
+  },
+  {
+    "word": "erupt",
+    "pos": "v.",
+    "example": "the audience _____ in applause",
+    "definition": [
+      [
+        "to burst from limits or restraint",
+        "to emerge through the gum",
+        "to force out or release suddenly and often violently something (such as lava or steam) that is pent up"
+      ]
+    ]
+  },
+  {
+    "word": "escalate",
+    "pos": "v.",
+    "example": "a little war threatens to _____ into a huge ugly one",
+    "definition": [
+      [
+        "to increase in extent, volume, number, amount, intensity, or scope",
+        "expand"
+      ]
+    ]
+  },
+  {
+    "word": "escapism",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "habitual diversion of the mind to purely imaginative activity or entertainment as an escape from reality or routine"
+      ]
+    ]
+  },
+  {
+    "word": "eschew",
+    "pos": "v.",
+    "example": "A fair number of academics _____ the simple title \"professor\" and call themselves economists, astronomers, historians, philosophers.",
+    "definition": [
+      [
+        "to avoid habitually especially on moral or practical grounds : shun"
+      ]
+    ]
+  },
+  {
+    "word": "esophagus",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a muscular tube that conveys food from the mouth to the stomach and that in humans is about nine inches (23 centimeters) long and passes from the pharynx down the neck between the trachea and the spinal column and behind the left bronchus where it pierces the diaphragm slightly to the left of the middle line and joins the cardiac end of the stomach"
+      ]
+    ]
+  },
+  {
+    "word": "esoteric",
+    "pos": "adj.",
+    "example": "There was a new mall, an excellent bookstore with _____ literary and policy journals, some restaurants with cosmopolitan menus, and engaging real estate advertisements.",
+    "definition": [
+      [
+        "designed for or understood by the specially initiated alone",
+        "requiring or exhibiting knowledge that is restricted to a small group; broadly : difficult to understand",
+        "limited to a small circle"
+      ]
+    ]
+  },
+  {
+    "word": "espionage",
+    "pos": "n.",
+    "example": "industrial _____",
+    "definition": [
+      [
+        "the practice of spying or using spies to obtain information about the plans and activities especially of a foreign government or a competing company"
+      ]
+    ]
+  },
+  {
+    "word": "espousal",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "betrothal",
+        "wedding",
+        "marriage"
+      ]
+    ]
+  },
+  {
+    "word": "espouse",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "marry",
+        "to take up and support as a cause : become attached to"
+      ]
+    ]
+  },
+  {
+    "word": "espy",
+    "pos": "v.",
+    "example": "among the several horses … she _____ the white mustang",
+    "definition": [
+      [
+        "to catch sight of"
+      ]
+    ]
+  },
+  {
+    "word": "essential",
+    "pos": "adj.",
+    "example": "an _____ requirement for admission to college",
+    "definition": [
+      [
+        "of, relating to, or constituting essence : inherent",
+        "of the utmost importance : basic, indispensable, necessary",
+        "being a substance that is not synthesized by the body in a quantity sufficient for normal health and growth and that must be obtained from the diet"
+      ]
+    ]
+  },
+  {
+    "word": "essential",
+    "pos": "n.",
+    "example": "the _____ of astronomy",
+    "definition": [
+      [
+        "something basic",
+        "something necessary, indispensable, or unavoidable"
+      ]
+    ]
+  },
+  {
+    "word": "estimable",
+    "pos": "adj.",
+    "example": "an _____ adversary",
+    "definition": [
+      [
+        "capable of being estimated",
+        "valuable",
+        "worthy of esteem"
+      ]
+    ]
+  },
+  {
+    "word": "estranged",
+    "pos": "adj.",
+    "example": "… it's kind of shameful to admit your idea of unwinding in front of the TV is watching somebody's entire family get murdered by their greedy, _____ uncle.",
+    "definition": [
+      [
+        "having lost former closeness and affection : in a state of alienation from a previous close or familial relationship"
+      ]
+    ]
+  },
+  {
+    "word": "etch",
+    "pos": "v.",
+    "example": "pain was _____ on his features",
+    "definition": [
+      [
+        "to produce (something, such as a pattern or design) on a hard material by eating into the material's surface (as by acid or laser beam)",
+        "to subject to such etching",
+        "to delineate or impress clearly"
+      ]
+    ]
+  },
+  {
+    "word": "etching",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the action or process of etching",
+        "the art of producing pictures or designs by printing from an etched metal plate",
+        "an etched design"
+      ]
+    ]
+  },
+  {
+    "word": "eternal",
+    "pos": "adj.",
+    "example": "good teacher, what must I do to inherit _____ life?",
+    "definition": [
+      [
+        "having infinite duration : everlasting",
+        "of or relating to eternity",
+        "characterized by abiding fellowship with God"
+      ]
+    ]
+  },
+  {
+    "word": "ethereal",
+    "pos": "adj.",
+    "example": "this smallest, most _____, and daintiest of birds",
+    "definition": [
+      [
+        "of or relating to the regions beyond the earth",
+        "celestial, heavenly",
+        "unworldly, spiritual"
+      ]
+    ]
+  },
+  {
+    "word": "ethnic",
+    "pos": "adj.",
+    "example": "… ancient _____ revels of a faith long since forsaken …",
+    "definition": [
+      [
+        "of or relating to large groups of people classed according to common racial, national, tribal, religious, linguistic, or cultural origin or background",
+        "being a member of a specified ethnic group",
+        "of, relating to, or characteristic of a minority ethnic group"
+      ]
+    ]
+  },
+  {
+    "word": "ethnology",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a branch of cultural anthropology dealing chiefly with the comparative and analytical study of cultures; broadly : cultural anthropology"
+      ]
+    ]
+  },
+  {
+    "word": "ethos",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic"
+      ]
+    ]
+  },
+  {
+    "word": "etiquette",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the conduct or procedure required by good breeding or prescribed by authority to be observed in social or official life"
+      ]
+    ]
+  },
+  {
+    "word": "etymology",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the history of a linguistic form (such as a word) shown by tracing its development since its earliest recorded occurrence in the language where it is found, by tracing its transmission from one language to another, by analyzing it into its component parts, by identifying its cognates in other languages, or by tracing it and its cognates to a common ancestral form in an ancestral language",
+        "a branch of linguistics concerned with etymologies"
+      ]
+    ]
+  },
+  {
+    "word": "eucalyptus",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods"
+      ]
+    ]
+  },
+  {
+    "word": "eulogize",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to speak or write in high praise of : extol"
+      ]
+    ]
+  },
+  {
+    "word": "eulogy",
+    "pos": "n.",
+    "example": "she delivered the _____ at his funeral",
+    "definition": [
+      [
+        "a commendatory oration or writing especially in honor of one deceased",
+        "high praise"
+      ]
+    ]
+  },
+  {
+    "word": "euphemism",
+    "pos": "n.",
+    "example": "Cougar is the _____ for a woman who has reached mid-life, who is single, financially secure and on the lookout for relationships with younger men—as in \"prey.\"",
+    "definition": [
+      [
+        "the substitution of an agreeable or inoffensive expression for one that may offend or suggest something unpleasant; also : the expression so substituted"
+      ]
+    ]
+  },
+  {
+    "word": "euphonious",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "pleasing to the ear"
+      ]
+    ]
+  },
+  {
+    "word": "euphoria",
+    "pos": "n.",
+    "example": "Apparently, it is the change in mood—the feeling of _____ and reduced anxiety—that prompts people to start using this dangerous drug.",
+    "definition": [
+      [
+        "a feeling of well-being or elation"
+      ]
+    ]
+  },
+  {
+    "word": "evacuate",
+    "pos": "v.",
+    "example": "were ordered to _____ the building",
+    "definition": [
+      [
+        "to remove the contents of : empty",
+        "to discharge from the body as waste : void",
+        "to remove something (such as gas or water) from especially by pumping"
+      ]
+    ]
+  },
+  {
+    "word": "evade",
+    "pos": "v.",
+    "example": "the simple, personal meaning _____ them",
+    "definition": [
+      [
+        "to slip away",
+        "to take refuge in escape or avoidance",
+        "to elude by dexterity or stratagem"
+      ]
+    ]
+  },
+  {
+    "word": "evaluation",
+    "pos": "n.",
+    "example": "The CIA described my _____ of the situation as \"sound, perceptive and very much in line with our own.\"",
+    "definition": [
+      [
+        "the act or result of evaluating : determination of the value, nature, character, or quality of something or someone"
+      ]
+    ]
+  },
+  {
+    "word": "evanescent",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "tending to vanish like vapor"
+      ]
+    ]
+  },
+  {
+    "word": "evaporate",
+    "pos": "v.",
+    "example": "_____ electrons from a hot wire",
+    "definition": [
+      [
+        "to convert into vapor; also : to dissipate or draw off in vapor or fumes",
+        "to deposit (a substance, such as a metal) in the form of a film by sublimation",
+        "to expel moisture from"
+      ]
+    ]
+  },
+  {
+    "word": "evasion",
+    "pos": "n.",
+    "example": "suspected of tax _____",
+    "definition": [
+      [
+        "a means of evading : dodge",
+        "the act or an instance of evading : escape"
+      ]
+    ]
+  },
+  {
+    "word": "evasive",
+    "pos": "adj.",
+    "example": "_____ answers",
+    "definition": [
+      [
+        "tending or intended to evade : equivocal"
+      ]
+    ]
+  },
+  {
+    "word": "even",
+    "pos": "adj.",
+    "example": "we will not be _____ until you repay my visit",
+    "definition": [
+      [
+        "having a horizontal surface : flat",
+        "being without break, indentation, or irregularity : smooth",
+        "being in the same plane or line"
+      ]
+    ]
+  },
+  {
+    "word": "evenhanded",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "fair, impartial"
+      ]
+    ]
+  },
+  {
+    "word": "evict",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to recover (property) from a person by legal process",
+        "to put (a tenant) out by legal process",
+        "to force out : expel"
+      ]
+    ]
+  },
+  {
+    "word": "evince",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to constitute outward evidence of",
+        "to display clearly : reveal"
+      ]
+    ]
+  },
+  {
+    "word": "evocative",
+    "pos": "adj.",
+    "example": "settings … so _____ that they bring tears to the eyes",
+    "definition": [
+      [
+        "evoking or tending to evoke an especially emotional response"
+      ]
+    ]
+  },
+  {
+    "word": "evoke",
+    "pos": "v.",
+    "example": "this place _____ memories",
+    "definition": [
+      [
+        "to call forth or up: such as",
+        "to bring to mind or recollection",
+        "to cite especially with approval or for support : invoke"
+      ]
+    ]
+  },
+  {
+    "word": "evolve",
+    "pos": "v.",
+    "example": "_____ social, political, and literary philosophies",
+    "definition": [
+      [
+        "emit",
+        "derive, educe",
+        "to produce by natural evolutionary processes"
+      ]
+    ]
+  },
+  {
+    "word": "ewe",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the female of the sheep especially when mature; also : the female of various related animals"
+      ]
+    ]
+  },
+  {
+    "word": "ewer",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a vase-shaped pitcher or jug"
+      ]
+    ]
+  },
+  {
+    "word": "exacerbate",
+    "pos": "v.",
+    "example": "The declining retirement security faced by growing numbers of Americans is being _____ by increasing longevity and quickly rising health care costs.",
+    "definition": [
+      [
+        "to make more violent, bitter, or severe"
+      ]
+    ]
+  },
+  {
+    "word": "exact",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "exhibiting or marked by strict, particular, and complete accordance with fact or a standard",
+        "marked by thorough consideration or minute measurement of small factual details"
+      ]
+    ]
+  },
+  {
+    "word": "exact",
+    "pos": "v.",
+    "example": "from them has been _____ the ultimate sacrifice",
+    "definition": [
+      [
+        "to call for forcibly or urgently and obtain",
+        "to call for as necessary or desirable"
+      ]
+    ]
+  },
+  {
+    "word": "exacting",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "tryingly or unremittingly severe in making demands",
+        "requiring careful attention and precision"
+      ]
+    ]
+  },
+  {
+    "word": "exactitude",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the quality or an instance of being exact : exactness"
+      ]
+    ]
+  },
+  {
+    "word": "exaggerate",
+    "pos": "v.",
+    "example": "a friend _____ a man's virtues",
+    "definition": [
+      [
+        "to enlarge beyond bounds or the truth : overstate",
+        "to enlarge or increase especially beyond the normal : overemphasize",
+        "to make an overstatement"
+      ]
+    ]
+  },
+  {
+    "word": "exaggeration",
+    "pos": "n.",
+    "example": "But it's no _____ to say that this car has been one of the major linchpins of the burgeoning Asian hot-rod phenomenon.",
+    "definition": [
+      [
+        "an act or instance of exaggerating something : overstatement of the truth : a statement that exaggerates something"
+      ]
+    ]
+  },
+  {
+    "word": "exalt",
+    "pos": "v.",
+    "example": "rousing and _____ the imagination",
+    "definition": [
+      [
+        "to raise in rank, power, or character",
+        "to elevate by praise or in estimation : glorify",
+        "elate"
+      ]
+    ]
+  },
+  {
+    "word": "exaltation",
+    "pos": "n.",
+    "example": "_____ of virulence of a virus",
+    "definition": [
+      [
+        "an act of exalting : the state of being exalted",
+        "an excessively intensified sense of well-being, power, or importance",
+        "an increase in degree or intensity"
+      ]
+    ]
+  },
+  {
+    "word": "exasperate",
+    "pos": "v.",
+    "example": "She did show favour to the youth in your sight only to _____ you, to awake your dormouse valour, to put fire in your heart and brimstone in your liver.",
+    "definition": [
+      [
+        "to cause irritation or annoyance to",
+        "to excite the anger of : enrage",
+        "to make more grievous : aggravate"
+      ]
+    ]
+  },
+  {
+    "word": "excavate",
+    "pos": "v.",
+    "example": "_____ the remains of a temple",
+    "definition": [
+      [
+        "to form a cavity or hole in",
+        "to form by hollowing out",
+        "to dig out and remove"
+      ]
+    ]
+  },
+  {
+    "word": "exceed",
+    "pos": "v.",
+    "example": "the river will _____ its banks",
+    "definition": [
+      [
+        "to be greater than or superior to",
+        "to go beyond a limit set by",
+        "to extend outside of"
+      ]
+    ]
+  },
+  {
+    "word": "excel",
+    "pos": "v.",
+    "example": "_____ at lipreading",
+    "definition": [
+      [
+        "to be superior to : surpass in accomplishment or achievement",
+        "to be distinguishable by superiority : surpass others"
+      ]
+    ]
+  },
+  {
+    "word": "exceptional",
+    "pos": "adj.",
+    "example": "an _____ number of rainy days",
+    "definition": [
+      [
+        "forming an exception : rare",
+        "better than average : superior",
+        "deviating from the norm: such as"
+      ]
+    ]
+  },
+  {
+    "word": "excess",
+    "pos": "n.",
+    "example": "prevent _____ and abuses by newly created local powers",
+    "definition": [
+      [
+        "the state or an instance of surpassing usual, proper, or specified limits : superfluity",
+        "the amount or degree by which one thing or quantity exceeds another",
+        "undue or immoderate indulgence : intemperance; also : an act or instance of intemperance"
+      ]
+    ]
+  },
+  {
+    "word": "excise",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to impose an excise on"
+      ],
+      [
+        "to remove by or as if by excision"
+      ]
+    ]
+  },
+  {
+    "word": "exclaim",
+    "pos": "v.",
+    "example": "_____ against immorality",
+    "definition": [
+      [
+        "to cry out or speak in strong or sudden emotion",
+        "to speak loudly or vehemently",
+        "to utter sharply, passionately, or vehemently : proclaim"
+      ]
+    ]
+  },
+  {
+    "word": "exclamation",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a sharp or sudden utterance",
+        "vehement expression of protest or complaint"
+      ]
+    ]
+  },
+  {
+    "word": "exclude",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to prevent or restrict the entrance of",
+        "to bar from participation, consideration, or inclusion",
+        "to expel or bar especially from a place or position previously occupied"
+      ]
+    ]
+  },
+  {
+    "word": "exclusive",
+    "pos": "adj.",
+    "example": "his _____ attention",
+    "definition": [
+      [
+        "excluding or having power to exclude",
+        "limiting or limited to possession, control, or use by a single individual or group",
+        "excluding others from participation"
+      ]
+    ]
+  },
+  {
+    "word": "excoriate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to wear off the skin of : abrade",
+        "to censure scathingly"
+      ]
+    ]
+  },
+  {
+    "word": "excrete",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to separate and eliminate or discharge (waste) from the blood, tissues, or organs or from the active protoplasm"
+      ]
+    ]
+  },
+  {
+    "word": "exculpate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to clear from alleged fault or guilt"
+      ]
+    ]
+  },
+  {
+    "word": "excursion",
+    "pos": "n.",
+    "example": "needless _____ into abstruse theory",
+    "definition": [
+      [
+        "a going out or forth : expedition",
+        "a usually brief pleasure trip",
+        "a trip at special reduced rates"
+      ]
+    ]
+  },
+  {
+    "word": "excursive",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "constituting a digression : characterized by digression"
+      ]
+    ]
+  },
+  {
+    "word": "execrable",
+    "pos": "adj.",
+    "example": "_____ hotel food",
+    "definition": [
+      [
+        "deserving to be execrated : detestable",
+        "very bad : wretched"
+      ]
+    ]
+  },
+  {
+    "word": "execrate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to declare to be evil or detestable : denounce",
+        "to detest utterly"
+      ]
+    ]
+  },
+  {
+    "word": "execute",
+    "pos": "v.",
+    "example": "Before the game, [NBA Coach Taylor] Jenkins told his players they needed to be better in the first three quarters and _____ better in the last.",
+    "definition": [
+      [
+        "to carry (something) out fully : to put (something) completely into effect",
+        "to do what is provided or required by (something)",
+        "to put (someone) to death especially in compliance with a legal sentence"
+      ]
+    ]
+  },
+  {
+    "word": "exemplary",
+    "pos": "adj.",
+    "example": "Among the most important factors that distinguished the best Civil War regiments from the mediocre ones were the quality and _____ courage of their officers.",
+    "definition": [
+      [
+        "deserving imitation : commendable; also : deserving imitation because of excellence",
+        "serving as a pattern",
+        "serving as an example, instance, or illustration"
+      ]
+    ]
+  },
+  {
+    "word": "exemplify",
+    "pos": "v.",
+    "example": "she _____ the qualities of a good leader",
+    "definition": [
+      [
+        "to show or illustrate by example",
+        "to make an attested copy or transcript of (a document) under seal",
+        "to be an instance of or serve as an example : embody"
+      ]
+    ]
+  },
+  {
+    "word": "exempt",
+    "pos": "adj.",
+    "example": "the estate was _____ from taxes",
+    "definition": [
+      [
+        "free or released from some liability or requirement to which others are subject",
+        "set apart"
+      ]
+    ]
+  },
+  {
+    "word": "exempt",
+    "pos": "v.",
+    "example": "_____ from military service",
+    "definition": [
+      [
+        "to release or deliver from some liability or requirement to which others are subject"
+      ]
+    ]
+  },
+  {
+    "word": "exert",
+    "pos": "v.",
+    "example": "_____ her leadership abilities intelligently",
+    "definition": [
+      [
+        "to put forth (strength, effort, etc.)",
+        "to put (oneself) into action or to tiring effort",
+        "to bring to bear especially with sustained effort or lasting effect"
+      ]
+    ]
+  },
+  {
+    "word": "exhale",
+    "pos": "v.",
+    "example": "she _____ a sigh",
+    "definition": [
+      [
+        "to rise or be given off as vapor",
+        "to emit breath or vapor",
+        "to breathe out"
+      ]
+    ]
+  },
+  {
+    "word": "exhaust",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the escape of used gas or vapor from an engine",
+        "the gas or vapor thus escaping",
+        "the conduit through which used gases escape"
+      ]
+    ]
+  },
+  {
+    "word": "exhaust",
+    "pos": "v.",
+    "example": "the engine _____ through the muffler",
+    "definition": [
+      [
+        "to consume entirely : use up",
+        "to tire extremely or completely",
+        "to deprive of a valuable quality or constituent"
+      ]
+    ]
+  },
+  {
+    "word": "exhaustive",
+    "pos": "adj.",
+    "example": "conducted an _____ search",
+    "definition": [
+      [
+        "including all possibilities : thorough"
+      ]
+    ]
+  },
+  {
+    "word": "exhilarate",
+    "pos": "v.",
+    "example": "It's a demanding dining experience that may exhaust and exasperate some customers, but _____ those who desire a challenge more than comfort.",
+    "definition": [
+      [
+        "to make (someone) very happy and excited or elated"
+      ]
+    ]
+  },
+  {
+    "word": "exhilaration",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the action of exhilarating",
+        "the feeling or the state of being exhilarated"
+      ]
+    ]
+  },
+  {
+    "word": "exhort",
+    "pos": "v.",
+    "example": "_____ voters to do the right thing",
+    "definition": [
+      [
+        "to incite by argument or advice : urge strongly",
+        "to give warnings or advice : make urgent appeals"
+      ]
+    ]
+  },
+  {
+    "word": "exigent",
+    "pos": "adj.",
+    "example": "_____ circumstances",
+    "definition": [
+      [
+        "requiring immediate aid or action",
+        "requiring or calling for much : demanding"
+      ]
+    ]
+  },
+  {
+    "word": "existential",
+    "pos": "adj.",
+    "example": "_____ propositions",
+    "definition": [
+      [
+        "of, relating to, or affirming existence",
+        "grounded in existence or the experience of existence : empirical",
+        "having being in time and space"
+      ]
+    ]
+  },
+  {
+    "word": "exodus",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the mainly narrative second book of canonical Jewish and Christian Scripture",
+        "a mass departure : emigration"
+      ]
+    ]
+  },
+  {
+    "word": "exonerate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to relieve of a responsibility, obligation, or hardship",
+        "to clear from accusation or blame"
+      ]
+    ]
+  },
+  {
+    "word": "exorbitant",
+    "pos": "adj.",
+    "example": "As with the black truffle, foie gras is as _____ ($52 a pound) as it is decadent (one gram of foie gras can reportedly be 900 calories).",
+    "definition": [
+      [
+        "not coming within the scope of the law",
+        "exceeding the customary or appropriate limits in intensity, quality, amount, or size"
+      ]
+    ]
+  },
+  {
+    "word": "exorcise",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to expel (an evil spirit) by adjuration",
+        "to get rid of (something troublesome, menacing, or oppressive)",
+        "to free of an evil spirit"
+      ]
+    ]
+  },
+  {
+    "word": "exotic",
+    "pos": "adj.",
+    "example": "Until very recently the alpaca was an _____ sight at county fairs and petting zoos in the metropolitan region.",
+    "definition": [
+      [
+        "introduced from another country : not native to the place where found",
+        "strikingly, excitingly, or mysteriously different or unusual",
+        "of or relating to striptease : involving or featuring exotic dancers"
+      ]
+    ]
+  },
+  {
+    "word": "expand",
+    "pos": "v.",
+    "example": "_____ a function in a power series",
+    "definition": [
+      [
+        "to open up : unfold",
+        "to increase the extent, number, volume, or scope of : enlarge",
+        "to express at length or in greater detail"
+      ]
+    ]
+  },
+  {
+    "word": "expansive",
+    "pos": "adj.",
+    "example": "an _____ interpretation of the law",
+    "definition": [
+      [
+        "having a capacity or a tendency to expand",
+        "causing or tending to cause expansion",
+        "characterized by high spirits, generosity, or readiness to talk : open"
+      ]
+    ]
+  },
+  {
+    "word": "expediency",
+    "pos": "n.",
+    "example": "put more emphasis on _____ than on principle",
+    "definition": [
+      [
+        "the quality or state of being suited to the end in view : suitability, fitness",
+        "haste, dispatch",
+        "an enterprise requiring haste or caution"
+      ]
+    ]
+  },
+  {
+    "word": "expedient",
+    "pos": "n.",
+    "example": "For government is an _____, by which men would fain succeed in letting one another alone; and, as has been said, when it is most _____, the governed are most let alone by it.",
+    "definition": [
+      [
+        "something done or used to achieve a particular end usually quickly or temporarily : an expedient action or solution"
+      ]
+    ]
+  },
+  {
+    "word": "expedient",
+    "pos": "adj.",
+    "example": "Marley found it _____ to maintain social relationships with gunmen and politicans from both political parties.",
+    "definition": [
+      [
+        "suitable for achieving a particular end in a given circumstance",
+        "characterized by concern with what is opportune; especially : governed by self-interest"
+      ]
+    ]
+  },
+  {
+    "word": "expeditious",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "marked by or acting with prompt efficiency"
+      ]
+    ]
+  },
+  {
+    "word": "expel",
+    "pos": "v.",
+    "example": "_____ the smoke from her lungs",
+    "definition": [
+      [
+        "to force out : eject",
+        "to force to leave (a place, an organization, etc.) by official action : take away rights or privileges of membership"
+      ]
+    ]
+  },
+  {
+    "word": "expend",
+    "pos": "v.",
+    "example": "the social services upon which public revenue is _____",
+    "definition": [
+      [
+        "to pay out : spend",
+        "to make use of for a specific purpose : utilize; also : use up"
+      ]
+    ]
+  },
+  {
+    "word": "expenditure",
+    "pos": "n.",
+    "example": "income should exceed _____",
+    "definition": [
+      [
+        "the act or process of expending",
+        "something expended : disbursement, expense"
+      ]
+    ]
+  },
+  {
+    "word": "expertise",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the skill of an expert",
+        "expert opinion or commentary"
+      ]
+    ]
+  },
+  {
+    "word": "expiate",
+    "pos": "v.",
+    "example": "permission to _____ their offences by their assiduous labours",
+    "definition": [
+      [
+        "to make amends for",
+        "to extinguish the guilt incurred by",
+        "to put an end to"
+      ]
+    ]
+  },
+  {
+    "word": "expiration",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the last emission of breath : death",
+        "the act or process of releasing air from the lungs through the nose or mouth : exhalation",
+        "the escape of carbon dioxide from the body protoplasm (as through the blood and lungs or by diffusion)"
+      ]
+    ]
+  },
+  {
+    "word": "expire",
+    "pos": "v.",
+    "example": "{ldquo} … when drugs _____, you can't just leave these things lying around.{rdquo}",
+    "definition": [
+      [
+        "to breathe one's last breath : die",
+        "to come to an end: such as",
+        "to exceed its period of validity"
+      ]
+    ]
+  },
+  {
+    "word": "explicate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to give a detailed explanation of",
+        "to develop the implications of : analyze logically"
+      ]
+    ]
+  },
+  {
+    "word": "explicit",
+    "pos": "adj.",
+    "example": "Therefore, the Administration's policy was the _____, if unpublicized, one that it was necessary to allow Saddam Hussein to put down the rebellions.",
+    "definition": [
+      [
+        "fully revealed or expressed without vagueness, implication, or ambiguity : leaving no question as to meaning or intent",
+        "open in the depiction of nudity or sexuality",
+        "fully developed or formulated"
+      ]
+    ]
+  },
+  {
+    "word": "exploit",
+    "pos": "v.",
+    "example": "_____ your opponent's weakness",
+    "definition": [
+      [
+        "to make productive use of : utilize",
+        "to make use of meanly or unfairly for one's own advantage"
+      ]
+    ]
+  },
+  {
+    "word": "exploit",
+    "pos": "n.",
+    "example": "About midnight the gang returned, with various articles of plunder, and talked over their _____ …",
+    "definition": [
+      [
+        "deed, act; especially : a notable, memorable, or heroic act"
+      ]
+    ]
+  },
+  {
+    "word": "explosive",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an explosive substance",
+        "a consonant characterized by explosion in its articulation when it occurs in certain environments : stop"
+      ]
+    ]
+  },
+  {
+    "word": "explosive",
+    "pos": "adj.",
+    "example": "_____ population growth",
+    "definition": [
+      [
+        "relating to, characterized by, or operated by explosion",
+        "resulting from or as if from an explosion",
+        "tending to explode"
+      ]
+    ]
+  },
+  {
+    "word": "exponent",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a symbol written above and to the right of a mathematical expression to indicate the operation of raising to a power",
+        "one that expounds or interprets",
+        "one that champions, practices, or exemplifies"
+      ]
+    ]
+  },
+  {
+    "word": "exposition",
+    "pos": "n.",
+    "example": "He is masterly in absorbing information and masterful in organizing it—skeptical of fashion, clear in _____, fluent in communication, unremittingly scholarly.",
+    "definition": [
+      [
+        "a setting forth of the meaning or purpose (as of a writing)",
+        "discourse or an example of it designed to convey information or explain what is difficult to understand",
+        "the first part of a musical composition in sonata form in which the thematic material of the movement is presented"
+      ]
+    ]
+  },
+  {
+    "word": "expository",
+    "pos": "adj.",
+    "example": "_____ writing",
+    "definition": [
+      [
+        "of, relating to, or containing exposition"
+      ]
+    ]
+  },
+  {
+    "word": "expostulate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "discuss, examine",
+        "to reason earnestly with a person for purposes of dissuasion or remonstrance"
+      ]
+    ]
+  },
+  {
+    "word": "exposure",
+    "pos": "n.",
+    "example": "minimizes your _____ to market fluctuations",
+    "definition": [
+      [
+        "the fact or condition of being exposed: such as",
+        "the condition of being presented to view or made known",
+        "the condition of being unprotected especially from severe weather"
+      ]
+    ]
+  },
+  {
+    "word": "expound",
+    "pos": "v.",
+    "example": "_____ a law",
+    "definition": [
+      [
+        "to set forth : state",
+        "to defend with argument",
+        "to explain by setting forth in careful and often elaborate detail"
+      ]
+    ]
+  },
+  {
+    "word": "expressly",
+    "pos": "adv.",
+    "example": "_____ rejected the proposal",
+    "definition": [
+      [
+        "in an express manner : explicitly",
+        "for the express purpose : particularly, specifically"
+      ]
+    ]
+  },
+  {
+    "word": "expunge",
+    "pos": "v.",
+    "example": "_____ a memory",
+    "definition": [
+      [
+        "to strike out, obliterate, or mark for deletion",
+        "to efface completely : destroy",
+        "to eliminate from one's consciousness"
+      ]
+    ]
+  },
+  {
+    "word": "expurgate",
+    "pos": "v.",
+    "example": "an _____ edition of the letters",
+    "definition": [
+      [
+        "to cleanse of something morally harmful, offensive, or erroneous; especially : to expunge objectionable parts from before publication or presentation"
+      ]
+    ]
+  },
+  {
+    "word": "exquisite",
+    "pos": "adj.",
+    "example": "an _____ white blossom",
+    "definition": [
+      [
+        "marked by flawless craftsmanship or by beautiful, ingenious, delicate, or elaborate execution",
+        "marked by nice discrimination, deep sensitivity, or subtle understanding",
+        "accomplished, perfected"
+      ]
+    ]
+  },
+  {
+    "word": "extant",
+    "pos": "adj.",
+    "example": "There is, he reports, no _____ copy of the Super Bowl I television broadcast; nobody bothered to keep the tapes.",
+    "definition": [
+      [
+        "currently or actually existing",
+        "still existing : not destroyed or lost",
+        "standing out or above"
+      ]
+    ]
+  },
+  {
+    "word": "extemporaneous",
+    "pos": "adj.",
+    "example": "Regarding the suffix -āneus see the etymology and note at {et_link|spontaneous|spontaneous}.",
+    "definition": [
+      [
+        "composed, performed, or uttered on the spur of the moment : impromptu",
+        "carefully prepared but delivered without notes or text",
+        "skilled at or given to extemporaneous utterance"
+      ]
+    ]
+  },
+  {
+    "word": "extemporize",
+    "pos": "v.",
+    "example": "_____ an after-dinner speech",
+    "definition": [
+      [
+        "to do something extemporaneously : improvise; especially : to speak extemporaneously",
+        "to get along in a makeshift manner",
+        "to compose, perform, or utter extemporaneously : improvise"
+      ]
+    ]
+  },
+  {
+    "word": "extend",
+    "pos": "v.",
+    "example": "his concern _____ beyond mere business to real service to his customers",
+    "definition": [
+      [
+        "to spread or stretch forth : unbend",
+        "to stretch out to fullest length",
+        "to cause (an animal, such as a horse) to move at full stride"
+      ]
+    ]
+  },
+  {
+    "word": "extenuate",
+    "pos": "v.",
+    "example": "… it was true that he was an old friend and that … she felt a desire not to _____ such ties.",
+    "definition": [
+      [
+        "to lessen or to try to lessen the seriousness or extent of (something, such as a fault or offense) by making partial excuses : mitigate",
+        "to lessen the strength or effect of (something) : weaken",
+        "to make light of"
+      ]
+    ]
+  },
+  {
+    "word": "exterminate",
+    "pos": "v.",
+    "example": "_____ termites and cockroaches",
+    "definition": [
+      [
+        "to get rid of completely usually by killing off"
+      ]
+    ]
+  },
+  {
+    "word": "externalize",
+    "pos": "v.",
+    "example": "_____ his lack of ability to succeed",
+    "definition": [
+      [
+        "to make external or externally manifest",
+        "to attribute to causes outside the self : rationalize"
+      ]
+    ]
+  },
+  {
+    "word": "extinct",
+    "pos": "adj.",
+    "example": "an _____ volcano",
+    "definition": [
+      [
+        "no longer burning",
+        "no longer active",
+        "no longer existing"
+      ]
+    ]
+  },
+  {
+    "word": "extinction",
+    "pos": "n.",
+    "example": "Now, more than 40 percent of the world's 7,000 or so languages are thought to be at risk of _____, some with just a handful of elderly native speakers left.",
+    "definition": [
+      [
+        "the act of making extinct or causing to be extinguished",
+        "the condition or fact of being extinct; or : the process of becoming extinct",
+        "the process of eliminating or reducing a conditioned response by not reinforcing it"
+      ]
+    ]
+  },
+  {
+    "word": "extinguish",
+    "pos": "v.",
+    "example": "hope for their safety was slowly _____",
+    "definition": [
+      [
+        "to bring to an end : make an end of",
+        "to reduce to silence or ineffectiveness",
+        "to cause to cease burning : quench"
+      ]
+    ]
+  },
+  {
+    "word": "extol",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to praise highly : glorify"
+      ]
+    ]
+  },
+  {
+    "word": "extort",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to obtain from a person by force, intimidation, or undue or illegal power : wring; also : to gain especially by ingenuity or compelling argument"
+      ]
+    ]
+  },
+  {
+    "word": "extract",
+    "pos": "v.",
+    "example": "_____ a wisdom tooth",
+    "definition": [
+      [
+        "to draw forth (as by research)",
+        "to pull or take out forcibly",
+        "to obtain by much effort from someone unwilling"
+      ]
+    ]
+  },
+  {
+    "word": "extraneous",
+    "pos": "adj.",
+    "example": "_____ ornamentation",
+    "definition": [
+      [
+        "existing on or coming from the outside",
+        "not forming an essential or vital part",
+        "having no relevance"
+      ]
+    ]
+  },
+  {
+    "word": "extrapolate",
+    "pos": "v.",
+    "example": "_____ public sentiment on one issue from known public reaction on others",
+    "definition": [
+      [
+        "to predict by projecting past experience or known data",
+        "to project, extend, or expand (known data or experience) into an area not known or experienced so as to arrive at a usually conjectural knowledge of the unknown area",
+        "to infer (values of a variable in an unobserved interval) from values within an already observed interval"
+      ]
+    ]
+  },
+  {
+    "word": "extravagance",
+    "pos": "n.",
+    "example": "a new car is an _____ we can't afford",
+    "definition": [
+      [
+        "an instance of excess or prodigality; specifically : an excessive outlay of money",
+        "something extravagant",
+        "the quality or fact of being extravagant"
+      ]
+    ]
+  },
+  {
+    "word": "extricate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to free or remove from an entanglement or difficulty",
+        "to distinguish from a related thing",
+        "unravel"
+      ]
+    ]
+  },
+  {
+    "word": "extrovert",
+    "pos": "n.",
+    "example": "Extroverts are more recognized because of their affable nature, while introverts struggle to break out of their personal space …",
+    "definition": [
+      [
+        "a person whose personality is characterized by extroversion : a typically gregarious and unreserved person who enjoys and seeks out social interaction"
+      ]
+    ]
+  },
+  {
+    "word": "exuberance",
+    "pos": "n.",
+    "example": "youthful _____",
+    "definition": [
+      [
+        "the quality or state of being exuberant",
+        "an exuberant act or expression"
+      ]
+    ]
+  },
+  {
+    "word": "exuberant",
+    "pos": "adj.",
+    "example": "They're the hardwood wunderkinds who think NEXT is now: the NBA's teen set. And like puppies, they're winningly _____ (if not housebroken). Well, maybe not so \"winning.\"",
+    "definition": [
+      [
+        "joyously unrestrained and enthusiastic",
+        "unrestrained or elaborate especially in style : flamboyant",
+        "produced in extreme abundance : plentiful"
+      ]
+    ]
+  },
+  {
+    "word": "exude",
+    "pos": "v.",
+    "example": "_____ charm",
+    "definition": [
+      [
+        "to ooze out",
+        "to undergo diffusion",
+        "to cause to ooze or spread out in all directions"
+      ]
+    ]
+  },
+  {
+    "word": "exult",
+    "pos": "v.",
+    "example": "the team _____ in their victory",
+    "definition": [
+      [
+        "to be extremely joyful : rejoice",
+        "to leap for joy"
+      ]
+    ]
+  },
+  {
+    "word": "fabric",
+    "pos": "n.",
+    "example": "the _____ of society",
+    "definition": [
+      [
+        "structure, building",
+        "underlying structure : framework",
+        "an act of constructing : erection; specifically : the construction and maintenance of a church building"
+      ]
+    ]
+  },
+  {
+    "word": "fabricate",
+    "pos": "v.",
+    "example": "Their plan is to _____ the house out of synthetic parts.",
+    "definition": [
+      [
+        "invent, create",
+        "to make up for the purpose of deception",
+        "construct, manufacture; specifically : to construct from diverse and usually standardized parts"
+      ]
+    ]
+  },
+  {
+    "word": "facade",
+    "pos": "n.",
+    "example": "… but his magic power of concentration was gone. All the façades he built up between himself and his desperate love never entirely hid it.",
+    "definition": [
+      [
+        "the front of a building; also : any face of a building given special architectural treatment",
+        "a false, superficial, or artificial appearance or effect"
+      ]
+    ]
+  },
+  {
+    "word": "facet",
+    "pos": "n.",
+    "example": "Each _____ of the problem requires careful attention.",
+    "definition": [
+      [
+        "any of the definable aspects that make up a subject (as of contemplation) or an object (as of consideration)",
+        "a small plane surface (as on a cut gem)",
+        "the external corneal surface of an ommatidium"
+      ]
+    ]
+  },
+  {
+    "word": "facetious",
+    "pos": "adj.",
+    "example": "Nor was Liebling seriously asserting that his _____ bit of investigation into Tin Pan Alley history constituted a refutation of Sartre's philosophy.",
+    "definition": [
+      [
+        "joking or jesting often inappropriately : waggish",
+        "meant to be humorous or funny : not serious"
+      ]
+    ]
+  },
+  {
+    "word": "facile",
+    "pos": "adj.",
+    "example": "… I saw that my old enemy was dead, Amy [Lowell], noble Amy. How I despised myself then for my _____ self-pity and for my failure to die—how she seemed to have worsted me once again.",
+    "definition": [
+      [
+        "easily accomplished or attained",
+        "shallow, simplistic",
+        "used or comprehended with ease"
+      ]
+    ]
+  },
+  {
+    "word": "facilitate",
+    "pos": "v.",
+    "example": "The meeting included the full accountability team formed by the university, and the university _____ the meeting, … sharing progress on initiatives underway …",
+    "definition": [
+      [
+        "to make (something) easier : such as",
+        "to help bring (something) about",
+        "to help (something, such as a discussion) run more smoothly and effectively"
+      ]
+    ]
+  },
+  {
+    "word": "faction",
+    "pos": "n.",
+    "example": "_____, or the irreconcilable conflict of parties",
+    "definition": [
+      [
+        "a party or group (as within a government) that is often contentious or self-seeking : clique",
+        "party spirit especially when marked by dissension"
+      ]
+    ]
+  },
+  {
+    "word": "factotum",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a person having many diverse activities or responsibilities",
+        "a general servant"
+      ]
+    ]
+  },
+  {
+    "word": "factual",
+    "pos": "adj.",
+    "example": "She tried to separate what is _____ from what is not.",
+    "definition": [
+      [
+        "of or relating to facts",
+        "restricted to or based on fact"
+      ]
+    ]
+  },
+  {
+    "word": "faculty",
+    "pos": "n.",
+    "example": "The state has the _____ to define treason.",
+    "definition": [
+      [
+        "ability, power: such as",
+        "innate or acquired ability to act or do",
+        "an inherent capability, power, or function"
+      ]
+    ]
+  },
+  {
+    "word": "fad",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a practice or interest followed for a time with exaggerated zeal : craze"
+      ]
+    ]
+  },
+  {
+    "word": "fade",
+    "pos": "v.",
+    "example": "The radio signal _____ out as we got further away from the station.",
+    "definition": [
+      [
+        "to lose freshness, strength, or vitality : wither",
+        "to lose freshness or brilliance of color",
+        "to sink away : vanish"
+      ]
+    ]
+  },
+  {
+    "word": "falcon",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of various hawks trained for use in falconry; especially : peregrine falcon —used technically only of a female",
+        "any of various hawks (family Falconidae) that have long pointed wings, a long tail, and a notched beak and that usually inhabit open areas"
+      ]
+    ]
+  },
+  {
+    "word": "fallacious",
+    "pos": "adj.",
+    "example": "false and _____ hopes",
+    "definition": [
+      [
+        "embodying a fallacy",
+        "tending to deceive or mislead : delusive"
+      ]
+    ]
+  },
+  {
+    "word": "fallacy",
+    "pos": "n.",
+    "example": "prone to perpetrate the _____ of equating threat with capability",
+    "definition": [
+      [
+        "a false or mistaken idea",
+        "erroneous character : erroneousness",
+        "deceptive appearance : deception"
+      ]
+    ]
+  },
+  {
+    "word": "fallibility",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "liability to err"
+      ]
+    ]
+  },
+  {
+    "word": "fallible",
+    "pos": "adj.",
+    "example": "a _____ generalization",
+    "definition": [
+      [
+        "liable to be erroneous",
+        "capable of making a mistake"
+      ]
+    ]
+  },
+  {
+    "word": "fallow",
+    "pos": "n.",
+    "example": "Summer _____ is effective for destroying weeds.",
+    "definition": [
+      [
+        "usually cultivated land that is allowed to lie idle during the growing season",
+        "plowed land",
+        "the state or period of being fallow"
+      ]
+    ]
+  },
+  {
+    "word": "fallow",
+    "pos": "adj.",
+    "example": "at this very moment there are probably important inventions lying _____",
+    "definition": [
+      [
+        "of a light yellowish-brown color"
+      ],
+      [
+        "left untilled or unsown after plowing",
+        "dormant, inactive —used especially in the phrase to lie fallow"
+      ]
+    ]
+  },
+  {
+    "word": "falsehood",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an untrue statement : lie",
+        "absence of truth or accuracy",
+        "the practice of lying : mendacity"
+      ]
+    ]
+  },
+  {
+    "word": "falter",
+    "pos": "v.",
+    "example": "the … stranger _____ out of the thicket and drops to his knees",
+    "definition": [
+      [
+        "to walk unsteadily : stumble",
+        "to give way : totter",
+        "to move waveringly or hesitatingly"
+      ]
+    ]
+  },
+  {
+    "word": "familiarity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the quality or state of being familiar",
+        "a state of close relationship : intimacy",
+        "absence of ceremony : informality"
+      ]
+    ]
+  },
+  {
+    "word": "famine",
+    "pos": "n.",
+    "example": "Transportation problems resulted in a coal _____.",
+    "definition": [
+      [
+        "an extreme scarcity of food",
+        "starvation",
+        "a ravenous appetite"
+      ]
+    ]
+  },
+  {
+    "word": "famish",
+    "pos": "v.",
+    "example": "a moment when French poetry in particular was _____ for such invention",
+    "definition": [
+      [
+        "to cause to suffer severely from hunger",
+        "to cause to starve to death",
+        "starve"
+      ]
+    ]
+  },
+  {
+    "word": "fanatic",
+    "pos": "n.",
+    "example": "Since the U.S. economy began to sputter in 2008, shoppers have become coupon _____ and lovers of buy-one-get-one-free deals …",
+    "definition": [
+      [
+        "a person exhibiting excessive enthusiasm and intense uncritical devotion toward some controversial matter (as in religion or politics)",
+        "a person who is extremely enthusiastic about and devoted to some interest or activity"
+      ]
+    ]
+  },
+  {
+    "word": "fang",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a long sharp tooth: such as",
+        "one by which an animal's prey is seized and held or torn",
+        "one of the long hollow or grooved and often erectile teeth of a venomous snake"
+      ]
+    ]
+  },
+  {
+    "word": "fantasy",
+    "pos": "n.",
+    "example": "served to fulfill the king's _____",
+    "definition": [
+      [
+        "the power or process of creating especially unrealistic or improbable mental images in response to psychological need; also : a mental image or a series of mental images (such as a daydream) so created",
+        "a creation of the imaginative faculty whether expressed or merely conceived: such as",
+        "a chimerical or fantastic notion"
+      ]
+    ]
+  },
+  {
+    "word": "farce",
+    "pos": "n.",
+    "example": "the trial became a _____",
+    "definition": [
+      [
+        "a light dramatic composition marked by broadly satirical comedy and improbable plot",
+        "the broad humor characteristic of farce",
+        "an empty or patently ridiculous act, proceeding, or situation"
+      ]
+    ]
+  },
+  {
+    "word": "farewell",
+    "pos": "n.",
+    "example": "I will take my _____ of this place tomorrow.",
+    "definition": [
+      [
+        "a wish of well-being at parting : goodbye",
+        "an act of departure : leave-taking",
+        "a formal occasion honoring a person about to leave or retire"
+      ]
+    ]
+  },
+  {
+    "word": "far-reaching",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "having a wide range or effect"
+      ]
+    ]
+  },
+  {
+    "word": "fast",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the practice of fasting",
+        "a time of fasting"
+      ],
+      [
+        "something that fastens (such as a mooring line) or holds a fastening"
+      ]
+    ]
+  },
+  {
+    "word": "fast",
+    "pos": "adv.",
+    "example": "_____ asleep",
+    "definition": [
+      [
+        "in a firm or fixed manner",
+        "in a sound manner : deeply",
+        "in a rapid manner : quickly"
+      ]
+    ]
+  },
+  {
+    "word": "fasten",
+    "pos": "v.",
+    "example": "_____ her attention on the main problem",
+    "definition": [
+      [
+        "to attach especially by pinning, tying, or nailing",
+        "to make fast and secure",
+        "to fix firmly or securely"
+      ]
+    ]
+  },
+  {
+    "word": "fastidious",
+    "pos": "adj.",
+    "example": "My mother had always been the most _____ and organized of people—a wet ring left on her coffee table by a glass could drive her to distraction.",
+    "definition": [
+      [
+        "extremely or excessively careful or detailed",
+        "characterized by a meticulous, sensitive, or demanding attitude : such as",
+        "having high and often capricious standards"
+      ]
+    ]
+  },
+  {
+    "word": "fastness",
+    "pos": "n.",
+    "example": "vacationed in their mountain _____",
+    "definition": [
+      [
+        "the quality or state of being fast: such as",
+        "the quality or state of being fixed",
+        "the quality or state of being swift"
+      ]
+    ]
+  },
+  {
+    "word": "fatal",
+    "pos": "adj.",
+    "example": "the _____ flaw in this dazzling woman: a total lack of taste",
+    "definition": [
+      [
+        "causing death",
+        "bringing ruin",
+        "causing failure"
+      ]
+    ]
+  },
+  {
+    "word": "fathom",
+    "pos": "n.",
+    "example": "the themes display a newer _____ than the technical modernism of the composer's earlier works",
+    "definition": [
+      [
+        "a unit of length equal to six feet (1.83 meters) used especially for measuring the depth of water —sometimes used in the singular when qualified by a number",
+        "comprehension"
+      ]
+    ]
+  },
+  {
+    "word": "fathom",
+    "pos": "v.",
+    "example": "couldn't _____ the problem",
+    "definition": [
+      [
+        "probe",
+        "to take soundings",
+        "to measure by a sounding line"
+      ]
+    ]
+  },
+  {
+    "word": "fatigue",
+    "pos": "n.",
+    "example": "… a super PAC supporting Hillary Clinton launched within days of Barack Obama's 2013 inauguration. Voter _____ is just one drawback to the long campaigns, though.",
+    "definition": [
+      [
+        "labor",
+        "manual or menial work (such as the cleaning up of a camp area) performed by military personnel",
+        "the uniform or work clothing worn on fatigue and in the field"
+      ]
+    ]
+  },
+  {
+    "word": "fatten",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to make fat, fleshy, or plump; especially : to feed (an animal) for slaughter",
+        "to make more substantial",
+        "to make fertile"
+      ]
+    ]
+  },
+  {
+    "word": "fatuity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "something foolish or stupid",
+        "stupidity, foolishness",
+        "the condition of being affected with intellectual disability or dementia"
+      ]
+    ]
+  },
+  {
+    "word": "fatuous",
+    "pos": "adj.",
+    "example": "a _____ socialite with a near-pathological love of parties and shopping",
+    "definition": [
+      [
+        "complacently or inanely foolish : silly"
+      ]
+    ]
+  },
+  {
+    "word": "faucet",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a fixture for drawing or regulating the flow of liquid especially from a pipe"
+      ]
+    ]
+  },
+  {
+    "word": "fault",
+    "pos": "n.",
+    "example": "The misplacement of \"only\" is one of the most common writing _____.",
+    "definition": [
+      [
+        "weakness, failing; especially : a moral weakness less serious than a vice",
+        "a physical or intellectual imperfection or impairment : defect",
+        "an error especially in service in a net or racket game"
+      ]
+    ]
+  },
+  {
+    "word": "faultfinder",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one given to faultfinding"
+      ]
+    ]
+  },
+  {
+    "word": "favorable",
+    "pos": "adj.",
+    "example": "taking a _____ attitude toward our request",
+    "definition": [
+      [
+        "disposed to favor : partial",
+        "expressing approval : commendatory",
+        "giving a result that is in one's favor"
+      ]
+    ]
+  },
+  {
+    "word": "fawn",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a young deer; especially : one still unweaned or retaining a distinctive baby coat",
+        "kid",
+        "a light grayish brown"
+      ]
+    ]
+  },
+  {
+    "word": "fawn",
+    "pos": "v.",
+    "example": "The dog was _____ on its master.",
+    "definition": [
+      [
+        "to court favor by a cringing or flattering manner",
+        "to show affection —used especially of a dog"
+      ]
+    ]
+  },
+  {
+    "word": "faze",
+    "pos": "v.",
+    "example": "Criticism did not seem to _____ the writer.",
+    "definition": [
+      [
+        "to disturb the composure of : disconcert, daunt"
+      ]
+    ]
+  },
+  {
+    "word": "feasible",
+    "pos": "adj.",
+    "example": "The '70s was the era in which it seemed more important, or more _____, to reform our bodies than to change the world.",
+    "definition": [
+      [
+        "capable of being done or carried out",
+        "capable of being used or dealt with successfully : suitable",
+        "reasonable, likely"
+      ]
+    ]
+  },
+  {
+    "word": "feat",
+    "pos": "n.",
+    "example": "Building the bridge was an engineering _____.",
+    "definition": [
+      [
+        "a deed notable especially for courage",
+        "an act or product of skill, endurance, or ingenuity",
+        "act, deed"
+      ]
+    ]
+  },
+  {
+    "word": "feature",
+    "pos": "n.",
+    "example": "An account of the fire was the _____ in the Sunday newspaper.",
+    "definition": [
+      [
+        "the structure, form, or appearance especially of a person",
+        "physical beauty",
+        "the makeup or appearance of the face or its parts"
+      ]
+    ]
+  },
+  {
+    "word": "feckless",
+    "pos": "adj.",
+    "example": "a _____ maneuver that could only serve to strengthen the enemy",
+    "definition": [
+      [
+        "weak, ineffective",
+        "worthless, irresponsible"
+      ]
+    ]
+  },
+  {
+    "word": "feeble",
+    "pos": "adj.",
+    "example": "cities are growing uncreative and _____",
+    "definition": [
+      [
+        "markedly lacking in strength",
+        "indicating weakness",
+        "deficient in qualities or resources that indicate vigor, authority, force, or efficiency"
+      ]
+    ]
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the transmission of evaluative or corrective information about an action, event, or process to the original or controlling source; also : the information so transmitted",
+        "the partial reversion of the effects of a process to its source or to a preceding stage",
+        "the return to the input of a part of the output of a machine, system, or process (as for producing changes in an electronic circuit that improve performance or in an automatic control device that provide self-corrective action)"
+      ]
+    ]
+  },
+  {
+    "word": "feign",
+    "pos": "v.",
+    "example": "… Brad would sometimes clown or _____ clumsiness just to crack her composed expression with a blush or a disapproving frown.",
+    "definition": [
+      [
+        "to give a false appearance of : induce as a false impression",
+        "to assert as if true : pretend",
+        "invent, imagine"
+      ]
+    ]
+  },
+  {
+    "word": "feigned",
+    "pos": "adj.",
+    "example": "showered him with _____ compliments",
+    "definition": [
+      [
+        "fictitious",
+        "not genuine or real"
+      ]
+    ]
+  },
+  {
+    "word": "feint",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to make a feint",
+        "to lure or deceive with a feint",
+        "to make a pretense of"
+      ]
+    ]
+  },
+  {
+    "word": "feint",
+    "pos": "n.",
+    "example": "The boxer made a _____ with his right, then followed with a left hook.",
+    "definition": [
+      [
+        "something feigned; specifically : a mock blow or attack on or toward one part in order to distract attention from the point one really intends to attack"
+      ]
+    ]
+  },
+  {
+    "word": "felicitous",
+    "pos": "adj.",
+    "example": "The ride through the countryside is a _____ journey for city people.",
+    "definition": [
+      [
+        "very well suited or expressed : apt",
+        "pleasant, delightful"
+      ]
+    ]
+  },
+  {
+    "word": "fell",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "skin, hide, pelt",
+        "a thin tough membrane covering a carcass directly under the hide"
+      ],
+      [
+        "a high barren field or moor"
+      ]
+    ]
+  },
+  {
+    "word": "fell",
+    "pos": "v.",
+    "example": "Her father was _____ by a heart attack.",
+    "definition": [
+      [
+        "to cut, knock, or bring down",
+        "kill",
+        "to sew (a seam) by folding one raw edge under the other and sewing flat on the wrong side"
+      ]
+    ]
+  },
+  {
+    "word": "fell",
+    "pos": "adj.",
+    "example": "a _____ purpose",
+    "definition": [
+      [
+        "fierce, cruel, terrible",
+        "sinister, malevolent",
+        "very destructive : deadly"
+      ]
+    ]
+  },
+  {
+    "word": "felon",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one who has committed a felony",
+        "villain",
+        "a painful abscess of the deep tissues of the palmar surface of the fingertip that is typically caused by bacterial infection (as with a staphylococcus) and is marked by swelling and pain"
+      ]
+    ]
+  },
+  {
+    "word": "felony",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an act on the part of a feudal vassal involving the forfeiture of his fee",
+        "a grave crime formerly differing from a misdemeanor under English common law by involving forfeiture in addition to any other punishment",
+        "a grave crime (such as murder or rape) declared to be a felony by the common law or by statute regardless of the punishment actually imposed"
+      ]
+    ]
+  },
+  {
+    "word": "feminist",
+    "pos": "n.",
+    "example": "He [Stendhal] was a _____ and … he held that to deprive women of education {lsquo}deprives society of half its potential for intellectual achievement{rsquo}.",
+    "definition": [
+      [
+        "a person who supports or engages in feminism"
+      ]
+    ]
+  },
+  {
+    "word": "fender",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a device that protects: such as",
+        "a cushion (such as foam rubber or a wood float) between a boat and a dock or between two boats that lessens shock and prevents chafing",
+        "a pile or a row or cluster of piles placed to protect a dock or bridge pier from damage by ships or floating objects"
+      ]
+    ]
+  },
+  {
+    "word": "feral",
+    "pos": "adj.",
+    "example": "_____ instincts",
+    "definition": [
+      [
+        "of, relating to, or suggestive of a wild beast",
+        "not domesticated or cultivated : wild",
+        "having escaped from domestication and become wild"
+      ]
+    ]
+  },
+  {
+    "word": "ferment",
+    "pos": "v.",
+    "example": "everything _____ in him—his thoughts, sensations, and memories; nothing stays quiet",
+    "definition": [
+      [
+        "to undergo fermentation",
+        "to be in a state of agitation or intense activity",
+        "to cause to undergo fermentation"
+      ]
+    ]
+  },
+  {
+    "word": "ferment",
+    "pos": "n.",
+    "example": "the great period of creative _____ in literature",
+    "definition": [
+      [
+        "a living organism (such as a yeast) that causes fermentation by virtue of its enzymes",
+        "enzyme",
+        "a state of unrest : agitation"
+      ]
+    ]
+  },
+  {
+    "word": "fermentation",
+    "pos": "n.",
+    "example": "The panda is quite unlike most other herbivores, however, whose digestive tracts contain bacteria and protozoans that break down hard-to-digest plant materials through _____.",
+    "definition": [
+      [
+        "the enzyme-catalyzed anaerobic breakdown of an energy-rich compound (such as a carbohydrate to carbon dioxide and alcohol or to an organic acid) by the action of microorganisms (such as bacteria or yeast) that occurs naturally and is commonly used in the production of various products (such as food, alcoholic beverages, and pharmaceuticals) especially by controlling microbial enzymatic activity; broadly : any of various enzyme-catalyzed aerobic or anaerobic processes (such as oxidation) involving transformation of organic compounds",
+        "an instance or occurrence of fermentation",
+        "ferment"
+      ]
+    ]
+  },
+  {
+    "word": "fern",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of a division (Filicophyta) or class (Filicopsida) of flowerless spore-producing vascular plants having alternating sporophyte and gametophyte generations; especially : any of an order (Filicales) of homosporous plants possessing roots, stems, and leaflike fronds"
+      ]
+    ]
+  },
+  {
+    "word": "ferret",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a domesticated usually albino, brownish, or silver-gray animal (Mustela putorius furo) that is descended from the European polecat",
+        "black-footed ferret",
+        "an active and persistent searcher"
+      ],
+      [
+        "a narrow cotton, silk, or wool tape —called also ferreting"
+      ]
+    ]
+  },
+  {
+    "word": "ferret",
+    "pos": "v.",
+    "example": "_____ out the answers",
+    "definition": [
+      [
+        "to hunt with ferrets",
+        "to search about",
+        "to hunt (animals, such as rabbits) with ferrets"
+      ]
+    ]
+  },
+  {
+    "word": "ferrous",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "of, relating to, or containing iron",
+        "being or containing divalent iron"
+      ]
+    ]
+  },
+  {
+    "word": "fertile",
+    "pos": "adj.",
+    "example": "damp bathrooms are _____ ground for fungi",
+    "definition": [
+      [
+        "producing or bearing many crops in great quantities : productive",
+        "characterized by great resourcefulness of thought or imagination : inventive",
+        "plentiful"
+      ]
+    ]
+  },
+  {
+    "word": "fertilize",
+    "pos": "v.",
+    "example": "_____ land",
+    "definition": [
+      [
+        "to make fertile: such as",
+        "to apply a fertilizer to",
+        "to cause the fertilization of"
+      ]
+    ]
+  },
+  {
+    "word": "fertilizer",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one that fertilizes; specifically : a substance (such as manure or a chemical mixture) used to make soil more fertile"
+      ]
+    ]
+  },
+  {
+    "word": "fervid",
+    "pos": "adj.",
+    "example": "a _____ crusader",
+    "definition": [
+      [
+        "very hot : burning",
+        "marked by often extreme fervor"
+      ]
+    ]
+  },
+  {
+    "word": "fervor",
+    "pos": "n.",
+    "example": "Certainly being the son of a pastor had contributed to Vincent's religiosity, but in time even his father was disturbed by the growing intensity of his son's _____.",
+    "definition": [
+      [
+        "intensity of feeling or expression",
+        "intense heat"
+      ]
+    ]
+  },
+  {
+    "word": "fester",
+    "pos": "v.",
+    "example": "The wound became inflamed and _____.",
+    "definition": [
+      [
+        "to generate pus",
+        "putrefy, rot",
+        "to cause increasing poisoning, irritation, or bitterness : rankle"
+      ]
+    ]
+  },
+  {
+    "word": "festive",
+    "pos": "adj.",
+    "example": "The house looks _____ during the holidays.",
+    "definition": [
+      [
+        "of, relating to, or suitable for a feast or festival",
+        "joyful, gay"
+      ]
+    ]
+  },
+  {
+    "word": "fetid",
+    "pos": "adj.",
+    "example": "a _____ swamp",
+    "definition": [
+      [
+        "having a heavy offensive smell"
+      ]
+    ]
+  },
+  {
+    "word": "fetter",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a chain or shackle for the feet",
+        "something that confines : restraint"
+      ]
+    ]
+  },
+  {
+    "word": "fetter",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to put fetters on : shackle",
+        "to restrain from motion, action, or progress"
+      ]
+    ]
+  },
+  {
+    "word": "fetus",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an unborn or unhatched vertebrate especially after attaining the basic structural plan of its kind; specifically : a developing human from usually two months after conception to birth"
+      ]
+    ]
+  },
+  {
+    "word": "feud",
+    "pos": "n.",
+    "example": "Because of a family _____, they did not see each other for a decade.",
+    "definition": [
+      [
+        "a mutual enmity or quarrel that is often prolonged or inveterate; especially : blood feud"
+      ],
+      [
+        "fee"
+      ]
+    ]
+  },
+  {
+    "word": "fiasco",
+    "pos": "n.",
+    "example": "… the total _____ that was his personal life …",
+    "definition": [
+      [
+        "a complete failure"
+      ],
+      [
+        "bottle, flask; especially : a bulbous long-necked straw-covered bottle for wine"
+      ]
+    ]
+  },
+  {
+    "word": "fiat",
+    "pos": "n.",
+    "example": "According to the Bible, the world was created by _____.",
+    "definition": [
+      [
+        "an authoritative or arbitrary order : decree",
+        "an authoritative determination : dictate",
+        "a command or act of will that creates something without or as if without further effort"
+      ]
+    ]
+  },
+  {
+    "word": "fickle",
+    "pos": "adj.",
+    "example": "War is like hard-drug abuse or a _____ lover, an apparently contradictory bolt of compulsion, agony and ecstasy that draws you back in the face of better judgment time and time again.",
+    "definition": [
+      [
+        "marked by lack of steadfastness, constancy, or stability : given to erratic changeableness"
+      ]
+    ]
+  },
+  {
+    "word": "fictitious",
+    "pos": "adj.",
+    "example": "_____ events described in his novel",
+    "definition": [
+      [
+        "of, relating to, or characteristic of fiction : imaginary",
+        "conventionally or hypothetically assumed or accepted",
+        "false, assumed"
+      ]
+    ]
+  },
+  {
+    "word": "fidget",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to move or act restlessly or nervously",
+        "to cause to move or act nervously"
+      ]
+    ]
+  },
+  {
+    "word": "fidget",
+    "pos": "n.",
+    "example": "Senior care facilities have found that residents with dementia enjoy using {phrase}_____ spinners{/phrase} to occupy their hands, calm their minds, and redirect attention.",
+    "definition": [
+      [
+        "uneasiness or restlessness as shown by nervous movements —usually used in the phrase the fidgets",
+        "someone who fidgets",
+        "something (such as a toy) that is designed to be held and manipulated (as to decrease stress and anxiety)"
+      ]
+    ]
+  },
+  {
+    "word": "fig",
+    "pos": "n.",
+    "example": "a young woman in dazzling royal full _____",
+    "definition": [
+      [
+        "an oblong or pear-shaped syconium fruit of a tree (genus Ficus) of the mulberry family",
+        "a tree bearing figs : a ficus tree; especially : a widely cultivated tree (F. carica) that produces edible figs",
+        "a worthless trifle : the least bit"
+      ],
+      [
+        "dress, array"
+      ]
+    ]
+  },
+  {
+    "word": "figment",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "something made up or contrived"
+      ]
+    ]
+  },
+  {
+    "word": "figurative",
+    "pos": "adj.",
+    "example": "in a _____ sense, civilization marches up and down",
+    "definition": [
+      [
+        "representing by a figure or resemblance : emblematic",
+        "of or relating to representation of form or figure in art",
+        "expressing one thing in terms normally denoting another with which it may be regarded as analogous : metaphorical"
+      ]
+    ]
+  },
+  {
+    "word": "figurehead",
+    "pos": "n.",
+    "example": "He has matured into a fine player first and foremost, of course, but has also developed into the undoubted leader and _____ of the Celtic squad.",
+    "definition": [
+      [
+        "the carved figure on a ship's bow",
+        "a leader in name only : a head or chief (as of a country or organization) with little or no authoritative power",
+        "a person who has commanding authority or influence : leader"
+      ]
+    ]
+  },
+  {
+    "word": "figurine",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a small carved or molded figure : statuette"
+      ]
+    ]
+  },
+  {
+    "word": "file",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a tool usually of hardened steel with cutting ridges for forming or smoothing surfaces especially of metal",
+        "a shrewd or crafty person"
+      ],
+      [
+        "a device (such as a folder, case, or cabinet) by means of which papers are kept in order",
+        "roll, list",
+        "a collection of papers or publications usually arranged or classified"
+      ],
+      [
+        "single file",
+        "any of the rows of squares that extend across a chessboard from one player's side to the other player's side"
+      ],
+      [
+        "powdered young leaves of sassafras used to thicken soups or stews"
+      ]
+    ]
+  },
+  {
+    "word": "file",
+    "pos": "v.",
+    "example": "threatened to _____ charges",
+    "definition": [
+      [
+        "to rub, smooth, or cut away with or as if with a file"
+      ],
+      [
+        "defile, corrupt"
+      ],
+      [
+        "to arrange in order for preservation and reference",
+        "to place among official records as prescribed by law",
+        "to send (copy) to a newspaper"
+      ],
+      [
+        "to march or proceed in single file"
+      ]
+    ]
+  },
+  {
+    "word": "filibuster",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to carry out insurrectionist activities in a foreign country",
+        "to engage in a filibuster",
+        "to subject to a filibuster"
+      ]
+    ]
+  },
+  {
+    "word": "filibuster",
+    "pos": "n.",
+    "example": "The _____ delayed the voting on the bill for over a week.",
+    "definition": [
+      [
+        "an irregular military adventurer; specifically : an American engaged in fomenting insurrections in Latin America in the mid-19th century",
+        "the use of extreme dilatory tactics (as by making long speeches) in an attempt to delay or prevent action especially in a legislative assembly",
+        "an instance of this practice"
+      ]
+    ]
+  },
+  {
+    "word": "filigree",
+    "pos": "n.",
+    "example": "writings … heavy with late Victorian _____",
+    "definition": [
+      [
+        "ornamental work especially of fine wire of gold, silver, or copper applied chiefly to gold and silver surfaces",
+        "ornamental openwork of delicate or intricate design",
+        "a pattern or design resembling such openwork"
+      ]
+    ]
+  },
+  {
+    "word": "filly",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a young female horse usually of less than four years",
+        "a young woman : girl"
+      ]
+    ]
+  },
+  {
+    "word": "filter",
+    "pos": "n.",
+    "example": "his work is too often viewed through the _____ of race",
+    "definition": [
+      [
+        "a porous article or mass (as of paper or sand) through which a gas or liquid is passed to separate out matter in suspension",
+        "an apparatus containing a filter medium",
+        "a device or material for suppressing or minimizing waves or oscillations of certain frequencies (as of electricity, light, or sound)"
+      ]
+    ]
+  },
+  {
+    "word": "filter",
+    "pos": "v.",
+    "example": "people began _____ in",
+    "definition": [
+      [
+        "to subject to the action of a filter",
+        "to remove by means of a filter",
+        "to pass or move through or as if through a filter"
+      ]
+    ]
+  },
+  {
+    "word": "filth",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "foul or putrid matter; especially : loathsome dirt or refuse",
+        "moral corruption or defilement",
+        "something that tends to corrupt or defile"
+      ]
+    ]
+  },
+  {
+    "word": "finale",
+    "pos": "n.",
+    "example": "In the _____, the singer sang an Italian classic.",
+    "definition": [
+      [
+        "the close or termination of something: such as",
+        "the last section of an instrumental musical composition",
+        "the closing part, scene, or number in a public performance"
+      ]
+    ]
+  },
+  {
+    "word": "finesse",
+    "pos": "n.",
+    "example": "She handled the interviewer's questions with _____.",
+    "definition": [
+      [
+        "refinement or delicacy of workmanship, structure, or texture",
+        "skillful handling of a situation : adroit maneuvering",
+        "the withholding of one's highest card or trump in the hope that a lower card will take the trick because the only opposing higher card is in the hand of an opponent who has already played"
+      ]
+    ]
+  },
+  {
+    "word": "finicky",
+    "pos": "adj.",
+    "example": "… growing the _____ Pinot Noir grape …",
+    "definition": [
+      [
+        "extremely or excessively particular, exacting, or meticulous in taste or standards",
+        "requiring much care, precision, or attentive effort"
+      ]
+    ]
+  },
+  {
+    "word": "finite",
+    "pos": "adj.",
+    "example": "_____ verbs such as \"is\" and \"are\"",
+    "definition": [
+      [
+        "having definite or definable limits",
+        "having a limited nature or existence",
+        "completely determinable in theory or in fact by counting, measurement, or thought"
+      ]
+    ]
+  },
+  {
+    "word": "firearm",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a weapon from which a shot is discharged by gunpowder —usually used of small arms"
+      ]
+    ]
+  },
+  {
+    "word": "firefly",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of various winged nocturnal beetles (especially family Lampyridae) that produce a bright soft intermittent light by oxidation of luciferin especially for courtship purposes"
+      ]
+    ]
+  },
+  {
+    "word": "fiscal",
+    "pos": "adj.",
+    "example": "the city's _____ requirements",
+    "definition": [
+      [
+        "of or relating to taxation, public revenues, or public debt",
+        "of or relating to financial matters"
+      ]
+    ]
+  },
+  {
+    "word": "fissure",
+    "pos": "n.",
+    "example": "a _____ in the earth's crust",
+    "definition": [
+      [
+        "a narrow opening or crack of considerable length and depth usually occurring from some breaking or parting",
+        "a natural cleft between body parts or in the substance of an organ",
+        "a break or slit in tissue usually at the junction of skin and mucous membrane"
+      ]
+    ]
+  },
+  {
+    "word": "fixate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to make fixed, stationary, or unchanging",
+        "to focus one's gaze on",
+        "to direct (the libido) toward an infantile form of gratification"
+      ]
+    ]
+  },
+  {
+    "word": "flaccid",
+    "pos": "adj.",
+    "example": "Half must have been, of course, men and women over fifty and their bodies reflected the pull of their character … many a man had a _____ paunch …",
+    "definition": [
+      [
+        "not firm or stiff; also : lacking normal or youthful firmness",
+        "deficient in turgor",
+        "lacking vigor or force"
+      ]
+    ]
+  },
+  {
+    "word": "flag",
+    "pos": "v.",
+    "example": "_____ potential problems in the proposal",
+    "definition": [
+      [
+        "to signal with or as if with a flag; especially : to signal to stop —often used with down",
+        "to mark or identify with or as if with a flag",
+        "to call a penalty on : penalize"
+      ],
+      [
+        "to hang loose without stiffness",
+        "to become unsteady, feeble, or spiritless",
+        "to decline in interest, attraction, or value"
+      ],
+      [
+        "to lay (something, such as a pavement) with flags"
+      ]
+    ]
+  },
+  {
+    "word": "flagging",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "languid, weak",
+        "becoming progressively less : dwindling"
+      ]
+    ]
+  },
+  {
+    "word": "flagrant",
+    "pos": "adj.",
+    "example": "_____ violations of human rights",
+    "definition": [
+      [
+        "conspicuously offensive; especially : so obviously inconsistent with what is right or proper as to appear to be a flouting of law or morality",
+        "fiery hot : burning"
+      ]
+    ]
+  },
+  {
+    "word": "flail",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a hand threshing implement consisting of a wooden handle at the end of which a stouter and shorter stick is so hung as to swing freely"
+      ]
+    ]
+  },
+  {
+    "word": "flail",
+    "pos": "v.",
+    "example": "_____ a club to drive away the insects",
+    "definition": [
+      [
+        "to strike with or as if with a flail",
+        "to move, swing, or beat as if wielding a flail",
+        "to thresh (grain) with a flail"
+      ]
+    ]
+  },
+  {
+    "word": "flak",
+    "pos": "n.",
+    "example": "When I was a restaurant bar manager I sometimes found myself taking _____ from my customers for our high prices …",
+    "definition": [
+      [
+        "antiaircraft guns",
+        "the bursting shells fired from flak",
+        "criticism, opposition"
+      ]
+    ]
+  },
+  {
+    "word": "flamboyant",
+    "pos": "adj.",
+    "example": "Crazy artists, or _____ ones, can be strangely comforting. We feel we understand where their visions come from; we're lulled by the symmetry of turbulent art and turbulent lives.",
+    "definition": [
+      [
+        "marked by or given to strikingly elaborate or colorful display or behavior",
+        "characterized by waving curves suggesting flames"
+      ]
+    ]
+  },
+  {
+    "word": "flammable",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "capable of being easily ignited and of burning quickly"
+      ]
+    ]
+  },
+  {
+    "word": "flange",
+    "pos": "n.",
+    "example": "a jacket with _____ shoulders",
+    "definition": [
+      [
+        "a rib or rim for strength, for guiding, or for attachment to another object",
+        "a projecting edge of cloth used for decoration on clothing"
+      ]
+    ]
+  },
+  {
+    "word": "flare",
+    "pos": "n.",
+    "example": "The airport set _____ to guide the landing plane at night.",
+    "definition": [
+      [
+        "a fire or blaze of light used especially to signal, illuminate, or attract attention; also : a device or composition used to produce such a flare",
+        "an unsteady glaring light",
+        "solar flare; also : a sudden increase and decrease in the brightness of a star often amounting to a difference of several magnitudes"
+      ]
+    ]
+  },
+  {
+    "word": "flare",
+    "pos": "v.",
+    "example": "_____ her scarf to attract attention",
+    "definition": [
+      [
+        "to burn with an unsteady flame",
+        "to stream in the wind",
+        "to shine with a sudden light"
+      ]
+    ]
+  },
+  {
+    "word": "flask",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a container often somewhat narrowed toward the outlet and often fitted with a closure: such as",
+        "a broad flattened necked vessel used especially to carry an alcoholic beverage on the person",
+        "thermos"
+      ]
+    ]
+  },
+  {
+    "word": "flatcar",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a railroad freight car without permanent raised sides, ends, or covering"
+      ]
+    ]
+  },
+  {
+    "word": "flatten",
+    "pos": "v.",
+    "example": "_____ paint",
+    "definition": [
+      [
+        "to make flat: such as",
+        "to make level or smooth",
+        "to knock down; also : to defeat decisively"
+      ]
+    ]
+  },
+  {
+    "word": "flatter",
+    "pos": "v.",
+    "example": "He _____ her with comments about how youthful she looks.",
+    "definition": [
+      [
+        "to praise excessively especially from motives of self-interest",
+        "beguile",
+        "to encourage or gratify especially with the assurance that something is right"
+      ]
+    ]
+  },
+  {
+    "word": "flaunt",
+    "pos": "v.",
+    "example": "observed with horror the _____ of their authority in the suburbs, where men … put up buildings that had no place at all in a Christian commonwealth",
+    "definition": [
+      [
+        "to display or obtrude oneself to public notice",
+        "to wave or flutter showily",
+        "to display ostentatiously or impudently : parade"
+      ]
+    ]
+  },
+  {
+    "word": "flaw",
+    "pos": "n.",
+    "example": "the wind changed with _____ from westward",
+    "definition": [
+      [
+        "a defect in physical structure or form",
+        "an imperfection or weakness and especially one that detracts from the whole or hinders effectiveness",
+        "fragment"
+      ],
+      [
+        "a sudden brief burst of wind; also : a spell of stormy weather",
+        "an outburst especially of passion"
+      ]
+    ]
+  },
+  {
+    "word": "flaw",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to make flaws in : mar",
+        "to become defective"
+      ]
+    ]
+  },
+  {
+    "word": "flax",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of a genus (Linum of the family Linaceae, the flax family) of herbs; especially : a slender erect annual (L. usitatissimum) with blue flowers commonly cultivated for its bast fiber and seed",
+        "the fiber of the flax plant especially when prepared for spinning",
+        "any of several plants resembling flax"
+      ]
+    ]
+  },
+  {
+    "word": "fledge",
+    "pos": "v.",
+    "example": "feather an arrow",
+    "definition": [
+      [
+        "to acquire the feathers necessary for flight or independent activity; also : to leave the nest after acquiring such feathers",
+        "to rear until ready for flight or independent activity",
+        "to cover with or as if with feathers or down"
+      ]
+    ]
+  },
+  {
+    "word": "fledgling",
+    "pos": "n.",
+    "example": "a female bird feeding her _____",
+    "definition": [
+      [
+        "a young bird just fledged",
+        "an immature or inexperienced person",
+        "one that is new"
+      ]
+    ]
+  },
+  {
+    "word": "fleeting",
+    "pos": "adj.",
+    "example": "… the often _____ nature of fame and fortune …",
+    "definition": [
+      [
+        "passing swiftly : transitory"
+      ]
+    ]
+  },
+  {
+    "word": "flexible",
+    "pos": "adj.",
+    "example": "a _____ person without strong convictions",
+    "definition": [
+      [
+        "capable of being flexed : pliant",
+        "yielding to influence : tractable",
+        "characterized by a ready capability to adapt to new, different, or changing requirements"
+      ]
+    ]
+  },
+  {
+    "word": "flight",
+    "pos": "n.",
+    "example": "The tour meets in the White Labs tasting room, where you will have to ignore the siren call of the beer _____ and follow your guide to the actual labs.",
+    "definition": [
+      [
+        "an act or instance of passing through the air by the use of wings",
+        "the ability to fly",
+        "a passing through the air or through space outside the earth's atmosphere"
+      ],
+      [
+        "an act or instance of running away"
+      ]
+    ]
+  },
+  {
+    "word": "flimsy",
+    "pos": "adj.",
+    "example": "a movie with a _____ plot",
+    "definition": [
+      [
+        "lacking in physical strength or substance",
+        "of inferior materials and workmanship",
+        "having little worth or plausibility"
+      ]
+    ]
+  },
+  {
+    "word": "flinch",
+    "pos": "v.",
+    "example": "He _____ when he was presented with the car repair bill.",
+    "definition": [
+      [
+        "to withdraw or shrink from or as if from pain : wince; also : to tense the muscles involuntarily in anticipation of discomfort"
+      ]
+    ]
+  },
+  {
+    "word": "flint",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a massive hard dark quartz that produces a spark when struck by steel",
+        "an implement of flint used in prehistoric cultures",
+        "a piece of flint"
+      ]
+    ]
+  },
+  {
+    "word": "flip",
+    "pos": "v.",
+    "example": "… the chance to _____ the script, to go from 0-6 with a chance to finish the second half of the year 5-1, is motivating Nebraska players this week.",
+    "definition": [
+      [
+        "to toss so as to cause to turn over in the air; also : toss",
+        "to cause to turn and especially to turn over",
+        "to move with a small quick motion"
+      ]
+    ]
+  },
+  {
+    "word": "flip",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "flippant, impertinent"
+      ]
+    ]
+  },
+  {
+    "word": "flippant",
+    "pos": "adj.",
+    "example": "As far as he was concerned, we were an unforgivably _____ bunch. Louche. Our shared political stance … struck him as pathetically naive.",
+    "definition": [
+      [
+        "lacking proper respect or seriousness",
+        "glib, talkative"
+      ]
+    ]
+  },
+  {
+    "word": "flirt",
+    "pos": "v.",
+    "example": "He _____ with every attractive woman he meets.",
+    "definition": [
+      [
+        "to move erratically : flit",
+        "to behave amorously without serious intent",
+        "to show superficial or casual interest or liking; also : experiment"
+      ]
+    ]
+  },
+  {
+    "word": "flit",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to pass quickly or abruptly from one place or condition to another",
+        "alter, shift",
+        "to move in an erratic fluttering manner"
+      ]
+    ]
+  },
+  {
+    "word": "flock",
+    "pos": "n.",
+    "example": "a _____ of tourists",
+    "definition": [
+      [
+        "a group of animals (such as birds or sheep) assembled or herded together",
+        "a group under the guidance of a leader; especially : a church congregation",
+        "a large number"
+      ],
+      [
+        "a tuft of wool or cotton fiber",
+        "woolen or cotton refuse used for stuffing furniture and mattresses",
+        "very short or pulverized fiber used especially to form a velvety pattern on cloth or paper or a protective covering on metal"
+      ]
+    ]
+  },
+  {
+    "word": "floodgate",
+    "pos": "n.",
+    "example": "opened the _____ of criticism",
+    "definition": [
+      [
+        "a gate for shutting out, admitting, or releasing a body of water : sluice",
+        "something serving to restrain an outburst"
+      ]
+    ]
+  },
+  {
+    "word": "flora",
+    "pos": "n.",
+    "example": "intestinal _____",
+    "definition": [
+      [
+        "a treatise on or list of the plants of an area or period",
+        "plant, bacterial, or fungal life; especially : such life characteristic of a region, period, or special environment"
+      ]
+    ]
+  },
+  {
+    "word": "florid",
+    "pos": "adj.",
+    "example": "the _____ stage of a disease",
+    "definition": [
+      [
+        "very flowery in style : ornate; also : having a florid style",
+        "elaborately decorated",
+        "covered with flowers"
+      ]
+    ]
+  },
+  {
+    "word": "flounder",
+    "pos": "v.",
+    "example": "the normally surefooted governor _____ a moment like a prize pupil caught unprepared",
+    "definition": [
+      [
+        "to struggle to move or obtain footing : thrash about wildly",
+        "to proceed or act clumsily or ineffectually"
+      ]
+    ]
+  },
+  {
+    "word": "flounder",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "flatfish; especially : any of various marine fishes (families Pleuronectidae, Paralichthyidae, and Bothidae) that include important food fishes"
+      ]
+    ]
+  },
+  {
+    "word": "flourish",
+    "pos": "v.",
+    "example": "Dressed as a pirate, he entered the stage _____ his sword.",
+    "definition": [
+      [
+        "to grow luxuriantly : thrive",
+        "to achieve success : prosper",
+        "to be in a state of activity or production"
+      ]
+    ]
+  },
+  {
+    "word": "flout",
+    "pos": "v.",
+    "example": "observed with horror the flaunting of their authority in the suburbs, where men … put up buildings that had no place at all in a Christian commonwealth",
+    "definition": [
+      [
+        "to treat with contemptuous disregard : scorn",
+        "to indulge in scornful behavior"
+      ]
+    ]
+  },
+  {
+    "word": "fluctuate",
+    "pos": "v.",
+    "example": "The boat _____ on the rough sea.",
+    "definition": [
+      [
+        "to shift back and forth uncertainly",
+        "to rise and fall in or as if in waves",
+        "to cause to fluctuate"
+      ]
+    ]
+  },
+  {
+    "word": "fluffy",
+    "pos": "adj.",
+    "example": "a _____ omelet",
+    "definition": [
+      [
+        "covered with or resembling fluff",
+        "being light and soft or airy : puffed up",
+        "lacking in meaning or substance : superficial"
+      ]
+    ]
+  },
+  {
+    "word": "fluke",
+    "pos": "n.",
+    "example": "Her second championship shows that the first one was no mere _____.",
+    "definition": [
+      [
+        "a stroke of luck",
+        "an accidentally successful stroke at billiards or pool"
+      ],
+      [
+        "flatfish",
+        "a flattened digenetic trematode worm; broadly : trematode"
+      ],
+      [
+        "the part of an anchor that fastens in the ground",
+        "one of the lobes of a whale's tail"
+      ]
+    ]
+  },
+  {
+    "word": "fluorescent",
+    "pos": "adj.",
+    "example": "_____ inks",
+    "definition": [
+      [
+        "having or relating to fluorescence",
+        "bright and glowing as a result of fluorescence; broadly : very bright in color"
+      ]
+    ]
+  },
+  {
+    "word": "flush",
+    "pos": "n.",
+    "example": "felt a _____ of anger at the insult",
+    "definition": [
+      [
+        "a hand of playing cards all of the same suit; specifically : a poker hand containing five cards of the same suit but not in sequence",
+        "a series of three or more slalom gates set vertically on a slope"
+      ],
+      [
+        "a sudden flow (as of water); also : a rinsing or cleansing with or as if with a flush of water",
+        "a sudden increase or expansion; especially : sudden and usually abundant new plant growth",
+        "a surge of emotion"
+      ]
+    ]
+  },
+  {
+    "word": "flush",
+    "pos": "v.",
+    "example": "Police _____ the suspects from the building.",
+    "definition": [
+      [
+        "to fly away suddenly",
+        "to cause (a bird) to flush",
+        "to expose or chase from a place of concealment"
+      ],
+      [
+        "to flow and spread suddenly and freely",
+        "to glow brightly",
+        "blush"
+      ],
+      [
+        "in a flush manner",
+        "squarely"
+      ],
+      [
+        "to make flush"
+      ]
+    ]
+  },
+  {
+    "word": "flustered",
+    "pos": "adj.",
+    "example": "She became so _____ that she'd … kept repeating, \"Gosh, I can't even think …\" Later she confided, \"I was almost in tears right after doing those numbers.\"",
+    "definition": [
+      [
+        "in a state of agitated confusion"
+      ]
+    ]
+  },
+  {
+    "word": "flutter",
+    "pos": "v.",
+    "example": "She nervously _____ around the office.",
+    "definition": [
+      [
+        "to flap the wings rapidly",
+        "to move with quick wavering or flapping motions",
+        "to vibrate in irregular spasms"
+      ]
+    ]
+  },
+  {
+    "word": "fluvial",
+    "pos": "adj.",
+    "example": "a _____ plain",
+    "definition": [
+      [
+        "of, relating to, or living in a stream or river",
+        "produced by the action of a stream"
+      ]
+    ]
+  },
+  {
+    "word": "flux",
+    "pos": "n.",
+    "example": "the _____ following the death of the emperor",
+    "definition": [
+      [
+        "a flowing of fluid from the body: such as",
+        "diarrhea",
+        "dysentery"
+      ]
+    ]
+  },
+  {
+    "word": "foible",
+    "pos": "n.",
+    "example": "admired their teacher despite his _____",
+    "definition": [
+      [
+        "the part of a sword or foil blade between the middle and point",
+        "a minor flaw or shortcoming in character or behavior : weakness"
+      ]
+    ]
+  },
+  {
+    "word": "foil",
+    "pos": "n.",
+    "example": "acted as a _____ for a comedian",
+    "definition": [
+      [
+        "very thin sheet metal",
+        "a thin piece of material (such as metal) put under an inferior or paste stone to add color or brilliance",
+        "someone or something that serves as a contrast to another"
+      ],
+      [
+        "a light fencing sword having a usually circular guard and a flexible blade of rectangular section tapering to a blunted point",
+        "the art or sport of fencing with the foil —often used in plural"
+      ],
+      [
+        "defeat",
+        "the track or trail of an animal"
+      ]
+    ]
+  },
+  {
+    "word": "fold",
+    "pos": "n.",
+    "example": "His former colleagues would be glad to welcome him back into the _____.",
+    "definition": [
+      [
+        "a part doubled or laid over another part : pleat",
+        "a crease made by folding something (such as a newspaper)",
+        "something that is folded together or that enfolds"
+      ],
+      [
+        "a group of people or institutions that share a common faith, belief, activity, or enthusiasm",
+        "a flock of sheep",
+        "an enclosure for sheep"
+      ]
+    ]
+  },
+  {
+    "word": "fold",
+    "pos": "v.",
+    "example": "_____ the hands",
+    "definition": [
+      [
+        "to lay one part over another part of",
+        "to reduce the length or bulk of by doubling over",
+        "to clasp together : entwine"
+      ],
+      [
+        "to pen up or confine (sheep) in a fold"
+      ]
+    ]
+  },
+  {
+    "word": "folder",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one that folds",
+        "a folded printed circular",
+        "a folded cover or large envelope for holding or filing loose papers"
+      ]
+    ]
+  },
+  {
+    "word": "foliage",
+    "pos": "n.",
+    "example": "The doorframe was decorated with beautifully carved _____.",
+    "definition": [
+      [
+        "a representation of leaves, flowers, and branches for architectural ornamentation",
+        "the aggregate of leaves of one or more plants",
+        "a cluster of leaves, flowers, and branches"
+      ]
+    ]
+  },
+  {
+    "word": "folklore",
+    "pos": "n.",
+    "example": "The coyote appears in much of Native American _____.",
+    "definition": [
+      [
+        "traditional customs, tales, sayings, dances, or art forms preserved among a people",
+        "a branch of knowledge that deals with folklore",
+        "an often unsupported notion, story, or saying that is widely circulated"
+      ]
+    ]
+  },
+  {
+    "word": "folly",
+    "pos": "n.",
+    "example": "Paying so much for that land was _____, since it was all rocks and scrub trees.",
+    "definition": [
+      [
+        "lack of good sense or normal prudence and foresight",
+        "criminally or tragically foolish actions or conduct",
+        "evil, wickedness; especially : lewd behavior"
+      ]
+    ]
+  },
+  {
+    "word": "foment",
+    "pos": "v.",
+    "example": "was accused of _____ a riot",
+    "definition": [
+      [
+        "to promote the growth or development of : rouse, incite"
+      ]
+    ]
+  },
+  {
+    "word": "foodstuff",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a substance with food value; specifically : the raw material of food before or after processing"
+      ]
+    ]
+  },
+  {
+    "word": "foolproof",
+    "pos": "adj.",
+    "example": "a _____ plan",
+    "definition": [
+      [
+        "so simple, plain, or reliable as to leave no opportunity for error, misuse, or failure"
+      ]
+    ]
+  },
+  {
+    "word": "foppish",
+    "pos": "adj.",
+    "example": "a _____ dressing gown",
+    "definition": [
+      [
+        "foolish, silly",
+        "characteristic of a fop",
+        "behaving or dressing in the manner of a fop"
+      ]
+    ]
+  },
+  {
+    "word": "forage",
+    "pos": "n.",
+    "example": "The grass serves as _____ for livestock.",
+    "definition": [
+      [
+        "food for animals especially when taken by browsing or grazing",
+        "the act of foraging : search for provisions"
+      ]
+    ]
+  },
+  {
+    "word": "forage",
+    "pos": "v.",
+    "example": "_____ a chicken for the feast",
+    "definition": [
+      [
+        "to strip of provisions : collect forage from",
+        "to secure by foraging",
+        "to wander in search of forage or food"
+      ]
+    ]
+  },
+  {
+    "word": "forbearance",
+    "pos": "n.",
+    "example": "Mrs Varden entreated her to remember that … marriage … was a state requiring great fortitude and _____.",
+    "definition": [
+      [
+        "a refraining from the enforcement of something (such as a debt, right, or obligation) that is due",
+        "the act of forbearing : patience",
+        "the quality of being forbearing : leniency"
+      ]
+    ]
+  },
+  {
+    "word": "forbid",
+    "pos": "v.",
+    "example": "Modesty _____ telling what my part was in the affair.",
+    "definition": [
+      [
+        "to proscribe from or as if from the position of one in authority : command against",
+        "to hinder or prevent as if by an effectual command"
+      ]
+    ]
+  },
+  {
+    "word": "forbidding",
+    "pos": "adj.",
+    "example": "a dark _____ sky",
+    "definition": [
+      [
+        "such as to make approach or passage difficult or impossible",
+        "disagreeable, repellent",
+        "grim, menacing"
+      ]
+    ]
+  },
+  {
+    "word": "ford",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a shallow part of a body of water that may be crossed by wading"
+      ]
+    ]
+  },
+  {
+    "word": "ford",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to cross (a body of water) by wading"
+      ]
+    ]
+  },
+  {
+    "word": "forebode",
+    "pos": "v.",
+    "example": "… she looked eagerly in his face, not quick to _____ evil, but unavoidably conscious that the state of the family had changed …",
+    "definition": [
+      [
+        "to have an inward conviction of (something, such as a coming ill or misfortune)",
+        "foretell, portend",
+        "augur, predict"
+      ]
+    ]
+  },
+  {
+    "word": "forecast",
+    "pos": "v.",
+    "example": "Optimists are _____ an immediate upswing in business.",
+    "definition": [
+      [
+        "to calculate or predict (some future event or condition) usually as a result of study and analysis of available pertinent data; especially : to predict (weather conditions) on the basis of correlated meteorological observations",
+        "to indicate as likely to occur",
+        "to serve as a forecast of : presage"
+      ]
+    ]
+  },
+  {
+    "word": "forecast",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a prophecy, estimate, or prediction of a future happening or condition",
+        "foresight of consequences and provision against them : forethought"
+      ]
+    ]
+  },
+  {
+    "word": "forerunner",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one that precedes and indicates the approach of another: such as",
+        "a premonitory sign or symptom",
+        "a skier who runs the course before the start of a race"
+      ]
+    ]
+  },
+  {
+    "word": "foreshadow",
+    "pos": "v.",
+    "example": "The hero's predicament is _____ in the first chapter.",
+    "definition": [
+      [
+        "to represent, indicate, or typify beforehand : prefigure"
+      ]
+    ]
+  },
+  {
+    "word": "foresight",
+    "pos": "n.",
+    "example": "Through _____ she could tell what the outcome would be.",
+    "definition": [
+      [
+        "an act or the power of foreseeing : prescience",
+        "provident care : prudence",
+        "an act of looking forward; also : a view forward"
+      ]
+    ]
+  },
+  {
+    "word": "forestall",
+    "pos": "v.",
+    "example": "… he sprang like a cat to the top of the cabin and ran aft. But his pursuers _____ him, he doubled back across the cabin …",
+    "definition": [
+      [
+        "to exclude, hinder, or prevent (something) by prior occupation or measures",
+        "to get ahead of (something) : anticipate",
+        "to prevent the normal trading in (something) by buying or diverting goods or by persuading people to raise prices"
+      ]
+    ]
+  },
+  {
+    "word": "forestry",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "forestland",
+        "the science of developing, caring for, or cultivating forests",
+        "the management of growing timber"
+      ]
+    ]
+  },
+  {
+    "word": "forfeit",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to lose or lose the right to especially by some error, offense, or crime",
+        "to subject to confiscation as a forfeit; also : abandon, give up"
+      ]
+    ]
+  },
+  {
+    "word": "forfeit",
+    "pos": "n.",
+    "example": "They were required to pay a _____.",
+    "definition": [
+      [
+        "something forfeited or subject to being forfeited (as for a crime, offense, or neglect of duty) : penalty",
+        "forfeiture especially of civil rights",
+        "something deposited (as for making a mistake in a game) and then redeemed on payment of a fine"
+      ]
+    ]
+  },
+  {
+    "word": "forge",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a furnace or a shop with its furnace where metal is heated and wrought : smithy",
+        "a workshop where wrought iron is produced or where iron is made malleable"
+      ]
+    ]
+  },
+  {
+    "word": "forge",
+    "pos": "v.",
+    "example": "The two countries _____ a strong alliance.",
+    "definition": [
+      [
+        "to form (something, such as metal) by heating and hammering",
+        "to form (metal) by a mechanical or hydraulic press with or without heat",
+        "to make or imitate falsely especially with intent to defraud : counterfeit"
+      ],
+      [
+        "to move forward slowly and steadily",
+        "to move with a sudden increase of speed and power"
+      ]
+    ]
+  },
+  {
+    "word": "forger",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one that forges metals",
+        "a person who falsifies; especially : a creator of false tales",
+        "a person guilty of forgery"
+      ]
+    ]
+  },
+  {
+    "word": "forgery",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "invention",
+        "something forged",
+        "an act of forging; especially : the crime of falsely and fraudulently making or altering a document (such as a check)"
+      ]
+    ]
+  },
+  {
+    "word": "forgo",
+    "pos": "v.",
+    "example": "never _____ an opportunity of honest profit",
+    "definition": [
+      [
+        "to give up the enjoyment or advantage of : do without",
+        "forsake"
+      ]
+    ]
+  },
+  {
+    "word": "formality",
+    "pos": "n.",
+    "example": "the interview was just a _____",
+    "definition": [
+      [
+        "compliance with formal or conventional rules : ceremony",
+        "the quality or state of being formal",
+        "an established form or procedure that is required or conventional"
+      ]
+    ]
+  },
+  {
+    "word": "formation",
+    "pos": "n.",
+    "example": "the peculiar _____ of the heart",
+    "definition": [
+      [
+        "an act of giving form or shape to something or of taking form : development",
+        "something that is formed",
+        "the manner in which a thing is formed : structure"
+      ]
+    ]
+  },
+  {
+    "word": "formidable",
+    "pos": "adj.",
+    "example": "She was known throughout Manchester as a _____ woman, and being educated had only piled more _____ on top of what she had been born with.",
+    "definition": [
+      [
+        "causing fear, dread, or apprehension",
+        "having qualities that discourage approach or attack",
+        "tending to inspire awe or wonder : impressive"
+      ]
+    ]
+  },
+  {
+    "word": "formula",
+    "pos": "n.",
+    "example": "The product is made using a secret _____ that the company refuses to reveal.",
+    "definition": [
+      [
+        "a set form of words for use in a ceremony or ritual",
+        "a conventionalized statement intended to express some fundamental truth or principle especially as a basis for negotiation or action",
+        "recipe"
+      ]
+    ]
+  },
+  {
+    "word": "forsake",
+    "pos": "v.",
+    "example": "_____ the theater for politics",
+    "definition": [
+      [
+        "to renounce or turn away from entirely"
+      ]
+    ]
+  },
+  {
+    "word": "forte",
+    "pos": "n.",
+    "example": "Though his _____ was never the novel but the novella, he paid the rent by grinding out novel after novel …",
+    "definition": [
+      [
+        "one's strong point",
+        "the part of a sword or foil blade that is between the middle and the hilt and that is the strongest part of the blade"
+      ],
+      [
+        "a musical tone or passage played loudly"
+      ]
+    ]
+  },
+  {
+    "word": "forte",
+    "pos": "adj.",
+    "example": "violins played the passage _____",
+    "definition": [
+      [
+        "loud —used as a direction in music"
+      ]
+    ]
+  },
+  {
+    "word": "forthright",
+    "pos": "adj.",
+    "example": "was _____ in appraising the problem",
+    "definition": [
+      [
+        "free from ambiguity or evasiveness : going straight to the point",
+        "notably simple in style or quality",
+        "proceeding straight on"
+      ]
+    ]
+  },
+  {
+    "word": "fortify",
+    "pos": "v.",
+    "example": "… both the red and white versions we get in this country have been American-made-from California wine _____ with a touch of brandy.",
+    "definition": [
+      [
+        "to make strong: such as",
+        "to strengthen and secure (a place, such as a town) by forts or batteries",
+        "to give physical strength, courage, or endurance to"
+      ]
+    ]
+  },
+  {
+    "word": "fortitude",
+    "pos": "n.",
+    "example": "He learned that war was a hurly-burly of violence in which men prevailed through imagination and the _____ to struggle on despite reverses.",
+    "definition": [
+      [
+        "strength of mind that enables a person to encounter danger or bear pain or adversity with courage",
+        "strength"
+      ]
+    ]
+  },
+  {
+    "word": "fortuitous",
+    "pos": "adj.",
+    "example": "Her $170, 000 bid on what is now Matanzas Creek's vineyard was accepted. The south-facing slope was a _____ find … its worth more than 10 times as much today.",
+    "definition": [
+      [
+        "occurring by chance",
+        "fortunate, lucky",
+        "coming or happening by a lucky chance"
+      ]
+    ]
+  },
+  {
+    "word": "forum",
+    "pos": "n.",
+    "example": "The club provides a _____ for people interested in local history.",
+    "definition": [
+      [
+        "the marketplace or public place of an ancient Roman city forming the center of judicial and public business",
+        "a public meeting place for open discussion",
+        "a medium (such as a newspaper or online service) of open discussion or expression of ideas"
+      ]
+    ]
+  },
+  {
+    "word": "forward",
+    "pos": "adj.",
+    "example": "Poorly disciplined children are often distressingly _____.",
+    "definition": [
+      [
+        "near, being at, or belonging to the forepart",
+        "situated in advance",
+        "strongly inclined : ready"
+      ]
+    ]
+  },
+  {
+    "word": "fosse",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "ditch, moat"
+      ]
+    ]
+  },
+  {
+    "word": "fossilize",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to convert into a fossil",
+        "to make outmoded, rigid, or fixed",
+        "to become changed into a fossil"
+      ]
+    ]
+  },
+  {
+    "word": "foster",
+    "pos": "v.",
+    "example": "… it's just her luck she'd find a partner who not only adores dogs but _____ them for a Sacramento animal shelter.",
+    "definition": [
+      [
+        "to act as a foster parent to (a child)",
+        "to provide temporary care to (an animal that is injured, homeless, etc.) in a household or similar setting",
+        "to promote the growth or development of : encourage"
+      ]
+    ]
+  },
+  {
+    "word": "foul",
+    "pos": "adj.",
+    "example": "… a _____ fly that was snagged by a fan in the stands.",
+    "definition": [
+      [
+        "offensive to the senses : loathsome",
+        "filled or covered with offensive matter",
+        "being odorous and impure : polluted"
+      ]
+    ]
+  },
+  {
+    "word": "foul",
+    "pos": "v.",
+    "example": "a ship's bottom _____ with barnacles",
+    "definition": [
+      [
+        "to make foul: such as",
+        "to make dirty : pollute",
+        "to tangle or come into collision with"
+      ],
+      [
+        "in a foul manner : so as to be foul"
+      ]
+    ]
+  },
+  {
+    "word": "foul",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an infringement of the rules in a game or sport",
+        "free throw",
+        "foul ball"
+      ]
+    ]
+  },
+  {
+    "word": "founder",
+    "pos": "v.",
+    "example": "Every once in a while, perhaps as a consequence of small earthquakes or other tectonic movements … these muddy banks _____ and slid into the adjoining stagnant basin …",
+    "definition": [
+      [
+        "to become disabled; especially : to go lame",
+        "to give way : collapse",
+        "to become submerged : sink"
+      ]
+    ]
+  },
+  {
+    "word": "four-poster",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a bed with tall often carved corner posts originally designed to support curtains or a canopy"
+      ]
+    ]
+  },
+  {
+    "word": "foyer",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an anteroom or lobby especially of a theater; also : an entrance hallway : vestibule"
+      ]
+    ]
+  },
+  {
+    "word": "fracas",
+    "pos": "n.",
+    "example": "a drunken _____",
+    "definition": [
+      [
+        "a noisy quarrel : brawl"
+      ]
+    ]
+  },
+  {
+    "word": "fraction",
+    "pos": "n.",
+    "example": "a _____ closer",
+    "definition": [
+      [
+        "a numerical representation (such as 3/4, 5/8, or 3.234) indicating the quotient of two numbers",
+        "a piece broken off : fragment",
+        "a discrete unit : portion"
+      ]
+    ]
+  },
+  {
+    "word": "fractious",
+    "pos": "adj.",
+    "example": "a _____ political campaign",
+    "definition": [
+      [
+        "tending to be troublesome : unruly",
+        "quarrelsome, irritable"
+      ]
+    ]
+  },
+  {
+    "word": "fracture",
+    "pos": "n.",
+    "example": "kidney _____",
+    "definition": [
+      [
+        "the result of fracturing : break",
+        "the act or process of breaking or the state of being broken; especially : the breaking of hard tissue (such as bone)",
+        "the rupture (as by tearing) of soft tissue"
+      ]
+    ]
+  },
+  {
+    "word": "fragile",
+    "pos": "adj.",
+    "example": "a _____ coalition",
+    "definition": [
+      [
+        "easily broken or destroyed",
+        "constitutionally delicate : lacking in vigor",
+        "tenuous, slight"
+      ]
+    ]
+  },
+  {
+    "word": "fragment",
+    "pos": "n.",
+    "example": "The dish lay in _____ on the floor.",
+    "definition": [
+      [
+        "a part broken off, detached, or incomplete"
+      ]
+    ]
+  },
+  {
+    "word": "fragrance",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a sweet or delicate odor (as of fresh flowers, pine trees, or perfume)",
+        "something (such as a perfume) compounded to give off a sweet or pleasant odor",
+        "the quality or state of having a sweet odor"
+      ]
+    ]
+  },
+  {
+    "word": "fragrant",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "having a sweet or pleasant smell"
+      ]
+    ]
+  },
+  {
+    "word": "frail",
+    "pos": "adj.",
+    "example": "… _____, open-cockpit biplanes …",
+    "definition": [
+      [
+        "easily led into evil",
+        "easily broken or destroyed : fragile",
+        "physically weak"
+      ]
+    ]
+  },
+  {
+    "word": "frantic",
+    "pos": "adj.",
+    "example": "made a _____ search for the lost child",
+    "definition": [
+      [
+        "emotionally out of control",
+        "marked by fast and nervous, disordered, or anxiety-driven activity",
+        "mentally unsound"
+      ]
+    ]
+  },
+  {
+    "word": "fraud",
+    "pos": "n.",
+    "example": "He claimed to be a licensed psychologist, but he turned out to be a _____.",
+    "definition": [
+      [
+        "deceit, trickery; specifically : intentional perversion of truth in order to induce another to part with something of value or to surrender a legal right",
+        "an act of deceiving or misrepresenting : trick",
+        "a person who is not what he or she pretends to be : impostor; also : one who defrauds : cheat"
+      ]
+    ]
+  },
+  {
+    "word": "fraudulent",
+    "pos": "adj.",
+    "example": "_____ claims for unemployment compensation",
+    "definition": [
+      [
+        "characterized by, based on, or done by fraud : deceitful"
+      ]
+    ]
+  },
+  {
+    "word": "fraught",
+    "pos": "adj.",
+    "example": "The paper was poorly researched and is _____ with errors.",
+    "definition": [
+      [
+        "full of or accompanied by something specified —used with with",
+        "causing or characterized by emotional distress or tension : uneasy",
+        "laden"
+      ]
+    ]
+  },
+  {
+    "word": "freckle",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of the small brownish spots in the skin due to augmented melanin production that increase in number and intensity on exposure to sunlight"
+      ]
+    ]
+  },
+  {
+    "word": "freelancer",
+    "pos": "n.",
+    "example": "… there were hundreds of photographers on the scene, some on assignment, some _____, most of them amateurs.",
+    "definition": [
+      [
+        "a person who pursues a profession without a long-term commitment to any one employer : freelance",
+        "a person who acts independently without being affiliated with or authorized by an organization : freelance"
+      ]
+    ]
+  },
+  {
+    "word": "freight",
+    "pos": "n.",
+    "example": "words that carry psychological _____, such as \"family,\" \"work,\" and \"sex\"",
+    "definition": [
+      [
+        "the compensation paid for the transportation of goods",
+        "cost",
+        "goods to be shipped : cargo"
+      ]
+    ]
+  },
+  {
+    "word": "freight",
+    "pos": "v.",
+    "example": "_____ with memories",
+    "definition": [
+      [
+        "to load with goods for transportation",
+        "burden, charge",
+        "to transport or ship by freight"
+      ]
+    ]
+  },
+  {
+    "word": "frenetic",
+    "pos": "adj.",
+    "example": "… the \"threatening\" success of Jack Kerouac's \"On the Road,\" the signature book of the 1950s Beat Generation, and its _____ search for sensation.",
+    "definition": [
+      [
+        "marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic"
+      ]
+    ]
+  },
+  {
+    "word": "frenzy",
+    "pos": "n.",
+    "example": "… almost weeping in a _____ of anxiety …",
+    "definition": [
+      [
+        "a temporary madness",
+        "a violent mental or emotional agitation",
+        "intense usually wild and often disorderly compulsive or agitated activity"
+      ]
+    ]
+  },
+  {
+    "word": "frequency",
+    "pos": "n.",
+    "example": "the _____ of automobile accidents",
+    "definition": [
+      [
+        "the fact or condition of occurring frequently",
+        "the number of times that a periodic function repeats the same sequence of values during a unit variation of the independent variable",
+        "the number, proportion, or percentage of items in a particular category in a set of data"
+      ]
+    ]
+  },
+  {
+    "word": "frequent",
+    "pos": "v.",
+    "example": "a restaurant _____ by local politicians",
+    "definition": [
+      [
+        "to associate with, be in, or resort to often or habitually",
+        "to read systematically or habitually"
+      ]
+    ]
+  },
+  {
+    "word": "frequent",
+    "pos": "adj.",
+    "example": "a _____ practice among these people",
+    "definition": [
+      [
+        "common, usual",
+        "happening at short intervals : often repeated or occurring",
+        "full, thronged"
+      ]
+    ]
+  },
+  {
+    "word": "fresco",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the art of painting on freshly spread moist lime plaster with water-based pigments",
+        "a painting executed in fresco"
+      ]
+    ]
+  },
+  {
+    "word": "fret",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the action of wearing away : erosion",
+        "a worn or eroded spot",
+        "an agitation of mind : irritation"
+      ],
+      [
+        "an ornamental network; especially : a medieval metallic or jeweled net for a woman's headdress",
+        "an ornament or ornamental work often in relief consisting of small straight bars intersecting one another in right or oblique angles"
+      ],
+      [
+        "one of a series of ridges fixed across the fingerboard of a stringed musical instrument (such as a guitar)"
+      ]
+    ]
+  },
+  {
+    "word": "fret",
+    "pos": "v.",
+    "example": "a poor player who struts and _____ his hour upon the stage",
+    "definition": [
+      [
+        "to eat or gnaw into : corrode; also : fray",
+        "rub, chafe",
+        "to make by wearing away a substance"
+      ],
+      [
+        "to decorate with interlaced designs",
+        "to form a pattern upon",
+        "to enrich with embossed or pierced carved patterns"
+      ],
+      [
+        "to press (the strings of a stringed instrument) against the frets"
+      ]
+    ]
+  },
+  {
+    "word": "friable",
+    "pos": "adj.",
+    "example": "_____ soil",
+    "definition": [
+      [
+        "easily crumbled or pulverized"
+      ]
+    ]
+  },
+  {
+    "word": "friction",
+    "pos": "n.",
+    "example": "_____ between state and federal authorities",
+    "definition": [
+      [
+        "the rubbing of one body against another",
+        "the force that resists relative motion between two bodies in contact",
+        "the clashing between two persons or parties of opposed views : disagreement"
+      ]
+    ]
+  },
+  {
+    "word": "frieze",
+    "pos": "n.",
+    "example": "a constant _____ of visitors wound its way around the … ruins",
+    "definition": [
+      [
+        "a heavy durable coarse wool and shoddy fabric with a rough surface",
+        "a pile surface of uncut loops or of patterned cut and uncut loops"
+      ],
+      [
+        "the part of an entablature between the architrave and the cornice",
+        "a sculptured or richly ornamented band (as on a building or piece of furniture)",
+        "a band, line, or series suggesting a frieze"
+      ]
+    ]
+  },
+  {
+    "word": "frigid",
+    "pos": "adj.",
+    "example": "writing precise and _____ poetry",
+    "definition": [
+      [
+        "intensely cold",
+        "lacking warmth or ardor : indifferent",
+        "lacking imaginative qualities : insipid"
+      ]
+    ]
+  },
+  {
+    "word": "frigidity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the quality or state of being frigid; specifically : marked or abnormal sexual indifference especially in a woman"
+      ]
+    ]
+  },
+  {
+    "word": "fringe",
+    "pos": "n.",
+    "example": "working for years on the _____ of the entertainment industry",
+    "definition": [
+      [
+        "an ornamental border consisting of short straight or twisted threads or strips hanging from cut or raveled edges or from a separate band",
+        "something resembling a fringe : edge, periphery —often used in plural",
+        "bang"
+      ]
+    ]
+  },
+  {
+    "word": "frisky",
+    "pos": "adj.",
+    "example": "a _____ performance",
+    "definition": [
+      [
+        "inclined to frisk : playful; also : lively"
+      ]
+    ]
+  },
+  {
+    "word": "frivolous",
+    "pos": "adj.",
+    "example": "She knew that people might think her _____, Kitty said, to talk to some saint when she had a cooking disaster, but that was what she really believed the saints were there for.",
+    "definition": [
+      [
+        "of little weight or importance",
+        "having no sound basis (as in fact or law)",
+        "lacking in seriousness"
+      ]
+    ]
+  },
+  {
+    "word": "frond",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a large leaf (especially of a palm or fern) usually with many divisions",
+        "a thallus or thalloid shoot (as of a lichen or seaweed) resembling a leaf"
+      ]
+    ]
+  },
+  {
+    "word": "frothy",
+    "pos": "adj.",
+    "example": "a _____ comedy",
+    "definition": [
+      [
+        "full of or consisting of froth",
+        "gaily frivolous or light in content or treatment : insubstantial",
+        "made of light thin material"
+      ]
+    ]
+  },
+  {
+    "word": "frugal",
+    "pos": "adj.",
+    "example": "In a _____ white frame house of tiny rooms that shook with every passing freight train, five boys of German immigrant background had grown up at the turn of the twentieth century.",
+    "definition": [
+      [
+        "characterized by or reflecting economy in the use of resources"
+      ]
+    ]
+  },
+  {
+    "word": "fruition",
+    "pos": "n.",
+    "example": "Truth is a weapon so powerful that the slowness of its _____ matters little in the end.",
+    "definition": [
+      [
+        "pleasurable use or possession : enjoyment",
+        "the state of bearing fruit",
+        "realization"
+      ]
+    ]
+  },
+  {
+    "word": "frustrate",
+    "pos": "v.",
+    "example": "The project was _____ by government regulations.",
+    "definition": [
+      [
+        "to balk or defeat in an endeavor",
+        "to induce feelings of discouragement in",
+        "to make ineffectual : bring to nothing"
+      ]
+    ]
+  },
+  {
+    "word": "fulcrum",
+    "pos": "n.",
+    "example": "the camera moves on a fixed _____, either horizontally (panning) or vertically (tilting)",
+    "definition": [
+      [
+        "prop; specifically : the support about which a lever turns",
+        "one that supplies capability for action",
+        "a part of an animal that serves as a hinge or support"
+      ]
+    ]
+  },
+  {
+    "word": "full-blown",
+    "pos": "adj.",
+    "example": "a general philosophy, if not a _____ ideology, is emerging",
+    "definition": [
+      [
+        "fully mature",
+        "being at the height of bloom",
+        "full-fledged"
+      ]
+    ]
+  },
+  {
+    "word": "full-bodied",
+    "pos": "adj.",
+    "example": "_____ study of literature",
+    "definition": [
+      [
+        "having a large body",
+        "imparting to the palate the general impression of substantial weight and rich texture",
+        "having importance, significance, or meaningfulness"
+      ]
+    ]
+  },
+  {
+    "word": "full-fledged",
+    "pos": "adj.",
+    "example": "a _____ biography",
+    "definition": [
+      [
+        "fully developed : total, complete",
+        "having attained complete status",
+        "full-blown"
+      ]
+    ]
+  },
+  {
+    "word": "fulminate",
+    "pos": "v.",
+    "example": "_____ against government regulators",
+    "definition": [
+      [
+        "to utter or send out with denunciation",
+        "to send forth censures or invectives"
+      ]
+    ]
+  },
+  {
+    "word": "fulsome",
+    "pos": "adj.",
+    "example": "the _____ chromium glitter of the escalators dominating the central hall",
+    "definition": [
+      [
+        "characterized by abundance : copious",
+        "generous in amount, extent, or spirit",
+        "being full and well developed"
+      ]
+    ]
+  },
+  {
+    "word": "fumble",
+    "pos": "v.",
+    "example": "_____ in his pocket for a coin",
+    "definition": [
+      [
+        "to grope for or handle something clumsily or aimlessly",
+        "to make awkward attempts to do or find something",
+        "to search by trial and error"
+      ]
+    ]
+  },
+  {
+    "word": "fume",
+    "pos": "v.",
+    "example": "fretted and _____ over the delay",
+    "definition": [
+      [
+        "to expose to or treat with fumes",
+        "to give off in fumes",
+        "to utter while in a state of excited irritation or anger"
+      ]
+    ]
+  },
+  {
+    "word": "fume",
+    "pos": "n.",
+    "example": "sometimes his head gets a little hot with the _____ of patriotism",
+    "definition": [
+      [
+        "a smoke, vapor, or gas especially when irritating or offensive",
+        "an often noxious suspension of particles in a gas (such as air)",
+        "something (such as an emotion) that impairs one's reasoning"
+      ]
+    ]
+  },
+  {
+    "word": "fumigate",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to apply smoke, vapor, or gas to especially for the purpose of disinfecting or of destroying pests"
+      ]
+    ]
+  },
+  {
+    "word": "functional",
+    "pos": "adj.",
+    "example": "The design of the building is not only _____ but also beautiful.",
+    "definition": [
+      [
+        "of, connected with, or being a function",
+        "affecting physiological or psychological functions but not organic structure",
+        "used to contribute to the development or maintenance of a larger whole; also : designed or developed chiefly from the point of view of use"
+      ]
+    ]
+  },
+  {
+    "word": "functionary",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "one who serves in a certain function",
+        "one holding office in a government or political party"
+      ]
+    ]
+  },
+  {
+    "word": "fundamental",
+    "pos": "adj.",
+    "example": "a preacher who is evangelical, Bible-teaching, and _____",
+    "definition": [
+      [
+        "serving as a basis supporting existence or determining essential structure or function : basic",
+        "serving as an original or generating source : primary",
+        "of or relating to essential structure, function, or facts : radical; also : of or dealing with general principles rather than practical application"
+      ]
+    ]
+  },
+  {
+    "word": "fungicide",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an agent that destroys fungi or inhibits their growth"
+      ]
+    ]
+  },
+  {
+    "word": "furnace",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an enclosed structure in which heat is produced (as for heating a house or for reducing ore)"
+      ]
+    ]
+  },
+  {
+    "word": "furor",
+    "pos": "n.",
+    "example": "confusion and _____ within the Pentagon over research and development spending",
+    "definition": [
+      [
+        "an angry or maniacal fit : rage",
+        "fury",
+        "a fashionable craze : vogue"
+      ]
+    ]
+  },
+  {
+    "word": "furrow",
+    "pos": "n.",
+    "example": "tracing a fingernail along a _____ in the corduroy of her housecoat",
+    "definition": [
+      [
+        "a trench in the earth made by a plow",
+        "plowed land : field",
+        "something that resembles the track of a plow: such as"
+      ]
+    ]
+  },
+  {
+    "word": "furtive",
+    "pos": "adj.",
+    "example": "Fall's pleasures were _____, risky, short-lived-buckeye fights, … the endless recipes for the apples Mrs. Railsbeck asked him to fetch from the cobwebbed crate in the basement.",
+    "definition": [
+      [
+        "done in a quiet and secretive way to avoid being noticed : surreptitious",
+        "expressive of stealth : sly",
+        "obtained underhandedly : stolen"
+      ]
+    ]
+  },
+  {
+    "word": "fusillade",
+    "pos": "n.",
+    "example": "a _____ of rocks and bottles",
+    "definition": [
+      [
+        "a number of shots fired simultaneously or in rapid succession",
+        "something that gives the effect of a fusillade",
+        "a spirited outburst especially of criticism"
+      ]
+    ]
+  },
+  {
+    "word": "fusion",
+    "pos": "n.",
+    "example": "a restaurant that specializes in Indian-Chinese _____",
+    "definition": [
+      [
+        "the act or process of liquefying or rendering plastic by heat",
+        "a union by or as if by melting: such as",
+        "a merging of diverse, distinct, or separate elements into a unified whole"
+      ]
+    ]
+  },
+  {
+    "word": "fuss",
+    "pos": "n.",
+    "example": "the _____ they are raising … over certain words and phrases",
+    "definition": [
+      [
+        "needless bustle or excitement",
+        "a show of flattering attention",
+        "a state of agitation especially over a trivial matter"
+      ]
+    ]
+  },
+  {
+    "word": "fussy",
+    "pos": "adj.",
+    "example": "_____ bookkeeping procedures",
+    "definition": [
+      [
+        "easily upset : irritable",
+        "overly decorative",
+        "requiring or giving close attention to details"
+      ]
+    ]
+  },
+  {
+    "word": "fusty",
+    "pos": "adj.",
+    "example": "",
+    "definition": [
+      [
+        "impaired by age or dampness : moldy",
+        "saturated with dust and stale odors : musty",
+        "rigidly old-fashioned or reactionary"
+      ]
+    ]
+  },
+  {
+    "word": "futile",
+    "pos": "adj.",
+    "example": "In some _____ bid for gentility, the management has barred employees from using the front door, so my first day I enter through the kitchen …",
+    "definition": [
+      [
+        "serving no useful purpose : completely ineffective",
+        "occupied with trifles : frivolous"
+      ]
+    ]
+  },
+  {
+    "word": "futility",
+    "pos": "n.",
+    "example": "His speech focused on the _____ of violence.",
+    "definition": [
+      [
+        "the quality or state of being futile : uselessness",
+        "a useless act or gesture"
+      ]
+    ]
+  },
+  {
+    "word": "gadfly",
+    "pos": "n.",
+    "example": "a political _____",
+    "definition": [
+      [
+        "any of various flies (such as a horsefly, botfly, or warble fly) that bite or annoy livestock",
+        "a person who stimulates or annoys other people especially by persistent criticism"
+      ]
+    ]
+  },
+  {
+    "word": "gadget",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an often small mechanical or electronic device with a practical use but often thought of as a novelty"
+      ]
+    ]
+  },
+  {
+    "word": "gaffe",
+    "pos": "n.",
+    "example": "Kwan did not fall today, as she had in Friday's short program, a _____ that left her in fourth place.",
+    "definition": [
+      [
+        "a social or diplomatic blunder",
+        "a noticeable mistake"
+      ]
+    ]
+  },
+  {
+    "word": "gaggle",
+    "pos": "n.",
+    "example": "participated in a _____ of petty crimes",
+    "definition": [
+      [
+        "flock; especially : a flock of geese when not in flight",
+        "a group, aggregation, or cluster lacking organization",
+        "an indefinite number"
+      ]
+    ]
+  },
+  {
+    "word": "gainsay",
+    "pos": "v.",
+    "example": "did not dare to _____ the king",
+    "definition": [
+      [
+        "to declare to be untrue or invalid",
+        "contradict, oppose"
+      ]
+    ]
+  },
+  {
+    "word": "gait",
+    "pos": "n.",
+    "example": "They were orthopedic shoes built around molds of my feet, and they had a 2 1/4-inch lift.  … they had given me a more or less even _____ for the first time in 10 years.",
+    "definition": [
+      [
+        "a manner of walking or moving on foot",
+        "a sequence of foot movements (such as a walk, trot, pace, or canter) by which a horse or a dog moves forward",
+        "a manner or rate of movement or progress"
+      ]
+    ]
+  },
+  {
+    "word": "galaxy",
+    "pos": "n.",
+    "example": "remained _____ apart on the issue",
+    "definition": [
+      [
+        "milky way galaxy —used with the",
+        "any of the very large groups of stars and associated matter that are found throughout the universe",
+        "an assemblage of brilliant or notable persons or things"
+      ]
+    ]
+  },
+  {
+    "word": "gall",
+    "pos": "n.",
+    "example": "Our society has a propensity for covertly liking the {ldquo}unlikeable{rdquo}. Maybe it's because we appreciate those who do and say things we don't _____ to put forth ourselves …",
+    "definition": [
+      [
+        "brazen boldness often with brash self-confidence : nerve, effrontery —usually used in the phrase have the gall",
+        "bile; especially : ox gall",
+        "something bitter to endure"
+      ],
+      [
+        "an abnormal outgrowth of plant tissue usually due to insect or mite parasites or fungi and sometimes forming an important source of tannin"
+      ],
+      [
+        "a skin sore caused by chronic irritation",
+        "a cause or state of exasperation",
+        "flaw"
+      ]
+    ]
+  },
+  {
+    "word": "gallant",
+    "pos": "adj.",
+    "example": "_____ efforts against the enemy",
+    "definition": [
+      [
+        "showy in dress or bearing : smart",
+        "splendid, stately",
+        "spirited, brave"
+      ]
+    ]
+  },
+  {
+    "word": "galley",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a ship or boat propelled solely or chiefly by oars: such as",
+        "a long low ship used for war and trading especially in the Mediterranean Sea from the Middle Ages to the 19th century; also : galleass",
+        "a warship of classical antiquity"
+      ]
+    ]
+  },
+  {
+    "word": "gallon",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a unit of liquid capacity equal to 231 cubic inches or four quarts"
+      ]
+    ]
+  },
+  {
+    "word": "galvanize",
+    "pos": "v.",
+    "example": "an issue that would _____ public opinion",
+    "definition": [
+      [
+        "to subject to the action of an electric current especially for the purpose of stimulating physiologically",
+        "to stimulate or excite as if by an electric shock",
+        "to coat (iron or steel) with zinc; especially : to immerse in molten zinc to produce a coating of zinc-iron alloy"
+      ]
+    ]
+  },
+  {
+    "word": "gamble",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to play a game for money or property",
+        "to bet on an uncertain outcome",
+        "to stake something on a contingency : take a chance"
+      ]
+    ]
+  },
+  {
+    "word": "gamble",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an act having an element of risk",
+        "something chancy",
+        "the playing of a game of chance for stakes"
+      ]
+    ]
+  },
+  {
+    "word": "gambol",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a skipping or leaping about in play"
+      ]
+    ]
+  },
+  {
+    "word": "gambol",
+    "pos": "v.",
+    "example": "",
+    "definition": [
+      [
+        "to skip about in play : frisk, frolic"
+      ]
+    ]
+  },
+  {
+    "word": "gangway",
+    "pos": "n.",
+    "example": "There is no continuity between this usage, first attested in 1688, and Old English gangweg, attested once.",
+    "definition": [
+      [
+        "passageway; especially : a temporary way of planks",
+        "either of the sides of the upper deck of a ship",
+        "the opening by which a ship is boarded"
+      ]
+    ]
+  },
+  {
+    "word": "gape",
+    "pos": "v.",
+    "example": "The dull lecture made the students _____.",
+    "definition": [
+      [
+        "to open the mouth wide",
+        "to open or part widely",
+        "to gaze stupidly or in open-mouthed surprise or wonder"
+      ]
+    ]
+  },
+  {
+    "word": "garble",
+    "pos": "v.",
+    "example": "_____ a story",
+    "definition": [
+      [
+        "to so alter or distort as to create a wrong impression or change the meaning",
+        "to introduce textual error into (a message) by inaccurate encipherment, transmission, or decipherment",
+        "to sift impurities from"
+      ]
+    ]
+  },
+  {
+    "word": "garbled",
+    "pos": "adj.",
+    "example": "Since the algorithm relies on the absolute accuracy of everything it has read to build the file, _____ information could lead to any number of mistakes.",
+    "definition": [
+      [
+        "made unclear or confusing : distorted or mixed up"
+      ]
+    ]
+  },
+  {
+    "word": "gardenia",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "any of a large genus (Gardenia) of Old World tropical trees and shrubs of the madder family with showy fragrant white or yellow flowers"
+      ]
+    ]
+  },
+  {
+    "word": "gargantuan",
+    "pos": "adj.",
+    "example": "_____ waterfalls",
+    "definition": [
+      [
+        "tremendous in size, volume, or degree : gigantic, colossal"
+      ]
+    ]
+  },
+  {
+    "word": "gargoyle",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a spout in the form of a grotesque human or animal figure projecting from a roof gutter to throw rainwater clear of a building",
+        "a grotesquely carved figure",
+        "a person with an ugly face"
+      ]
+    ]
+  },
+  {
+    "word": "garish",
+    "pos": "adj.",
+    "example": "_____ neon signs",
+    "definition": [
+      [
+        "clothed in vivid colors",
+        "excessively or disturbingly vivid",
+        "offensively or distressingly bright : glaring"
+      ]
+    ]
+  },
+  {
+    "word": "garment",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "an article of clothing"
+      ]
+    ]
+  },
+  {
+    "word": "garner",
+    "pos": "v.",
+    "example": "volumes in which he has _____ the fruits of his lifetime labors",
+    "definition": [
+      [
+        "to gather into storage",
+        "to deposit as if in a granary",
+        "to acquire by effort : earn"
+      ]
+    ]
+  },
+  {
+    "word": "garnish",
+    "pos": "v.",
+    "example": "_____ the fish with parsley leaves",
+    "definition": [
+      [
+        "decorate, embellish",
+        "to add decorative or savory touches to (food or drink)",
+        "to equip with accessories : furnish"
+      ]
+    ]
+  },
+  {
+    "word": "garrulity",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "the quality or state of being garrulous"
+      ]
+    ]
+  },
+  {
+    "word": "garrulous",
+    "pos": "adj.",
+    "example": "Salman grew ever more _____ as the yellow liquid in the bottle went down; Baal couldn't recall when he'd last heard anyone talk up such a storm.",
+    "definition": [
+      [
+        "given to prosy, rambling, or tedious loquacity : pointlessly or annoyingly talkative",
+        "wordy"
+      ]
+    ]
+  },
+  {
+    "word": "gaseous",
+    "pos": "adj.",
+    "example": "trick phrases and _____ circumlocutions",
+    "definition": [
+      [
+        "having the form of or being gas; also : of or relating to gases",
+        "lacking substance or solidity",
+        "gassy"
+      ]
+    ]
+  },
+  {
+    "word": "gash",
+    "pos": "n.",
+    "example": "cut a _____ through the forest",
+    "definition": [
+      [
+        "a deep long cut in flesh",
+        "a deep narrow depression or cut"
+      ]
+    ]
+  },
+  {
+    "word": "gasification",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "conversion into gas; especially : conversion of coal into natural gas"
+      ]
+    ]
+  },
+  {
+    "word": "gaucherie",
+    "pos": "n.",
+    "example": "",
+    "definition": [
+      [
+        "a tactless or awkward act"
+      ]
+    ]
+  },
+  {
+    "word": "gaudy",
+    "pos": "adj.",
+    "example": "a _____ batting average",
+    "definition": [
+      [
+        "ostentatiously or tastelessly ornamented",
+        "marked by extravagance or sometimes tasteless showiness : outlandish; also : exceptional"
+      ]
+    ]
   }
 ]
