@@ -3,11 +3,12 @@ import os
 import json
 import re
 from dotenv import load_dotenv
+import copy
 
 load_dotenv()
 api_key = os.getenv("Dictionary_API_key")
 WORD_FILE = './data/word.json'
-OUTPUT_FILE = './data/testOutput.json'
+OUTPUT_FILE = './data/output.json'
 translation_of_ptos = {"n.": "noun", "adj.": "adjective", "adv.": "adverb", "v.": "verb"}
 
 def get_res(word, ptos):
@@ -143,9 +144,10 @@ def get_def(word, data, pos):
             print(word, "no fl label!")
 
     return definition
+#===================================================================================
 
 try:
-    target = "dominate"
+    target = "gauge"
     endCount = 200
     startFlag = False
     target_index = 0
@@ -155,7 +157,6 @@ try:
         for item in data:
             word = item["word"]
             pos = item["pos"]
-            defNoneFlag = False
             if item["word"] == target and startFlag == False:
                 startFlag = True
             if count == endCount:
@@ -165,19 +166,20 @@ try:
                     res = get_res(item["word"], item["pos"])
                     example = get_one_example(item["word"], res, item["pos"])
                     definition = get_def(item["word"], res, item["pos"])
-                    if definition != [[]] and definition != []:
-                        item["example"] = example
-                        item["definition"] = definition
-                    else:
-                        defNoneFlag = True
+                    item["example"] = example
+                    item["definition"] = definition
                 count += 1
-            if defNoneFlag:
-                print(f'delete {item["word"]}')
-                data.remove(item)
             if not startFlag:
                 target_index += 1
 
     data = data[target_index:target_index + count]
+    data_copy = copy.copy(data)
+    for i in data_copy:
+        if ('definition'in i)and i['definition'] != [[]] and i['definition'] != []:
+            continue
+        else:
+            print(f'delete {i["word"]}')
+            data.remove(i)
     try:
     # Read existing JSON data from the file
         with open(OUTPUT_FILE, 'r', encoding='utf-8') as json_file:
@@ -202,10 +204,6 @@ try:
 except FileNotFoundError:
     print(f'File not found: {WORD_FILE}')
 except KeyError:
-    print(f'Invalid part of speech! word: {word} pos: {pos}')
+    print(f'Invalid part of speech! word: {i["word"]} pos: {i.get("pos", "N/A")}')
 except Exception as e:
-    print(f'Error in main: {e}')
-
-
-
-
+    print(f'Error in main: {e} word: {item}')
